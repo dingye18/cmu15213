@@ -1,0 +1,5924 @@
+1
+00:00:04,160 --> 00:00:06,390
+good afternoon everyone
+
+2
+00:00:06,390 --> 00:00:09,520
+[Applause]
+
+3
+00:00:09,950 --> 00:00:15,269
+<font color="#E5E5E5">welcome</font><font color="#CCCCCC"> to the ball 2017</font><font color="#E5E5E5"> offering of 15</font>
+
+4
+00:00:15,269 --> 00:00:18,990
+to 13 as<font color="#CCCCCC"> well as</font><font color="#E5E5E5"> 18 to 13</font><font color="#CCCCCC"> and there</font>
+
+5
+00:00:18,990 --> 00:00:21,150
+might be a few students<font color="#E5E5E5"> here from 15</font><font color="#CCCCCC"> 5</font>
+
+6
+00:00:21,150 --> 00:00:24,420
+<font color="#CCCCCC">13 as well so as you know this course</font>
+
+7
+00:00:24,420 --> 00:00:26,970
+has<font color="#E5E5E5"> three</font><font color="#CCCCCC"> different numbers</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> there's</font>
+
+8
+00:00:26,970 --> 00:00:29,279
+slight differences between<font color="#E5E5E5"> the graduate</font>
+
+9
+00:00:29,279 --> 00:00:31,320
+version<font color="#E5E5E5"> 513 and the undergraduate</font>
+
+10
+00:00:31,320 --> 00:00:34,410
+versions 213<font color="#E5E5E5"> but for the most</font><font color="#CCCCCC"> part we</font>
+
+11
+00:00:34,410 --> 00:00:36,809
+run<font color="#E5E5E5"> this is one sort of monolithic</font>
+
+12
+00:00:36,809 --> 00:00:39,120
+course<font color="#E5E5E5"> one of</font><font color="#CCCCCC"> the largest courses on</font>
+
+13
+00:00:39,120 --> 00:00:43,170
+<font color="#CCCCCC">campus in fact and</font><font color="#E5E5E5"> so this is of course</font>
+
+14
+00:00:43,170 --> 00:00:45,329
+my<font color="#CCCCCC"> name is Randy Bryant you might have</font>
+
+15
+00:00:45,329 --> 00:00:46,950
+seen my<font color="#E5E5E5"> name on the book</font><font color="#CCCCCC"> that you've</font>
+
+16
+00:00:46,950 --> 00:00:50,340
+bought or<font color="#E5E5E5"> I was one of</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> first people</font>
+
+17
+00:00:50,340 --> 00:00:53,090
+<font color="#E5E5E5">to teach this course many years</font><font color="#CCCCCC"> ago and</font>
+
+18
+00:00:53,090 --> 00:00:55,379
+I've taught it I'm not<font color="#E5E5E5"> sure how</font><font color="#CCCCCC"> many</font>
+
+19
+00:00:55,379 --> 00:00:58,260
+<font color="#E5E5E5">times but a lot but I still really</font>
+
+20
+00:00:58,260 --> 00:01:01,260
+enjoyed this<font color="#E5E5E5"> course and I enjoy that the</font>
+
+21
+00:01:01,260 --> 00:01:03,239
+students<font color="#CCCCCC"> really</font><font color="#E5E5E5"> find and get</font><font color="#CCCCCC"> a lot out</font>
+
+22
+00:01:03,239 --> 00:01:05,188
+of<font color="#E5E5E5"> this course it means a lot to me and</font>
+
+23
+00:01:05,188 --> 00:01:08,760
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> my co-author David Cameron who hasn't</font>
+
+24
+00:01:08,760 --> 00:01:09,990
+<font color="#E5E5E5">been teaching this course of the last</font>
+
+25
+00:01:09,990 --> 00:01:11,640
+several<font color="#E5E5E5"> years the results</font><font color="#CCCCCC"> were taught at</font>
+
+26
+00:01:11,640 --> 00:01:15,930
+many<font color="#E5E5E5"> times</font><font color="#CCCCCC"> today I are two</font><font color="#E5E5E5"> co</font>
+
+27
+00:01:15,930 --> 00:01:17,400
+instructors as well
+
+28
+00:01:17,400 --> 00:01:21,150
+Phil Gibbons is also going to<font color="#E5E5E5"> be</font><font color="#CCCCCC"> giving</font>
+
+29
+00:01:21,150 --> 00:01:24,509
+lectures<font color="#CCCCCC"> just like I am and then Brian</font>
+
+30
+00:01:24,509 --> 00:01:27,689
+<font color="#CCCCCC">reowing is nominally in charge of the</font>
+
+31
+00:01:27,689 --> 00:01:30,450
+<font color="#E5E5E5">graduate of part of</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> course</font><font color="#CCCCCC"> but</font>
+
+32
+00:01:30,450 --> 00:01:32,280
+again we all work together in<font color="#E5E5E5"> many</font>
+
+33
+00:01:32,280 --> 00:01:42,659
+aspects<font color="#E5E5E5"> of it so the first day I was</font>
+
+34
+00:01:42,659 --> 00:01:46,920
+preparing lectures for this course<font color="#E5E5E5"> about</font>
+
+35
+00:01:46,920 --> 00:01:50,509
+<font color="#CCCCCC">when you were born</font>
+
+36
+00:01:51,539 --> 00:01:54,659
+I typed in that<font color="#E5E5E5"> number and I said</font><font color="#CCCCCC"> I have</font>
+
+37
+00:01:54,659 --> 00:01:57,840
+typed this number a lot of<font color="#CCCCCC"> times 1</font><font color="#E5E5E5"> 5 2</font><font color="#CCCCCC"> 1</font>
+
+38
+00:01:57,840 --> 00:02:01,560
+<font color="#CCCCCC">3</font><font color="#E5E5E5"> and that was</font><font color="#CCCCCC"> known</font><font color="#E5E5E5"> behold I got this</font>
+
+39
+00:02:01,560 --> 00:02:04,740
+idea<font color="#E5E5E5"> ah here's a tagline for the course</font>
+
+40
+00:02:04,740 --> 00:02:08,250
+we<font color="#CCCCCC"> have</font><font color="#E5E5E5"> seen you exhibit</font><font color="#CCCCCC"> I just hooked</font>
+
+41
+00:02:08,250 --> 00:02:10,919
+up today 18 to 13 doesn't exist<font color="#CCCCCC"> as an</font>
+
+42
+00:02:10,919 --> 00:02:14,160
+area code<font color="#E5E5E5"> and 15 5 15 is a somewhere in</font>
+
+43
+00:02:14,160 --> 00:02:17,489
+Kansas<font color="#CCCCCC"> so it doesn't</font><font color="#E5E5E5"> really quite as</font>
+
+44
+00:02:17,489 --> 00:02:19,860
+well there but it works<font color="#E5E5E5"> great for for</font>
+
+45
+00:02:19,860 --> 00:02:23,849
+Pittsburgh<font color="#E5E5E5"> so today you know it's an</font>
+
+46
+00:02:23,849 --> 00:02:26,700
+introductory<font color="#E5E5E5"> but true so one thing is</font><font color="#CCCCCC"> to</font>
+
+47
+00:02:26,700 --> 00:02:28,500
+<font color="#CCCCCC">sort of do</font><font color="#E5E5E5"> the big picture what's this</font>
+
+48
+00:02:28,500 --> 00:02:31,379
+course<font color="#E5E5E5"> about why are you in what we hope</font>
+
+49
+00:02:31,379 --> 00:02:34,110
+you get from<font color="#E5E5E5"> it what it will give you</font>
+
+50
+00:02:34,110 --> 00:02:36,420
+for the<font color="#CCCCCC"> future that kind of stuff where</font>
+
+51
+00:02:36,420 --> 00:02:38,400
+did some of the major course themes and
+
+52
+00:02:38,400 --> 00:02:41,160
+then another<font color="#E5E5E5"> part we're gonna do a</font>
+
+53
+00:02:41,160 --> 00:02:43,349
+<font color="#E5E5E5">special discussion</font><font color="#CCCCCC"> about academic</font>
+
+54
+00:02:43,349 --> 00:02:45,540
+integrity<font color="#E5E5E5"> because</font><font color="#CCCCCC"> that's been a major</font>
+
+55
+00:02:45,540 --> 00:02:47,579
+<font color="#E5E5E5">issue for this course and for other</font>
+
+56
+00:02:47,579 --> 00:02:50,879
+<font color="#CCCCCC">courses</font><font color="#E5E5E5"> in we try to address and bright</font>
+
+57
+00:02:50,879 --> 00:02:53,760
+head-on as well as some topics about
+
+58
+00:02:53,760 --> 00:02:55,889
+logistics<font color="#E5E5E5"> and policies so that's our</font>
+
+59
+00:02:55,889 --> 00:03:01,920
+agenda from<font color="#CCCCCC"> scale so</font><font color="#E5E5E5"> um this course is</font>
+
+60
+00:03:01,920 --> 00:03:03,510
+you know<font color="#E5E5E5"> it's called introduction</font><font color="#CCCCCC"> to</font>
+
+61
+00:03:03,510 --> 00:03:05,430
+computer systems<font color="#E5E5E5"> which is a kind of</font>
+
+62
+00:03:05,430 --> 00:03:07,739
+bland in<font color="#E5E5E5"> generic name but the idea of</font>
+
+63
+00:03:07,739 --> 00:03:10,290
+<font color="#E5E5E5">this course is for</font><font color="#CCCCCC"> the most part many of</font>
+
+64
+00:03:10,290 --> 00:03:13,109
+you have sort of<font color="#CCCCCC"> touched computers of</font>
+
+65
+00:03:13,109 --> 00:03:15,030
+this somewhat abstract away you've
+
+66
+00:03:15,030 --> 00:03:17,880
+written<font color="#CCCCCC"> code</font><font color="#E5E5E5"> maybe in Python</font><font color="#CCCCCC"> or other</font>
+
+67
+00:03:17,880 --> 00:03:20,519
+languages<font color="#E5E5E5"> where you're fairly far</font>
+
+68
+00:03:20,519 --> 00:03:22,500
+removed from what's really going<font color="#E5E5E5"> on into</font>
+
+69
+00:03:22,500 --> 00:03:25,859
+the machine in terms<font color="#CCCCCC"> of what bits are</font>
+
+70
+00:03:25,859 --> 00:03:28,500
+being<font color="#E5E5E5"> set what bytes are being stored</font>
+
+71
+00:03:28,500 --> 00:03:30,840
+where is it being put what packets are
+
+72
+00:03:30,840 --> 00:03:33,090
+being<font color="#E5E5E5"> sent across networks and things</font>
+
+73
+00:03:33,090 --> 00:03:35,250
+<font color="#E5E5E5">and so the purpose</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> this course is to</font>
+
+74
+00:03:35,250 --> 00:03:37,290
+kind of get you<font color="#CCCCCC"> started on the road to</font>
+
+75
+00:03:37,290 --> 00:03:39,840
+understanding<font color="#CCCCCC"> more about what's</font><font color="#E5E5E5"> really</font>
+
+76
+00:03:39,840 --> 00:03:43,459
+inside that<font color="#E5E5E5"> box and how it works and</font>
+
+77
+00:03:43,459 --> 00:03:45,959
+there's a lot to<font color="#CCCCCC"> be gained from that</font>
+
+78
+00:03:45,959 --> 00:03:49,230
+<font color="#CCCCCC">just on its own and one</font><font color="#E5E5E5"> of the things we</font>
+
+79
+00:03:49,230 --> 00:03:51,209
+like<font color="#E5E5E5"> about this course even</font><font color="#CCCCCC"> if this is</font>
+
+80
+00:03:51,209 --> 00:03:52,980
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> only systems course you</font><font color="#E5E5E5"> ever take</font>
+
+81
+00:03:52,980 --> 00:03:55,319
+<font color="#CCCCCC">your life</font><font color="#E5E5E5"> you'll walk out</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> this course</font>
+
+82
+00:03:55,319 --> 00:03:58,590
+with some very useful stuff that you can
+
+83
+00:03:58,590 --> 00:04:00,390
+apply<font color="#E5E5E5"> to your job to your further</font>
+
+84
+00:04:00,390 --> 00:04:03,709
+studies<font color="#E5E5E5"> whatever your endeavors are</font>
+
+85
+00:04:03,709 --> 00:04:07,680
+because yo<font color="#E5E5E5"> you'll understand more you</font>
+
+86
+00:04:07,680 --> 00:04:09,660
+know what<font color="#E5E5E5"> quirky features are happening</font>
+
+87
+00:04:09,660 --> 00:04:12,120
+when things out<font color="#E5E5E5"> right how can</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> kind of</font>
+
+88
+00:04:12,120 --> 00:04:14,910
+dig in and<font color="#CCCCCC"> catch up some code to</font><font color="#E5E5E5"> make</font>
+
+89
+00:04:14,910 --> 00:04:17,250
+things work that wouldn't other work and
+
+90
+00:04:17,250 --> 00:04:19,890
+just that<font color="#E5E5E5"> kind of stuff and then the</font>
+
+91
+00:04:19,890 --> 00:04:21,630
+other part of this<font color="#CCCCCC"> is for those of you</font>
+
+92
+00:04:21,630 --> 00:04:23,840
+who go on and take other courses
+
+93
+00:04:23,840 --> 00:04:27,410
+<font color="#CCCCCC">particularly</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> computer science</font><font color="#E5E5E5"> and ECE</font>
+
+94
+00:04:27,410 --> 00:04:30,780
+in networking compilers<font color="#E5E5E5"> operating</font>
+
+95
+00:04:30,780 --> 00:04:33,690
+systems distributed<font color="#E5E5E5"> systems computer</font>
+
+96
+00:04:33,690 --> 00:04:37,230
+<font color="#E5E5E5">graphics</font><font color="#CCCCCC"> embedded systems</font><font color="#E5E5E5"> computer</font>
+
+97
+00:04:37,230 --> 00:04:39,690
+architecture all those topics<font color="#E5E5E5"> this</font>
+
+98
+00:04:39,690 --> 00:04:42,320
+course is designed to sort<font color="#E5E5E5"> of be the</font>
+
+99
+00:04:42,320 --> 00:04:45,930
+your<font color="#CCCCCC"> entre point</font><font color="#E5E5E5"> and all those courses</font>
+
+100
+00:04:45,930 --> 00:04:48,930
+<font color="#CCCCCC">over the years have have evolved to very</font>
+
+101
+00:04:48,930 --> 00:04:51,120
+much build on the assumption that you've
+
+102
+00:04:51,120 --> 00:04:53,850
+mastered the<font color="#CCCCCC"> material in this</font><font color="#E5E5E5"> course</font><font color="#CCCCCC"> for</font>
+
+103
+00:04:53,850 --> 00:04:57,210
+them<font color="#E5E5E5"> to get</font><font color="#CCCCCC"> started</font><font color="#E5E5E5"> in fact the origins</font>
+
+104
+00:04:57,210 --> 00:05:00,900
+of<font color="#E5E5E5"> this course was to help students get</font>
+
+105
+00:05:00,900 --> 00:05:03,840
+ready for the<font color="#E5E5E5"> operating systems of</font>
+
+106
+00:05:03,840 --> 00:05:13,070
+course<font color="#CCCCCC"> for</font><font color="#E5E5E5"> so it's very important you</font>
+
+107
+00:05:13,070 --> 00:05:15,750
+<font color="#E5E5E5">they</font><font color="#CCCCCC"> certainly this twofold</font><font color="#E5E5E5"> one is</font><font color="#CCCCCC"> it's</font>
+
+108
+00:05:15,750 --> 00:05:18,330
+good right<font color="#CCCCCC"> from the start</font><font color="#E5E5E5"> and second is</font>
+
+109
+00:05:18,330 --> 00:05:22,010
+it will be really<font color="#E5E5E5"> helpful</font><font color="#CCCCCC"> for the future</font>
+
+110
+00:05:22,010 --> 00:05:26,280
+um and part<font color="#CCCCCC"> of the reason is in an ideal</font>
+
+111
+00:05:26,280 --> 00:05:28,260
+<font color="#CCCCCC">world we</font><font color="#E5E5E5"> shouldn't have to know</font><font color="#CCCCCC"> our</font><font color="#E5E5E5"> this</font>
+
+112
+00:05:28,260 --> 00:05:30,060
+stuff things would just<font color="#E5E5E5"> work the way</font>
+
+113
+00:05:30,060 --> 00:05:32,340
+they're supposed<font color="#CCCCCC"> to and you'd</font><font color="#E5E5E5"> write</font>
+
+114
+00:05:32,340 --> 00:05:34,320
+programs and you'd<font color="#E5E5E5"> run them and who just</font>
+
+115
+00:05:34,320 --> 00:05:37,290
+do what you want it to<font color="#CCCCCC"> do</font><font color="#E5E5E5"> and all</font><font color="#CCCCCC"> that</font>
+
+116
+00:05:37,290 --> 00:05:39,450
+stuff that<font color="#CCCCCC"> maybe you should see in</font>
+
+117
+00:05:39,450 --> 00:05:42,210
+<font color="#E5E5E5">science</font><font color="#CCCCCC"> fiction movie but the reality</font><font color="#E5E5E5"> is</font>
+
+118
+00:05:42,210 --> 00:05:43,740
+of course<font color="#CCCCCC"> things never quite work</font><font color="#E5E5E5"> the</font>
+
+119
+00:05:43,740 --> 00:05:45,840
+way they<font color="#E5E5E5"> should</font><font color="#CCCCCC"> and so if you really</font>
+
+120
+00:05:45,840 --> 00:05:48,539
+<font color="#E5E5E5">want to fix things that are broken if</font>
+
+121
+00:05:48,539 --> 00:05:51,990
+you<font color="#E5E5E5"> want to make things</font><font color="#CCCCCC"> sure the things</font>
+
+122
+00:05:51,990 --> 00:05:53,910
+are secure you<font color="#E5E5E5"> want to add some features</font>
+
+123
+00:05:53,910 --> 00:05:56,580
+<font color="#CCCCCC">and our otherwise available you have to</font>
+
+124
+00:05:56,580 --> 00:06:00,360
+understand more how<font color="#CCCCCC"> things work and you</font>
+
+125
+00:06:00,360 --> 00:06:02,130
+know computer science and in<font color="#E5E5E5"> fact all</font>
+
+126
+00:06:02,130 --> 00:06:03,919
+engineering is based on a set of
+
+127
+00:06:03,919 --> 00:06:08,039
+<font color="#CCCCCC">principled abstractions</font><font color="#E5E5E5"> that we can for</font>
+
+128
+00:06:08,039 --> 00:06:10,040
+<font color="#CCCCCC">example in physics you</font><font color="#E5E5E5"> can understand</font>
+
+129
+00:06:10,040 --> 00:06:12,290
+Newtonian<font color="#CCCCCC"> mechanics and realize it's an</font>
+
+130
+00:06:12,290 --> 00:06:15,530
+abstraction<font color="#CCCCCC"> and it works a lot and</font><font color="#E5E5E5"> you</font>
+
+131
+00:06:15,530 --> 00:06:17,120
+<font color="#E5E5E5">can do a lot</font><font color="#CCCCCC"> of stuff with it</font><font color="#E5E5E5"> until</font>
+
+132
+00:06:17,120 --> 00:06:21,080
+<font color="#CCCCCC">you're going really fast</font><font color="#E5E5E5"> speed white and</font>
+
+133
+00:06:21,080 --> 00:06:22,280
+all<font color="#E5E5E5"> of a sudden</font><font color="#CCCCCC"> it doesn't</font><font color="#E5E5E5"> work so well</font>
+
+134
+00:06:22,280 --> 00:06:24,830
+<font color="#CCCCCC">so you know that principle is is</font><font color="#E5E5E5"> fairly</font>
+
+135
+00:06:24,830 --> 00:06:26,540
+<font color="#E5E5E5">profound because science and engineering</font>
+
+136
+00:06:26,540 --> 00:06:28,670
+<font color="#E5E5E5">that there's some layer of abstraction</font>
+
+137
+00:06:28,670 --> 00:06:34,340
+that<font color="#E5E5E5"> works</font><font color="#CCCCCC"> 90% of the</font><font color="#E5E5E5"> time</font><font color="#CCCCCC"> and it's</font><font color="#E5E5E5"> very</font>
+
+138
+00:06:34,340 --> 00:06:36,290
+<font color="#E5E5E5">useful</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> thinking that terms of that</font>
+
+139
+00:06:36,290 --> 00:06:38,390
+<font color="#E5E5E5">abstraction but the distractions don't</font>
+
+140
+00:06:38,390 --> 00:06:40,220
+<font color="#E5E5E5">always hold and that happens over and</font>
+
+141
+00:06:40,220 --> 00:06:42,470
+<font color="#CCCCCC">over again</font><font color="#E5E5E5"> in computer</font><font color="#CCCCCC"> science and</font>
+
+142
+00:06:42,470 --> 00:06:44,870
+computer<font color="#E5E5E5"> engineering</font><font color="#CCCCCC"> and so part of this</font>
+
+143
+00:06:44,870 --> 00:06:46,820
+<font color="#CCCCCC">is to sort of explore the boundaries</font>
+
+144
+00:06:46,820 --> 00:06:48,890
+between the<font color="#E5E5E5"> usual abstractions you get</font>
+
+145
+00:06:48,890 --> 00:06:51,800
+as a programmer and what's<font color="#E5E5E5"> going on more</font>
+
+146
+00:06:51,800 --> 00:06:53,420
+of<font color="#E5E5E5"> the hardware</font><font color="#CCCCCC"> and the system software</font>
+
+147
+00:06:53,420 --> 00:06:58,430
+level<font color="#E5E5E5"> to be able to</font><font color="#CCCCCC"> be a factor so let's</font>
+
+148
+00:06:58,430 --> 00:07:01,820
+just give<font color="#E5E5E5"> you some examples</font><font color="#CCCCCC"> and the</font>
+
+149
+00:07:01,820 --> 00:07:04,130
+<font color="#E5E5E5">saying I have hints are not integers you</font>
+
+150
+00:07:04,130 --> 00:07:06,200
+know when you declare<font color="#E5E5E5"> I'm very boy</font><font color="#CCCCCC"> C</font>
+
+151
+00:07:06,200 --> 00:07:11,630
+called<font color="#E5E5E5"> you int and so for</font><font color="#CCCCCC"> example I'm</font>
+
+152
+00:07:11,630 --> 00:07:14,060
+<font color="#E5E5E5">learned in algebra that if you square a</font>
+
+153
+00:07:14,060 --> 00:07:16,400
+number<font color="#E5E5E5"> it should</font><font color="#CCCCCC"> always be greater</font><font color="#E5E5E5"> than</font>
+
+154
+00:07:16,400 --> 00:07:19,040
+<font color="#CCCCCC">or equal</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> zero</font><font color="#E5E5E5"> if it's either a real</font>
+
+155
+00:07:19,040 --> 00:07:23,620
+<font color="#E5E5E5">number a rational number an integer um</font>
+
+156
+00:07:23,620 --> 00:07:31,970
+so let's test this hypothesis and so I
+
+157
+00:07:31,970 --> 00:07:34,100
+<font color="#E5E5E5">actually wrote this really simple</font>
+
+158
+00:07:34,100 --> 00:07:39,650
+<font color="#CCCCCC">program here OS Q dot C</font><font color="#E5E5E5"> and what it does</font>
+
+159
+00:07:39,650 --> 00:07:44,200
+is it<font color="#E5E5E5"> has one function</font><font color="#CCCCCC"> can you see that</font>
+
+160
+00:08:11,020 --> 00:08:15,350
+well<font color="#CCCCCC"> there oh that it just computes</font><font color="#E5E5E5"> X</font>
+
+161
+00:08:15,350 --> 00:08:18,710
+star X and we can<font color="#E5E5E5"> run this you see it</font>
+
+162
+00:08:18,710 --> 00:08:21,860
+takes it it reads values off the<font color="#CCCCCC"> command</font>
+
+163
+00:08:21,860 --> 00:08:24,319
+<font color="#CCCCCC">line</font><font color="#E5E5E5"> arguments so I can run it on</font><font color="#CCCCCC"> a</font>
+
+164
+00:08:24,319 --> 00:08:31,430
+number<font color="#E5E5E5"> like</font><font color="#CCCCCC"> 40,000 and it returns</font><font color="#E5E5E5"> 1 6</font>
+
+165
+00:08:31,430 --> 00:08:33,200
+<font color="#E5E5E5">followed by a lot of</font><font color="#CCCCCC"> zeros which is what</font>
+
+166
+00:08:33,200 --> 00:08:37,599
+you'd<font color="#CCCCCC"> expect</font><font color="#E5E5E5"> but what if I run this on</font>
+
+167
+00:08:37,599 --> 00:08:40,789
+<font color="#CCCCCC">50,000 so it should</font><font color="#E5E5E5"> be</font><font color="#CCCCCC"> 2</font><font color="#E5E5E5"> 5 in a bunch of</font>
+
+168
+00:08:40,789 --> 00:08:49,580
+<font color="#E5E5E5">zeros but no it's</font><font color="#CCCCCC"> minus 170 949 6 7 2 9</font>
+
+169
+00:08:49,580 --> 00:08:51,920
+6<font color="#E5E5E5"> so that doesn't look like</font><font color="#CCCCCC"> the square</font>
+
+170
+00:08:51,920 --> 00:08:56,000
+<font color="#CCCCCC">of any number</font><font color="#E5E5E5"> with</font><font color="#CCCCCC"> the 5 in a lot</font><font color="#E5E5E5"> of</font>
+
+171
+00:08:56,000 --> 00:09:00,279
+zeros it's<font color="#E5E5E5"> negative it</font><font color="#CCCCCC"> has no</font><font color="#E5E5E5"> zeros and</font>
+
+172
+00:09:00,279 --> 00:09:04,640
+something's funky so this is<font color="#E5E5E5"> an</font><font color="#CCCCCC"> example</font>
+
+173
+00:09:04,640 --> 00:09:07,880
+<font color="#E5E5E5">of hints are not integers the reason of</font>
+
+174
+00:09:07,880 --> 00:09:11,450
+<font color="#CCCCCC">course is that on this</font><font color="#E5E5E5"> machine this is</font><font color="#CCCCCC"> a</font>
+
+175
+00:09:11,450 --> 00:09:15,890
+<font color="#E5E5E5">Linux machine that uses a 32-bit word</font>
+
+176
+00:09:15,890 --> 00:09:17,899
+<font color="#E5E5E5">size so all numbers have to</font><font color="#CCCCCC"> be</font>
+
+177
+00:09:17,899 --> 00:09:20,390
+represented all<font color="#CCCCCC"> the numbers that are in</font>
+
+178
+00:09:20,390 --> 00:09:23,690
+<font color="#E5E5E5">are represented in 32 bits and the</font>
+
+179
+00:09:23,690 --> 00:09:26,240
+square of<font color="#E5E5E5"> 50,000 is too big to fit in</font>
+
+180
+00:09:26,240 --> 00:09:28,790
+that representation<font color="#CCCCCC"> so what happens is</font>
+
+181
+00:09:28,790 --> 00:09:33,070
+it overflows and that causes<font color="#CCCCCC"> it to</font>
+
+182
+00:09:33,070 --> 00:09:40,190
+change the bit pattern<font color="#E5E5E5"> very much so you</font>
+
+183
+00:09:40,190 --> 00:09:41,540
+can imagine this could<font color="#E5E5E5"> get you into</font>
+
+184
+00:09:41,540 --> 00:09:43,130
+really big trouble<font color="#E5E5E5"> if you are like</font>
+
+185
+00:09:43,130 --> 00:09:46,579
+controlling<font color="#E5E5E5"> a rocket and you want to go</font>
+
+186
+00:09:46,579 --> 00:09:48,770
+at the square<font color="#E5E5E5"> of 50,000 and it was</font>
+
+187
+00:09:48,770 --> 00:09:52,160
+sending<font color="#E5E5E5"> you somewhere negative and in</font>
+
+188
+00:09:52,160 --> 00:09:54,560
+<font color="#E5E5E5">fact there's been examples of exactly</font>
+
+189
+00:09:54,560 --> 00:09:57,880
+<font color="#E5E5E5">that happening with the Rockets going</font>
+
+190
+00:09:57,880 --> 00:10:00,890
+bonkers<font color="#E5E5E5"> because it was giving</font><font color="#CCCCCC"> some bad</font>
+
+191
+00:10:00,890 --> 00:10:04,100
+numeric values due to overflow so this
+
+192
+00:10:04,100 --> 00:10:06,140
+is an example of where the abstraction
+
+193
+00:10:06,140 --> 00:10:09,320
+is not working<font color="#CCCCCC"> now</font><font color="#E5E5E5"> you might if you're</font>
+
+194
+00:10:09,320 --> 00:10:11,630
+used to<font color="#E5E5E5"> Python</font><font color="#CCCCCC"> you'd say wait a minute</font>
+
+195
+00:10:11,630 --> 00:10:15,610
+I've done stuff<font color="#CCCCCC"> like</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> all the time</font>
+
+196
+00:10:21,660 --> 00:10:24,310
+and it works just<font color="#CCCCCC"> fine it in fact</font><font color="#E5E5E5"> you</font>
+
+197
+00:10:24,310 --> 00:10:32,110
+can do some<font color="#E5E5E5"> really big</font><font color="#CCCCCC"> numbers and</font><font color="#E5E5E5"> it</font>
+
+198
+00:10:32,110 --> 00:10:34,269
+will<font color="#CCCCCC"> halfway keep going because</font><font color="#E5E5E5"> it uses</font>
+
+199
+00:10:34,269 --> 00:10:38,290
+<font color="#CCCCCC">a way of representing numbers that they</font>
+
+200
+00:10:38,290 --> 00:10:40,420
+just<font color="#E5E5E5"> add as many bits as it needs to</font>
+
+201
+00:10:40,420 --> 00:10:47,170
+represent that number so for<font color="#E5E5E5"> better or</font>
+
+202
+00:10:47,170 --> 00:10:49,300
+worse<font color="#CCCCCC"> python gives sort</font><font color="#E5E5E5"> of gives you</font>
+
+203
+00:10:49,300 --> 00:10:51,309
+this more<font color="#E5E5E5"> abstract wire that see</font><font color="#CCCCCC"> that's</font>
+
+204
+00:10:51,309 --> 00:10:55,329
+not about<font color="#CCCCCC"> our numbers</font><font color="#E5E5E5"> are represented</font>
+
+205
+00:10:55,329 --> 00:10:58,269
+<font color="#E5E5E5">that lets it handle very</font><font color="#CCCCCC"> large numbers</font>
+
+206
+00:10:58,269 --> 00:11:00,910
+so again an understanding what languages
+
+207
+00:11:00,910 --> 00:11:04,509
+can do one is<font color="#CCCCCC"> an important part of being</font>
+
+208
+00:11:04,509 --> 00:11:19,300
+<font color="#E5E5E5">more effective at systems if I type</font>
+
+209
+00:11:19,300 --> 00:11:21,040
+voting point numbers on the<font color="#CCCCCC"> other hand</font>
+
+210
+00:11:21,040 --> 00:11:23,350
+if I keep squaring a number it will
+
+211
+00:11:23,350 --> 00:11:26,529
+always<font color="#E5E5E5"> be positive but actually that</font>
+
+212
+00:11:26,529 --> 00:11:30,600
+turns out to<font color="#CCCCCC"> be mildly interesting</font><font color="#E5E5E5"> too</font>
+
+213
+00:11:33,660 --> 00:11:39,699
+so another property you're used to with
+
+214
+00:11:39,699 --> 00:11:41,980
+numbers is the<font color="#CCCCCC"> associative</font><font color="#E5E5E5"> property</font><font color="#CCCCCC"> of</font>
+
+215
+00:11:41,980 --> 00:11:45,309
+<font color="#E5E5E5">rithmetic</font><font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> you can for both addition</font>
+
+216
+00:11:45,309 --> 00:11:46,990
+and multiplication you can<font color="#E5E5E5"> move the</font>
+
+217
+00:11:46,990 --> 00:11:49,120
+parentheses around<font color="#E5E5E5"> and your final value</font>
+
+218
+00:11:49,120 --> 00:11:49,980
+will be the same
+
+219
+00:11:49,980 --> 00:11:53,350
+<font color="#E5E5E5">and let's see I didn't write a program</font>
+
+220
+00:11:53,350 --> 00:11:56,769
+for<font color="#CCCCCC"> this but I can fire off the program</font>
+
+221
+00:11:56,769 --> 00:11:58,720
+that you will get<font color="#E5E5E5"> to know very well in</font>
+
+222
+00:11:58,720 --> 00:12:00,970
+<font color="#E5E5E5">this course is called gdb it's called</font>
+
+223
+00:12:00,970 --> 00:12:04,569
+the<font color="#E5E5E5"> new debugger</font><font color="#CCCCCC"> so it's used to</font><font color="#E5E5E5"> help</font>
+
+224
+00:12:04,569 --> 00:12:06,309
+it's a program that lets<font color="#E5E5E5"> you've examined</font>
+
+225
+00:12:06,309 --> 00:12:08,860
+<font color="#E5E5E5">operate and execute other programs and</font>
+
+226
+00:12:08,860 --> 00:12:11,500
+see what's going on and<font color="#E5E5E5"> it has built</font>
+
+227
+00:12:11,500 --> 00:12:14,050
+into it a little interpreter so again I
+
+228
+00:12:14,050 --> 00:12:20,199
+can do my<font color="#CCCCCC"> 40,000 trick and it</font><font color="#E5E5E5"> will work</font>
+
+229
+00:12:20,199 --> 00:12:23,879
+and<font color="#E5E5E5"> if I change</font><font color="#CCCCCC"> it to 50</font>
+
+230
+00:12:27,910 --> 00:12:30,850
+it will give you<font color="#CCCCCC"> that funky result</font>
+
+231
+00:12:30,850 --> 00:12:34,850
+because<font color="#CCCCCC"> it it's also mapping the than I</font>
+
+232
+00:12:34,850 --> 00:12:35,240
+did
+
+233
+00:12:35,240 --> 00:12:37,850
+it's<font color="#E5E5E5"> the 32-bit integers so I can use</font>
+
+234
+00:12:37,850 --> 00:12:50,260
+this for a<font color="#CCCCCC"> loading</font><font color="#E5E5E5"> point as well again</font>
+
+235
+00:12:50,260 --> 00:12:52,820
+<font color="#E5E5E5">again multiply some really big numbers</font>
+
+236
+00:12:52,820 --> 00:12:58,280
+<font color="#CCCCCC">and it won't go negative on you but if</font>
+
+237
+00:12:58,280 --> 00:13:23,150
+you go<font color="#E5E5E5"> really big that's interesting so</font>
+
+238
+00:13:23,150 --> 00:13:31,550
+<font color="#E5E5E5">a</font><font color="#CCCCCC"> negative so anyways you can see not</font>
+
+239
+00:13:31,550 --> 00:13:34,220
+only way you'd expect<font color="#CCCCCC"> but what I really</font>
+
+240
+00:13:34,220 --> 00:13:35,990
+want<font color="#E5E5E5"> to show about floating point is I</font>
+
+241
+00:13:35,990 --> 00:13:39,650
+can take numbers like 10<font color="#E5E5E5"> to the 20th</font>
+
+242
+00:13:39,650 --> 00:13:45,050
+which is pretty big number and<font color="#E5E5E5"> subtract</font>
+
+243
+00:13:45,050 --> 00:13:51,110
+10 to the 20th and add some other number
+
+244
+00:13:51,110 --> 00:13:59,020
+<font color="#CCCCCC">and except</font><font color="#E5E5E5"> for 3.14 being turned into</font>
+
+245
+00:13:59,020 --> 00:14:04,550
+<font color="#CCCCCC">3.13 and a bunch of nines you see</font><font color="#E5E5E5"> that I</font>
+
+246
+00:14:04,550 --> 00:14:06,740
+got what you'd expect you take a big
+
+247
+00:14:06,740 --> 00:14:09,500
+<font color="#CCCCCC">number you</font><font color="#E5E5E5"> and it's negative than</font><font color="#CCCCCC"> 0 and</font>
+
+248
+00:14:09,500 --> 00:14:14,720
+then add 0 to 3.14 and it's fine but<font color="#CCCCCC"> if</font>
+
+249
+00:14:14,720 --> 00:14:19,570
+I take I move those parentheses around
+
+250
+00:14:25,590 --> 00:14:28,390
+then I get<font color="#CCCCCC"> zero and the reason for this</font>
+
+251
+00:14:28,390 --> 00:14:32,560
+<font color="#CCCCCC">is if I am 3.14 to</font><font color="#E5E5E5"> minus</font><font color="#CCCCCC"> ten in the</font>
+
+252
+00:14:32,560 --> 00:14:36,160
+<font color="#CCCCCC">twentieth think of scientific notation</font>
+
+253
+00:14:36,160 --> 00:14:38,320
+<font color="#CCCCCC">where you only keep some number of</font>
+
+254
+00:14:38,320 --> 00:14:40,440
+<font color="#CCCCCC">positions past a decimal point</font>
+
+255
+00:14:40,440 --> 00:14:44,410
+gently<font color="#CCCCCC"> xx kind of Dwarfs</font><font color="#E5E5E5"> 3.14 and so</font>
+
+256
+00:14:44,410 --> 00:14:46,690
+that some there on the right guy
+
+257
+00:14:46,690 --> 00:14:49,650
+computed is just minus<font color="#E5E5E5"> 1</font><font color="#CCCCCC"> to the 20th or</font>
+
+258
+00:14:49,650 --> 00:14:54,460
+10 to 20 and I<font color="#E5E5E5"> add that to</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> 10 to the</font>
+
+259
+00:14:54,460 --> 00:14:57,610
+20th million<font color="#CCCCCC"> 0 so you can lose</font><font color="#E5E5E5"> voting</font>
+
+260
+00:14:57,610 --> 00:14:59,620
+point numbers can handle<font color="#E5E5E5"> Hindle much</font>
+
+261
+00:14:59,620 --> 00:15:02,470
+wider range but the trade-off they make
+
+262
+00:15:02,470 --> 00:15:04,920
+is they<font color="#CCCCCC"> don't</font><font color="#E5E5E5"> have the precision</font><font color="#CCCCCC"> and so</font>
+
+263
+00:15:04,920 --> 00:15:08,170
+you can lose significant things and
+
+264
+00:15:08,170 --> 00:15:10,660
+again if if you don't understand this
+
+265
+00:15:10,660 --> 00:15:11,830
+and you're trying<font color="#CCCCCC"> to do numeric</font>
+
+266
+00:15:11,830 --> 00:15:13,540
+computation you can get yourself<font color="#E5E5E5"> in</font>
+
+267
+00:15:13,540 --> 00:15:16,630
+trouble<font color="#CCCCCC"> so we'll spend a fair bit of</font>
+
+268
+00:15:16,630 --> 00:15:19,470
+<font color="#E5E5E5">time in this course learning about</font>
+
+269
+00:15:19,470 --> 00:15:22,510
+<font color="#E5E5E5">numeric representations how what their</font>
+
+270
+00:15:22,510 --> 00:15:24,220
+actual formats are and some<font color="#E5E5E5"> of their</font>
+
+271
+00:15:24,220 --> 00:15:26,170
+properties<font color="#E5E5E5"> cuz it turns out that's a</font>
+
+272
+00:15:26,170 --> 00:15:28,180
+certain cornerstone<font color="#CCCCCC"> that you really need</font>
+
+273
+00:15:28,180 --> 00:15:30,370
+to<font color="#E5E5E5"> understand in a lot of parts of</font>
+
+274
+00:15:30,370 --> 00:15:35,980
+computer science they some years<font color="#E5E5E5"> ago</font>
+
+275
+00:15:35,980 --> 00:15:38,050
+made this course of prereq for<font color="#CCCCCC"> the</font>
+
+276
+00:15:38,050 --> 00:15:40,330
+computer<font color="#CCCCCC"> graphics course cuz they wanted</font>
+
+277
+00:15:40,330 --> 00:15:42,460
+<font color="#E5E5E5">the students come in to understand</font>
+
+278
+00:15:42,460 --> 00:15:46,540
+floating-point arithmetic<font color="#CCCCCC"> so sometimes</font>
+
+279
+00:15:46,540 --> 00:15:48,130
+you see<font color="#CCCCCC"> these numbers</font><font color="#E5E5E5"> and they look</font>
+
+280
+00:15:48,130 --> 00:15:51,070
+<font color="#CCCCCC">completely random you</font><font color="#E5E5E5"> know</font><font color="#CCCCCC"> minus 1 1967</font>
+
+281
+00:15:51,070 --> 00:15:53,350
+<font color="#E5E5E5">whatever that was but</font><font color="#CCCCCC"> there's actually a</font>
+
+282
+00:15:53,350 --> 00:15:55,690
+very<font color="#E5E5E5"> predictable set of properties</font><font color="#CCCCCC"> that</font>
+
+283
+00:15:55,690 --> 00:15:57,580
+determine<font color="#E5E5E5"> what numbers pop up when that</font>
+
+284
+00:15:57,580 --> 00:15:58,900
+happens except for that one<font color="#CCCCCC"> I just</font>
+
+285
+00:15:58,900 --> 00:16:02,230
+<font color="#E5E5E5">showed</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> that I really don't</font><font color="#CCCCCC"> know</font><font color="#E5E5E5"> it's</font>
+
+286
+00:16:02,230 --> 00:16:04,240
+just<font color="#CCCCCC"> that it doesn't always match your</font>
+
+287
+00:16:04,240 --> 00:16:07,180
+intuition about<font color="#E5E5E5"> if</font><font color="#CCCCCC"> you've had algebra</font>
+
+288
+00:16:07,180 --> 00:16:11,110
+<font color="#CCCCCC">calculus as your background this isn't</font>
+
+289
+00:16:11,110 --> 00:16:12,820
+what you'd expect<font color="#E5E5E5"> because it doesn't</font>
+
+290
+00:16:12,820 --> 00:16:14,470
+<font color="#CCCCCC">machen it has to do with this here</font><font color="#E5E5E5"> the</font>
+
+291
+00:16:14,470 --> 00:16:17,800
+finiteness of<font color="#CCCCCC"> the representations uh but</font>
+
+292
+00:16:17,800 --> 00:16:19,060
+on the other hand<font color="#E5E5E5"> they do have certain</font>
+
+293
+00:16:19,060 --> 00:16:20,410
+<font color="#E5E5E5">principles</font><font color="#CCCCCC"> that you</font><font color="#E5E5E5"> can know and</font>
+
+294
+00:16:20,410 --> 00:16:23,860
+understand<font color="#E5E5E5"> and those are important so</font>
+
+295
+00:16:23,860 --> 00:16:25,360
+that's one<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the first things and we'll</font>
+
+296
+00:16:25,360 --> 00:16:26,920
+spend a fair bit of<font color="#E5E5E5"> time in this course</font>
+
+297
+00:16:26,920 --> 00:16:30,520
+just<font color="#CCCCCC"> going over that</font><font color="#E5E5E5"> both in lectures</font>
+
+298
+00:16:30,520 --> 00:16:35,050
+and<font color="#CCCCCC"> in oh man another big chunk of</font><font color="#E5E5E5"> this</font>
+
+299
+00:16:35,050 --> 00:16:36,209
+course is about
+
+300
+00:16:36,209 --> 00:16:37,619
+<font color="#E5E5E5">assembly language</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> machine level</font>
+
+301
+00:16:37,619 --> 00:16:39,420
+programming<font color="#E5E5E5"> so understanding the actual</font>
+
+302
+00:16:39,420 --> 00:16:41,990
+low-level instructions that get executed
+
+303
+00:16:41,990 --> 00:16:45,269
+<font color="#CCCCCC">when you run a</font><font color="#E5E5E5"> program and it's a little</font>
+
+304
+00:16:45,269 --> 00:16:48,839
+<font color="#E5E5E5">bit there was a trend before this course</font>
+
+305
+00:16:48,839 --> 00:16:51,679
+started that was getting<font color="#E5E5E5"> away</font><font color="#CCCCCC"> from</font>
+
+306
+00:16:51,679 --> 00:16:53,999
+students<font color="#E5E5E5"> every morning assembly code</font>
+
+307
+00:16:53,999 --> 00:16:57,470
+<font color="#CCCCCC">basic in this era</font>
+
+308
+00:16:57,470 --> 00:17:00,389
+<font color="#CCCCCC">there's no essentially no reason to</font>
+
+309
+00:17:00,389 --> 00:17:02,910
+write significant amounts of code
+
+310
+00:17:02,910 --> 00:17:05,880
+directly in assembler assembly languages
+
+311
+00:17:05,880 --> 00:17:07,980
+just<font color="#E5E5E5"> to</font><font color="#CCCCCC"> let you</font><font color="#E5E5E5"> know is a sort of</font>
+
+312
+00:17:07,980 --> 00:17:08,579
+cleaned up
+
+313
+00:17:08,579 --> 00:17:10,439
+textual version of the low-level<font color="#E5E5E5"> machine</font>
+
+314
+00:17:10,439 --> 00:17:13,199
+code<font color="#CCCCCC"> that gets executed</font><font color="#E5E5E5"> and so there</font>
+
+315
+00:17:13,199 --> 00:17:14,490
+really<font color="#CCCCCC"> a very direct correspondence</font>
+
+316
+00:17:14,490 --> 00:17:16,679
+between assembly code machine<font color="#E5E5E5"> code</font><font color="#CCCCCC"> and</font>
+
+317
+00:17:16,679 --> 00:17:19,770
+all tend to go<font color="#CCCCCC"> back and</font><font color="#E5E5E5"> forth between</font>
+
+318
+00:17:19,770 --> 00:17:24,959
+those<font color="#CCCCCC"> two terms</font><font color="#E5E5E5"> but the idea</font><font color="#CCCCCC"> that we</font>
+
+319
+00:17:24,959 --> 00:17:27,599
+found we<font color="#CCCCCC"> found is that no you're</font><font color="#E5E5E5"> not</font>
+
+320
+00:17:27,599 --> 00:17:29,460
+actually we're not<font color="#E5E5E5"> training you</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> write</font>
+
+321
+00:17:29,460 --> 00:17:33,000
+code<font color="#CCCCCC"> in this rather arcane notation but</font>
+
+322
+00:17:33,000 --> 00:17:34,919
+we're<font color="#E5E5E5"> training you</font><font color="#CCCCCC"> to be able</font><font color="#E5E5E5"> to look at</font>
+
+323
+00:17:34,919 --> 00:17:37,380
+code that's been<font color="#CCCCCC"> generated by say a C</font>
+
+324
+00:17:37,380 --> 00:17:40,289
+compiler and understand what<font color="#E5E5E5"> that</font>
+
+325
+00:17:40,289 --> 00:17:42,840
+compiler did to transform your C code
+
+326
+00:17:42,840 --> 00:17:45,390
+into<font color="#CCCCCC"> the machine code and what that</font>
+
+327
+00:17:45,390 --> 00:17:47,580
+<font color="#E5E5E5">implies when that code then runs on the</font>
+
+328
+00:17:47,580 --> 00:17:49,350
+machine<font color="#CCCCCC"> either</font><font color="#E5E5E5"> because it's running</font>
+
+329
+00:17:49,350 --> 00:17:52,919
+<font color="#E5E5E5">slowly or it's got some quirky bug or</font>
+
+330
+00:17:52,919 --> 00:17:58,860
+it's part of<font color="#E5E5E5"> a security flaw</font><font color="#CCCCCC"> that</font>
+
+331
+00:17:58,860 --> 00:18:01,470
+attackers<font color="#E5E5E5"> are trying to exploit some</font><font color="#CCCCCC"> of</font>
+
+332
+00:18:01,470 --> 00:18:04,260
+the weaknesses<font color="#CCCCCC"> in your</font><font color="#E5E5E5"> code</font><font color="#CCCCCC"> and use it</font>
+
+333
+00:18:04,260 --> 00:18:07,049
+to gain<font color="#E5E5E5"> access to the system those are</font>
+
+334
+00:18:07,049 --> 00:18:09,360
+all the kind of places<font color="#CCCCCC"> where the actual</font>
+
+335
+00:18:09,360 --> 00:18:11,039
+low-level machine<font color="#E5E5E5"> code is fairly</font>
+
+336
+00:18:11,039 --> 00:18:18,240
+important to understand so we'll spend a
+
+337
+00:18:18,240 --> 00:18:21,450
+fair amount of time covering that topic
+
+338
+00:18:21,450 --> 00:18:23,549
+as well and looking<font color="#CCCCCC"> at programs from</font>
+
+339
+00:18:23,549 --> 00:18:26,669
+sort of both directions<font color="#CCCCCC"> high from high</font>
+
+340
+00:18:26,669 --> 00:18:31,620
+to low<font color="#CCCCCC"> and go to high another carp we'll</font>
+
+341
+00:18:31,620 --> 00:18:34,230
+<font color="#CCCCCC">look at is a lot</font><font color="#E5E5E5"> of times when you write</font>
+
+342
+00:18:34,230 --> 00:18:36,809
+a program you know that<font color="#CCCCCC"> it uses a</font><font color="#E5E5E5"> lot of</font>
+
+343
+00:18:36,809 --> 00:18:41,429
+memory<font color="#E5E5E5"> but in a modern computer gives</font>
+
+344
+00:18:41,429 --> 00:18:45,210
+you this abstraction<font color="#CCCCCC"> that you can access</font>
+
+345
+00:18:45,210 --> 00:18:47,940
+huge amounts of memory<font color="#E5E5E5"> in it but the</font>
+
+346
+00:18:47,940 --> 00:18:49,320
+reality<font color="#CCCCCC"> is that</font>
+
+347
+00:18:49,320 --> 00:18:51,210
+that's physically in<font color="#CCCCCC"> your computer is</font>
+
+348
+00:18:51,210 --> 00:18:53,910
+limited and it<font color="#E5E5E5"> has some characteristics</font>
+
+349
+00:18:53,910 --> 00:18:55,830
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> there's actually a hierarchy</font><font color="#CCCCCC"> of</font>
+
+350
+00:18:55,830 --> 00:18:59,670
+memories from some things<font color="#E5E5E5"> that are</font>
+
+351
+00:18:59,670 --> 00:19:01,710
+within the processor chip<font color="#E5E5E5"> to parts of</font>
+
+352
+00:19:01,710 --> 00:19:04,350
+their chips outside of it<font color="#CCCCCC"> to even a disk</font>
+
+353
+00:19:04,350 --> 00:19:06,780
+drive<font color="#CCCCCC"> are all layers</font><font color="#E5E5E5"> of this memory</font>
+
+354
+00:19:06,780 --> 00:19:10,980
+hierarchy and the<font color="#CCCCCC"> operating system</font><font color="#E5E5E5"> and</font>
+
+355
+00:19:10,980 --> 00:19:12,810
+the hardware<font color="#E5E5E5"> all work together to kind</font>
+
+356
+00:19:12,810 --> 00:19:14,700
+of make you think<font color="#CCCCCC"> that you're accessing</font>
+
+357
+00:19:14,700 --> 00:19:17,850
+a<font color="#E5E5E5"> lot of memory but what it</font><font color="#CCCCCC"> gives you is</font>
+
+358
+00:19:17,850 --> 00:19:19,110
+<font color="#CCCCCC">very different performance</font>
+
+359
+00:19:19,110 --> 00:19:21,090
+<font color="#CCCCCC">characteristics depending</font><font color="#E5E5E5"> on what your</font>
+
+360
+00:19:21,090 --> 00:19:24,600
+memory access patterns<font color="#CCCCCC"> are and it</font><font color="#E5E5E5"> can be</font>
+
+361
+00:19:24,600 --> 00:19:27,660
+really somewhat bizarre<font color="#CCCCCC"> until you</font>
+
+362
+00:19:27,660 --> 00:19:29,460
+understand how it<font color="#E5E5E5"> works and what</font><font color="#CCCCCC"> the</font>
+
+363
+00:19:29,460 --> 00:19:31,320
+<font color="#E5E5E5">underlying system does and this</font>
+
+364
+00:19:31,320 --> 00:19:32,780
+attribute is<font color="#E5E5E5"> becoming more and</font><font color="#CCCCCC"> more</font>
+
+365
+00:19:32,780 --> 00:19:37,940
+important<font color="#E5E5E5"> over</font><font color="#CCCCCC"> time that</font><font color="#E5E5E5"> memory systems</font>
+
+366
+00:19:37,940 --> 00:19:40,890
+are growing you can<font color="#CCCCCC"> easily get a</font>
+
+367
+00:19:40,890 --> 00:19:44,190
+computer<font color="#E5E5E5"> with 32 or 64 gigabytes of</font>
+
+368
+00:19:44,190 --> 00:19:48,720
+memory<font color="#E5E5E5"> of RAM but the access speed of</font>
+
+369
+00:19:48,720 --> 00:19:51,600
+<font color="#E5E5E5">those is much slower than the processing</font>
+
+370
+00:19:51,600 --> 00:19:54,810
+rate of<font color="#E5E5E5"> your actual processor so you</font><font color="#CCCCCC"> see</font>
+
+371
+00:19:54,810 --> 00:19:57,120
+more difference between<font color="#CCCCCC"> the memory</font>
+
+372
+00:19:57,120 --> 00:19:59,010
+<font color="#CCCCCC">performance in the processor performance</font>
+
+373
+00:19:59,010 --> 00:20:02,790
+over time<font color="#CCCCCC"> oh and there's also</font><font color="#E5E5E5"> other</font>
+
+374
+00:20:02,790 --> 00:20:05,130
+features<font color="#E5E5E5"> especially</font><font color="#CCCCCC"> in a language</font><font color="#E5E5E5"> like</font><font color="#CCCCCC"> C</font>
+
+375
+00:20:05,130 --> 00:20:10,650
+or<font color="#E5E5E5"> C++</font><font color="#CCCCCC"> about how you reference memory</font>
+
+376
+00:20:10,650 --> 00:20:12,360
+that can lead<font color="#CCCCCC"> to some really really</font>
+
+377
+00:20:12,360 --> 00:20:14,790
+<font color="#E5E5E5">awful and nasty and painful</font><font color="#CCCCCC"> bugs</font>
+
+378
+00:20:14,790 --> 00:20:17,960
+so this is a very simple<font color="#CCCCCC"> example of a</font>
+
+379
+00:20:17,960 --> 00:20:23,220
+structure structure in<font color="#E5E5E5"> in C that has</font><font color="#CCCCCC"> a</font>
+
+380
+00:20:23,220 --> 00:20:26,640
+an integer array<font color="#E5E5E5"> called a with two</font>
+
+381
+00:20:26,640 --> 00:20:31,560
+<font color="#E5E5E5">elements followed</font><font color="#CCCCCC"> by a double</font><font color="#E5E5E5"> D and this</font>
+
+382
+00:20:31,560 --> 00:20:37,230
+function<font color="#CCCCCC"> that will write some number</font><font color="#E5E5E5"> to</font>
+
+383
+00:20:37,230 --> 00:20:40,400
+an arbitrary position<font color="#CCCCCC"> in that array a</font>
+
+384
+00:20:40,400 --> 00:20:45,150
+<font color="#CCCCCC">and if this were in Java</font><font color="#E5E5E5"> another</font>
+
+385
+00:20:45,150 --> 00:20:49,080
+language it<font color="#E5E5E5"> would only let you use a of</font>
+
+386
+00:20:49,080 --> 00:20:51,360
+<font color="#E5E5E5">I would only</font><font color="#CCCCCC"> allow you to reference</font>
+
+387
+00:20:51,360 --> 00:20:55,170
+<font color="#E5E5E5">either a of</font><font color="#CCCCCC"> 0 or a of</font><font color="#E5E5E5"> 1 of course but in</font>
+
+388
+00:20:55,170 --> 00:20:58,620
+C and other languages<font color="#E5E5E5"> there is no bounds</font>
+
+389
+00:20:58,620 --> 00:21:00,530
+checking<font color="#E5E5E5"> and so it will go ahead</font>
+
+390
+00:21:00,530 --> 00:21:04,130
+the reference a of 39 say<font color="#E5E5E5"> and you'll be</font>
+
+391
+00:21:04,130 --> 00:21:06,230
+effectively assigning you'll be storing
+
+392
+00:21:06,230 --> 00:21:10,520
+in memory<font color="#E5E5E5"> someplace a number that has</font>
+
+393
+00:21:10,520 --> 00:21:12,410
+<font color="#E5E5E5">absolutely nothing to do</font><font color="#CCCCCC"> with what</font>
+
+394
+00:21:12,410 --> 00:21:15,560
+normally should be<font color="#E5E5E5"> stored there so if</font>
+
+395
+00:21:15,560 --> 00:21:17,120
+you look at<font color="#E5E5E5"> this</font><font color="#CCCCCC"> function what it should</font>
+
+396
+00:21:17,120 --> 00:21:19,520
+do<font color="#CCCCCC"> you realize</font><font color="#E5E5E5"> is essentially</font><font color="#CCCCCC"> nothing</font>
+
+397
+00:21:19,520 --> 00:21:23,540
+right then it<font color="#CCCCCC"> set some value</font><font color="#E5E5E5"> the the</font>
+
+398
+00:21:23,540 --> 00:21:26,840
+double<font color="#E5E5E5"> to 3.14 and vets value return</font><font color="#CCCCCC"> so</font>
+
+399
+00:21:26,840 --> 00:21:30,500
+<font color="#E5E5E5">it just should return 3.14 and it sets</font>
+
+400
+00:21:30,500 --> 00:21:33,350
+some memory<font color="#CCCCCC"> position but there's no</font>
+
+401
+00:21:33,350 --> 00:21:36,290
+obvious<font color="#CCCCCC"> way that setting what effect the</font>
+
+402
+00:21:36,290 --> 00:21:39,050
+program behavior<font color="#E5E5E5"> well let's just give</font><font color="#CCCCCC"> it</font>
+
+403
+00:21:39,050 --> 00:21:45,800
+a<font color="#CCCCCC"> drop</font><font color="#E5E5E5"> so I call</font><font color="#CCCCCC"> that the program struck</font>
+
+404
+00:21:45,800 --> 00:21:48,560
+tonight I can give that<font color="#E5E5E5"> value of eyes</font>
+
+405
+00:21:48,560 --> 00:21:51,400
+<font color="#CCCCCC">communal honor</font>
+
+406
+00:21:52,390 --> 00:21:55,010
+so<font color="#E5E5E5"> you'll see if I give it either as</font>
+
+407
+00:21:55,010 --> 00:21:58,940
+your one<font color="#E5E5E5"> for the value of I it returns</font>
+
+408
+00:21:58,940 --> 00:22:03,410
+just<font color="#E5E5E5"> like you'd expect 3.14 if I give it</font>
+
+409
+00:22:03,410 --> 00:22:09,530
+<font color="#CCCCCC">the value two then things start to look</font>
+
+410
+00:22:09,530 --> 00:22:13,700
+curious that it's not really 3.14
+
+411
+00:22:13,700 --> 00:22:15,860
+anymore so that<font color="#CCCCCC"> looks pretty</font><font color="#E5E5E5"> weird to</font>
+
+412
+00:22:15,860 --> 00:22:28,070
+think about that<font color="#E5E5E5"> pretty exciting yes you</font>
+
+413
+00:22:28,070 --> 00:22:28,460
+got it
+
+414
+00:22:28,460 --> 00:22:34,730
+good good<font color="#E5E5E5"> observation so we'll go into</font>
+
+415
+00:22:34,730 --> 00:22:37,400
+<font color="#E5E5E5">that but you've got the idea</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> I've</font>
+
+416
+00:22:37,400 --> 00:22:40,790
+basically<font color="#CCCCCC"> I</font><font color="#E5E5E5"> I've</font><font color="#CCCCCC"> stood I've smacked a</font>
+
+417
+00:22:40,790 --> 00:22:43,460
+little piece<font color="#CCCCCC"> of that double and so it's</font>
+
+418
+00:22:43,460 --> 00:22:51,790
+no more<font color="#E5E5E5"> quite 3.14 and</font><font color="#CCCCCC"> if I do</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> to</font>
+
+419
+00:22:51,790 --> 00:22:58,880
+<font color="#E5E5E5">three then my 3.14 turns into two in a</font>
+
+420
+00:22:58,880 --> 00:23:03,970
+fight<font color="#E5E5E5"> go to four then I crash the system</font>
+
+421
+00:23:07,390 --> 00:23:12,770
+because it detected that<font color="#E5E5E5"> this is not a</font>
+
+422
+00:23:12,770 --> 00:23:18,080
+valid access which is<font color="#E5E5E5"> good actually</font>
+
+423
+00:23:18,080 --> 00:23:20,780
+you'd rather<font color="#CCCCCC"> have detect it</font><font color="#E5E5E5"> then some</font>
+
+424
+00:23:20,780 --> 00:23:22,850
+<font color="#E5E5E5">you'll see other places you'll have this</font>
+
+425
+00:23:22,850 --> 00:23:24,710
+experience<font color="#CCCCCC"> you maybe already have that</font>
+
+426
+00:23:24,710 --> 00:23:28,610
+<font color="#E5E5E5">you can modify</font><font color="#CCCCCC"> you know write</font><font color="#E5E5E5"> to some</font>
+
+427
+00:23:28,610 --> 00:23:32,210
+bad pointer<font color="#E5E5E5"> it'll set something your</font>
+
+428
+00:23:32,210 --> 00:23:34,790
+program will go merrily long it might
+
+429
+00:23:34,790 --> 00:23:38,300
+<font color="#E5E5E5">run for minutes hours days</font><font color="#CCCCCC"> weeks and</font>
+
+430
+00:23:38,300 --> 00:23:40,190
+then eventually it will<font color="#CCCCCC"> come to a</font><font color="#E5E5E5"> place</font>
+
+431
+00:23:40,190 --> 00:23:41,840
+<font color="#CCCCCC">where</font><font color="#E5E5E5"> as to reference</font><font color="#CCCCCC"> a memory location</font>
+
+432
+00:23:41,840 --> 00:23:44,930
+<font color="#E5E5E5">then it's screwed up and some awful bug</font>
+
+433
+00:23:44,930 --> 00:23:46,730
+occurs but can you figure out where that
+
+434
+00:23:46,730 --> 00:23:50,660
+bugs got injected no way<font color="#E5E5E5"> so that's one</font>
+
+435
+00:23:50,660 --> 00:23:53,750
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> the more painful classes of bugs to</font>
+
+436
+00:23:53,750 --> 00:23:59,030
+try and track<font color="#CCCCCC"> down</font><font color="#E5E5E5"> but at least with</font>
+
+437
+00:23:59,030 --> 00:24:01,880
+this course<font color="#E5E5E5"> you know why</font><font color="#CCCCCC"> even if you</font>
+
+438
+00:24:01,880 --> 00:24:12,200
+don't know where or how in the example I
+
+439
+00:24:12,200 --> 00:24:14,000
+show<font color="#E5E5E5"> here gave slightly different</font>
+
+440
+00:24:14,000 --> 00:24:18,680
+results on a different<font color="#E5E5E5"> machine um so yes</font>
+
+441
+00:24:18,680 --> 00:24:21,050
+the observation<font color="#E5E5E5"> that was made is if you</font>
+
+442
+00:24:21,050 --> 00:24:24,080
+look at the way memory<font color="#CCCCCC"> is organized for</font>
+
+443
+00:24:24,080 --> 00:24:26,690
+<font color="#E5E5E5">this struct</font><font color="#CCCCCC"> I'm starting</font><font color="#E5E5E5"> with the lowest</font>
+
+444
+00:24:26,690 --> 00:24:28,610
+addresses at the bottom and each of
+
+445
+00:24:28,610 --> 00:24:31,130
+those rectangles<font color="#E5E5E5"> represents</font><font color="#CCCCCC"> four bytes</font>
+
+446
+00:24:31,130 --> 00:24:35,440
+<font color="#E5E5E5">so the two ends of a are each four bytes</font>
+
+447
+00:24:35,440 --> 00:24:38,360
+there so first day<font color="#E5E5E5"> of zero and</font><font color="#CCCCCC"> then and</font>
+
+448
+00:24:38,360 --> 00:24:41,390
+one<font color="#E5E5E5"> but then there's eight bytes to make</font>
+
+449
+00:24:41,390 --> 00:24:43,940
+a double and the first eight of them are
+
+450
+00:24:43,940 --> 00:24:47,560
+the low precision<font color="#CCCCCC"> low</font><font color="#E5E5E5"> order bits of of</font><font color="#CCCCCC"> d</font>
+
+451
+00:24:47,560 --> 00:24:51,860
+<font color="#E5E5E5">and so when</font><font color="#CCCCCC"> I zapped them I didn't you</font>
+
+452
+00:24:51,860 --> 00:24:53,600
+know<font color="#E5E5E5"> totally find the number I just kind</font>
+
+453
+00:24:53,600 --> 00:24:55,400
+of knocked some of<font color="#CCCCCC"> the</font><font color="#E5E5E5"> lower decimal</font>
+
+454
+00:24:55,400 --> 00:24:58,580
+<font color="#E5E5E5">points and then the</font><font color="#CCCCCC"> upper part of</font><font color="#E5E5E5"> it is</font>
+
+455
+00:24:58,580 --> 00:25:01,580
+the sort of high level bits the more
+
+456
+00:25:01,580 --> 00:25:04,910
+higher precision bits of<font color="#CCCCCC"> d and so when I</font>
+
+457
+00:25:04,910 --> 00:25:07,160
+<font color="#CCCCCC">whacked that</font><font color="#E5E5E5"> I really changed civilian</font>
+
+458
+00:25:07,160 --> 00:25:10,640
+<font color="#E5E5E5">some span toys and then in this case</font>
+
+459
+00:25:10,640 --> 00:25:13,550
+when I hit<font color="#E5E5E5"> four it was hitting</font><font color="#CCCCCC"> some kind</font>
+
+460
+00:25:13,550 --> 00:25:15,760
+of<font color="#E5E5E5"> critical state that could</font>
+
+461
+00:25:15,760 --> 00:25:18,860
+that there is some<font color="#E5E5E5"> corruption of memory</font>
+
+462
+00:25:18,860 --> 00:25:21,740
+that<font color="#E5E5E5"> occurred here</font><font color="#CCCCCC"> and it gave a</font><font color="#E5E5E5"> fall in</font>
+
+463
+00:25:21,740 --> 00:25:23,930
+other times on different<font color="#E5E5E5"> compilers as</font>
+
+464
+00:25:23,930 --> 00:25:25,790
+<font color="#E5E5E5">can rotten werewolf happily let me do</font>
+
+465
+00:25:25,790 --> 00:25:29,690
+some of<font color="#E5E5E5"> those but not all so that's an</font>
+
+466
+00:25:29,690 --> 00:25:32,690
+<font color="#E5E5E5">example again</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> if you understand more</font>
+
+467
+00:25:32,690 --> 00:25:35,390
+<font color="#CCCCCC">of the sort of</font><font color="#E5E5E5"> underlying how memory is</font>
+
+468
+00:25:35,390 --> 00:25:37,220
+<font color="#E5E5E5">laid</font><font color="#CCCCCC"> out how data structures have</font>
+
+469
+00:25:37,220 --> 00:25:39,620
+weighed out<font color="#E5E5E5"> what can occur then these</font>
+
+470
+00:25:39,620 --> 00:25:42,260
+things<font color="#E5E5E5"> are at least understandable</font><font color="#CCCCCC"> even</font>
+
+471
+00:25:42,260 --> 00:25:46,790
+<font color="#E5E5E5">if they're annoying embarrassing and</font>
+
+472
+00:25:46,790 --> 00:25:48,620
+<font color="#E5E5E5">that's sort of a reality if</font><font color="#CCCCCC"> you write in</font>
+
+473
+00:25:48,620 --> 00:25:52,400
+C or<font color="#CCCCCC"> C++</font><font color="#E5E5E5"> and so a lot of people</font><font color="#CCCCCC"> choose</font>
+
+474
+00:25:52,400 --> 00:25:56,810
+not<font color="#CCCCCC"> to by</font><font color="#E5E5E5"> writing in another language</font>
+
+475
+00:25:56,810 --> 00:25:59,030
+which is fine I have nothing against
+
+476
+00:25:59,030 --> 00:26:00,680
+other languages but the reality of
+
+477
+00:26:00,680 --> 00:26:02,690
+<font color="#E5E5E5">course is a lot of this code in the</font>
+
+478
+00:26:02,690 --> 00:26:05,750
+<font color="#E5E5E5">world is written in C or</font><font color="#CCCCCC"> C++ and that's</font>
+
+479
+00:26:05,750 --> 00:26:11,150
+just one of<font color="#E5E5E5"> its features in these ways</font>
+
+480
+00:26:11,150 --> 00:26:13,190
+you can try to<font color="#E5E5E5"> avoid some of those</font>
+
+481
+00:26:13,190 --> 00:26:17,030
+problems<font color="#CCCCCC"> oh</font><font color="#E5E5E5"> another part we'll look at</font>
+
+482
+00:26:17,030 --> 00:26:18,890
+this course is sort<font color="#E5E5E5"> of</font><font color="#CCCCCC"> programmed</font>
+
+483
+00:26:18,890 --> 00:26:20,720
+performance and we look at<font color="#E5E5E5"> that at many</font>
+
+484
+00:26:20,720 --> 00:26:21,620
+<font color="#E5E5E5">different</font><font color="#CCCCCC"> levels</font>
+
+485
+00:26:21,620 --> 00:26:27,050
+<font color="#CCCCCC">oh and so i I actually of</font><font color="#E5E5E5"> course like</font>
+
+486
+00:26:27,050 --> 00:26:30,170
+122 or<font color="#E5E5E5"> other courses you've learned the</font>
+
+487
+00:26:30,170 --> 00:26:32,030
+sort<font color="#E5E5E5"> of Big O notation and the idea of</font>
+
+488
+00:26:32,030 --> 00:26:35,390
+<font color="#E5E5E5">asymptotic complexity so one program is</font>
+
+489
+00:26:35,390 --> 00:26:36,320
+quadratic
+
+490
+00:26:36,320 --> 00:26:38,930
+another is n log N and<font color="#E5E5E5"> log</font><font color="#CCCCCC"> ends a lot</font>
+
+491
+00:26:38,930 --> 00:26:40,940
+<font color="#E5E5E5">better than quadratic so do that use</font>
+
+492
+00:26:40,940 --> 00:26:44,470
+quicksort<font color="#E5E5E5"> don't these</font><font color="#CCCCCC"> bubbles work but</font>
+
+493
+00:26:44,470 --> 00:26:46,820
+there's more to it<font color="#E5E5E5"> than that you know a</font>
+
+494
+00:26:46,820 --> 00:26:49,280
+lot of<font color="#E5E5E5"> times if you're running a video</font>
+
+495
+00:26:49,280 --> 00:26:51,440
+encoder and you want to have<font color="#CCCCCC"> a frame</font>
+
+496
+00:26:51,440 --> 00:26:54,800
+rate<font color="#CCCCCC"> of 30 frames per second and you can</font>
+
+497
+00:26:54,800 --> 00:26:58,070
+only get 15 frames<font color="#E5E5E5"> per second then it's</font>
+
+498
+00:26:58,070 --> 00:27:00,170
+not an asymptotic complexity<font color="#E5E5E5"> problem</font>
+
+499
+00:27:00,170 --> 00:27:03,710
+it's just<font color="#E5E5E5"> go twice as fast and it will</font>
+
+500
+00:27:03,710 --> 00:27:05,300
+make a<font color="#E5E5E5"> big difference to you so there's</font>
+
+501
+00:27:05,300 --> 00:27:07,190
+a lot<font color="#E5E5E5"> of times in the engineering world</font>
+
+502
+00:27:07,190 --> 00:27:09,830
+<font color="#E5E5E5">where you're</font><font color="#CCCCCC"> also worried about constant</font>
+
+503
+00:27:09,830 --> 00:27:12,440
+factors<font color="#CCCCCC"> too and there's a lot of slack</font>
+
+504
+00:27:12,440 --> 00:27:14,210
+<font color="#CCCCCC">in the system each way that you can</font>
+
+505
+00:27:14,210 --> 00:27:16,730
+overcome<font color="#E5E5E5"> if you understand enough about</font>
+
+506
+00:27:16,730 --> 00:27:18,800
+program execution<font color="#E5E5E5"> to</font><font color="#CCCCCC"> be able</font><font color="#E5E5E5"> to optimize</font>
+
+507
+00:27:18,800 --> 00:27:21,920
+<font color="#E5E5E5">performance so we'll spend some time</font><font color="#CCCCCC"> on</font>
+
+508
+00:27:21,920 --> 00:27:24,890
+that<font color="#CCCCCC"> too that's</font><font color="#E5E5E5"> a useful</font><font color="#CCCCCC"> outcome</font><font color="#E5E5E5"> so one</font>
+
+509
+00:27:24,890 --> 00:27:27,500
+thing that certain combines this idea
+
+510
+00:27:27,500 --> 00:27:32,390
+of the memory system<font color="#E5E5E5"> and performance is</font>
+
+511
+00:27:32,390 --> 00:27:36,710
+this these two functions<font color="#E5E5E5"> that</font><font color="#CCCCCC"> both</font>
+
+512
+00:27:36,710 --> 00:27:39,049
+perform absolutely the exact same thing
+
+513
+00:27:39,049 --> 00:27:41,900
+<font color="#CCCCCC">their</font><font color="#E5E5E5"> purpose is to copy the elements of</font>
+
+514
+00:27:41,900 --> 00:27:44,750
+a source array to destination array
+
+515
+00:27:44,750 --> 00:27:50,120
+<font color="#E5E5E5">where both of</font><font color="#CCCCCC"> those arrays are both size</font>
+
+516
+00:27:50,120 --> 00:27:54,950
+2048<font color="#E5E5E5"> rows and 2048 columns and so you</font>
+
+517
+00:27:54,950 --> 00:27:57,080
+see that<font color="#CCCCCC"> the two programs are absolutely</font>
+
+518
+00:27:57,080 --> 00:28:00,440
+the same except for<font color="#E5E5E5"> the order of</font><font color="#CCCCCC"> the of</font>
+
+519
+00:28:00,440 --> 00:28:03,409
+do you do<font color="#E5E5E5"> the copying row wise or column</font>
+
+520
+00:28:03,409 --> 00:28:08,419
+wise right and the<font color="#E5E5E5"> one in the the</font><font color="#CCCCCC"> left</font>
+
+521
+00:28:08,419 --> 00:28:10,669
+in the inner loop you see<font color="#CCCCCC"> it's J which</font>
+
+522
+00:28:10,669 --> 00:28:13,280
+is<font color="#E5E5E5"> the second index so logically you're</font>
+
+523
+00:28:13,280 --> 00:28:15,650
+going through the row<font color="#E5E5E5"> kind</font><font color="#CCCCCC"> of like this</font>
+
+524
+00:28:15,650 --> 00:28:19,070
+<font color="#E5E5E5">each row one row at a time talking the</font>
+
+525
+00:28:19,070 --> 00:28:21,799
+<font color="#CCCCCC">whole row and the</font><font color="#E5E5E5"> other one</font><font color="#CCCCCC"> I've flipped</font>
+
+526
+00:28:21,799 --> 00:28:24,169
+it around so the inner loop<font color="#E5E5E5"> is odd so</font>
+
+527
+00:28:24,169 --> 00:28:27,049
+I'm sort of going<font color="#E5E5E5"> through</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> column once</font>
+
+528
+00:28:27,049 --> 00:28:29,240
+<font color="#E5E5E5">and stepping through it vertically but</font>
+
+529
+00:28:29,240 --> 00:28:31,159
+note<font color="#CCCCCC"> that</font><font color="#E5E5E5"> the outcome is</font><font color="#CCCCCC"> the same</font>
+
+530
+00:28:31,159 --> 00:28:35,990
+<font color="#E5E5E5">they're the same thing it's</font><font color="#CCCCCC"> just do I do</font>
+
+531
+00:28:35,990 --> 00:28:38,600
+that row wise or column wise and if I
+
+532
+00:28:38,600 --> 00:28:41,240
+fire up<font color="#E5E5E5"> a machine and run this though</font>
+
+533
+00:28:41,240 --> 00:28:44,240
+you'll see<font color="#E5E5E5"> that it makes up at 20 X 4 20</font>
+
+534
+00:28:44,240 --> 00:28:48,740
+times difference in performance the row
+
+535
+00:28:48,740 --> 00:28:51,190
+eyes is much much<font color="#E5E5E5"> faster than complex</font>
+
+536
+00:28:51,190 --> 00:28:53,870
+and this is an example of this<font color="#E5E5E5"> memory</font>
+
+537
+00:28:53,870 --> 00:28:56,289
+hierarchy as mentioned<font color="#E5E5E5"> earlier</font><font color="#CCCCCC"> that</font>
+
+538
+00:28:56,289 --> 00:28:58,789
+basically<font color="#E5E5E5"> the row wise and we'll see</font>
+
+539
+00:28:58,789 --> 00:29:01,970
+exactly<font color="#E5E5E5"> why is more tuned to the way the</font>
+
+540
+00:29:01,970 --> 00:29:05,000
+memory<font color="#E5E5E5"> hierarchy sort of anticipates how</font>
+
+541
+00:29:05,000 --> 00:29:07,760
+you're going<font color="#CCCCCC"> to access memory patterns</font>
+
+542
+00:29:07,760 --> 00:29:11,840
+and the column wise<font color="#CCCCCC"> messes it up so if</font>
+
+543
+00:29:11,840 --> 00:29:15,350
+<font color="#E5E5E5">you in fact if you look at the cover of</font>
+
+544
+00:29:15,350 --> 00:29:18,490
+<font color="#CCCCCC">your book</font><font color="#E5E5E5"> you'll see</font><font color="#CCCCCC"> this picture and</font>
+
+545
+00:29:18,490 --> 00:29:21,470
+it's an explanation of why row wise is
+
+546
+00:29:21,470 --> 00:29:25,309
+better than<font color="#CCCCCC"> compromised</font><font color="#E5E5E5"> so the upper one</font>
+
+547
+00:29:25,309 --> 00:29:27,440
+that what this shows is for various
+
+548
+00:29:27,440 --> 00:29:30,250
+different access patterns<font color="#E5E5E5"> how many</font>
+
+549
+00:29:30,250 --> 00:29:35,120
+<font color="#E5E5E5">megabytes per second we can access the</font>
+
+550
+00:29:35,120 --> 00:29:36,269
+memory yeah
+
+551
+00:29:36,269 --> 00:29:37,950
+is measured just<font color="#E5E5E5"> by</font><font color="#CCCCCC"> reading programs</font>
+
+552
+00:29:37,950 --> 00:29:41,039
+like you saw here and seeing<font color="#CCCCCC"> how fast</font>
+
+553
+00:29:41,039 --> 00:29:43,679
+<font color="#E5E5E5">they go and you'll see that the first</font>
+
+554
+00:29:43,679 --> 00:29:45,779
+one<font color="#E5E5E5"> the</font><font color="#CCCCCC"> row-wise</font><font color="#E5E5E5"> is up in a pretty good</font>
+
+555
+00:29:45,779 --> 00:29:51,029
+spot<font color="#CCCCCC"> as far as throughput of</font><font color="#E5E5E5"> over 8,000</font>
+
+556
+00:29:51,029 --> 00:29:54,419
+megabytes per second<font color="#E5E5E5"> and the one that</font>
+
+557
+00:29:54,419 --> 00:29:57,299
+copy ji is at the worst possible<font color="#E5E5E5"> place</font>
+
+558
+00:29:57,299 --> 00:30:00,149
+it's here<font color="#CCCCCC"> then down there in the below a</font>
+
+559
+00:30:00,149 --> 00:30:04,320
+thousand megabytes<font color="#E5E5E5"> per second so again</font>
+
+560
+00:30:04,320 --> 00:30:06,749
+<font color="#E5E5E5">whoa whoa I understand this we call this</font>
+
+561
+00:30:06,749 --> 00:30:09,659
+the<font color="#E5E5E5"> memory Mountain for obvious ideas</font>
+
+562
+00:30:09,659 --> 00:30:12,359
+<font color="#E5E5E5">the reason it was actually this way of</font>
+
+563
+00:30:12,359 --> 00:30:14,399
+visualizing memory<font color="#E5E5E5"> system performance</font>
+
+564
+00:30:14,399 --> 00:30:18,269
+was developed by a fellow<font color="#CCCCCC"> his graduate</font>
+
+565
+00:30:18,269 --> 00:30:20,549
+<font color="#CCCCCC">student here at the</font><font color="#E5E5E5"> time he was from</font>
+
+566
+00:30:20,549 --> 00:30:22,529
+Switzerland<font color="#CCCCCC"> so I guess this is</font><font color="#E5E5E5"> his way</font>
+
+567
+00:30:22,529 --> 00:30:25,369
+he liked to<font color="#CCCCCC"> think about this Oh</font>
+
+568
+00:30:25,369 --> 00:30:28,259
+so again this is one<font color="#CCCCCC"> of</font><font color="#E5E5E5"> these</font><font color="#CCCCCC"> topics</font>
+
+569
+00:30:28,259 --> 00:30:30,599
+<font color="#CCCCCC">that we cover in this</font><font color="#E5E5E5"> course that</font><font color="#CCCCCC"> really</font>
+
+570
+00:30:30,599 --> 00:30:31,859
+can<font color="#E5E5E5"> make a big</font><font color="#CCCCCC"> difference in the</font>
+
+571
+00:30:31,859 --> 00:30:35,459
+programs that<font color="#E5E5E5"> you write and then another</font>
+
+572
+00:30:35,459 --> 00:30:38,959
+<font color="#E5E5E5">part</font><font color="#CCCCCC"> of this course</font><font color="#E5E5E5"> we'll talk about is</font>
+
+573
+00:30:38,959 --> 00:30:41,759
+beyond sort<font color="#E5E5E5"> of writing</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> old programs</font>
+
+574
+00:30:41,759 --> 00:30:46,169
+that<font color="#CCCCCC"> Square numbers or access memory in</font>
+
+575
+00:30:46,169 --> 00:30:48,149
+various ways<font color="#CCCCCC"> there's a lot</font><font color="#E5E5E5"> of</font>
+
+576
+00:30:48,149 --> 00:30:49,889
+interesting<font color="#CCCCCC"> other parts of the computer</font>
+
+577
+00:30:49,889 --> 00:30:52,259
+system in particular<font color="#CCCCCC"> the whole business</font>
+
+578
+00:30:52,259 --> 00:30:54,479
+<font color="#E5E5E5">of hooking computers together and having</font>
+
+579
+00:30:54,479 --> 00:30:56,309
+<font color="#CCCCCC">them talk</font><font color="#E5E5E5"> to each other over networks</font>
+
+580
+00:30:56,309 --> 00:30:59,909
+<font color="#E5E5E5">has many many layers of</font><font color="#CCCCCC"> complexity to it</font>
+
+581
+00:30:59,909 --> 00:31:03,599
+<font color="#E5E5E5">and various standards and protocols and</font>
+
+582
+00:31:03,599 --> 00:31:06,299
+hardware and<font color="#E5E5E5"> software and so forth that</font>
+
+583
+00:31:06,299 --> 00:31:08,609
+we won't get deeply<font color="#E5E5E5"> into you have to</font>
+
+584
+00:31:08,609 --> 00:31:10,769
+<font color="#CCCCCC">take</font><font color="#E5E5E5"> on networking or distributed system</font>
+
+585
+00:31:10,769 --> 00:31:12,779
+of course you only do that<font color="#E5E5E5"> but</font><font color="#CCCCCC"> we'll at</font>
+
+586
+00:31:12,779 --> 00:31:15,119
+least<font color="#E5E5E5"> give you</font><font color="#CCCCCC"> a sort of starting point</font>
+
+587
+00:31:15,119 --> 00:31:16,739
+in that<font color="#CCCCCC"> direction so that you'll better</font>
+
+588
+00:31:16,739 --> 00:31:19,019
+appreciate what's<font color="#CCCCCC"> happening with</font><font color="#E5E5E5"> your</font>
+
+589
+00:31:19,019 --> 00:31:20,579
+computer when<font color="#E5E5E5"> you're using a wireless</font>
+
+590
+00:31:20,579 --> 00:31:24,269
+access or when you're getting<font color="#E5E5E5"> webpages</font>
+
+591
+00:31:24,269 --> 00:31:30,659
+<font color="#E5E5E5">through a web browser so one thing about</font>
+
+592
+00:31:30,659 --> 00:31:32,729
+<font color="#E5E5E5">this course it's different from the way</font>
+
+593
+00:31:32,729 --> 00:31:34,519
+most systems courses are taught
+
+594
+00:31:34,519 --> 00:31:36,749
+including the more advanced ones<font color="#CCCCCC"> that</font>
+
+595
+00:31:36,749 --> 00:31:39,089
+you'll take after<font color="#E5E5E5"> this is most systems</font>
+
+596
+00:31:39,089 --> 00:31:41,119
+courses are kind of<font color="#CCCCCC"> designed or built</font>
+
+597
+00:31:41,119 --> 00:31:44,429
+around what how it takes to build a
+
+598
+00:31:44,429 --> 00:31:47,190
+system<font color="#E5E5E5"> so if you're an an operating</font>
+
+599
+00:31:47,190 --> 00:31:49,710
+systems course at CMU at least
+
+600
+00:31:49,710 --> 00:31:53,610
+and a lot of<font color="#E5E5E5"> time writing the core code</font>
+
+601
+00:31:53,610 --> 00:31:55,590
+of an operating<font color="#CCCCCC"> system in</font><font color="#E5E5E5"> the compiler</font>
+
+602
+00:31:55,590 --> 00:31:58,529
+course<font color="#E5E5E5"> you write</font><font color="#CCCCCC"> a compiler the computer</font>
+
+603
+00:31:58,529 --> 00:32:00,059
+architecture course<font color="#E5E5E5"> you designed</font>
+
+604
+00:32:00,059 --> 00:32:00,990
+<font color="#CCCCCC">microprocessors</font>
+
+605
+00:32:00,990 --> 00:32:04,080
+<font color="#CCCCCC">so that's all really interesting</font>
+
+606
+00:32:04,080 --> 00:32:06,809
+endeavor<font color="#E5E5E5"> and it's really</font><font color="#CCCCCC"> interesting to</font>
+
+607
+00:32:06,809 --> 00:32:09,240
+do but we<font color="#E5E5E5"> don't think it's the right way</font>
+
+608
+00:32:09,240 --> 00:32:12,450
+<font color="#CCCCCC">to start when you</font><font color="#E5E5E5"> first warning systems</font>
+
+609
+00:32:12,450 --> 00:32:14,370
+the way we'd<font color="#CCCCCC"> like</font><font color="#E5E5E5"> to start</font><font color="#CCCCCC"> our systems</font>
+
+610
+00:32:14,370 --> 00:32:18,120
+is what we call a programmer centric<font color="#E5E5E5"> so</font>
+
+611
+00:32:18,120 --> 00:32:20,730
+how you as a programmer in this course
+
+612
+00:32:20,730 --> 00:32:24,450
+we mean<font color="#E5E5E5"> a</font><font color="#CCCCCC"> C programmer are how you write</font>
+
+613
+00:32:24,450 --> 00:32:27,539
+code<font color="#E5E5E5"> the exercises makes use and</font>
+
+614
+00:32:27,539 --> 00:32:29,130
+interacts<font color="#E5E5E5"> with</font><font color="#CCCCCC"> different</font><font color="#E5E5E5"> parts of the</font>
+
+615
+00:32:29,130 --> 00:32:31,440
+<font color="#CCCCCC">system</font><font color="#E5E5E5"> and how you can be more</font><font color="#CCCCCC"> effective</font>
+
+616
+00:32:31,440 --> 00:32:34,260
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> better at doing</font><font color="#CCCCCC"> them so it gives us</font>
+
+617
+00:32:34,260 --> 00:32:37,110
+an angle<font color="#E5E5E5"> on it that lets you now after</font>
+
+618
+00:32:37,110 --> 00:32:38,760
+this when you jump<font color="#E5E5E5"> into an operating</font>
+
+619
+00:32:38,760 --> 00:32:41,370
+<font color="#E5E5E5">system course and they teach you</font><font color="#CCCCCC"> how to</font>
+
+620
+00:32:41,370 --> 00:32:43,919
+write a signal handler<font color="#E5E5E5"> you don't from</font>
+
+621
+00:32:43,919 --> 00:32:45,809
+this course<font color="#CCCCCC"> then wondered what a signal</font>
+
+622
+00:32:45,809 --> 00:32:50,460
+handler is and what<font color="#E5E5E5"> you</font><font color="#CCCCCC"> some</font><font color="#E5E5E5"> value has</font>
+
+623
+00:32:50,460 --> 00:32:53,399
+<font color="#CCCCCC">in certain</font><font color="#E5E5E5"> applications programs so</font>
+
+624
+00:32:53,399 --> 00:32:55,289
+we're<font color="#E5E5E5"> mostly looking at application code</font>
+
+625
+00:32:55,289 --> 00:32:57,840
+here<font color="#CCCCCC"> but it will give you a watching</font>
+
+626
+00:32:57,840 --> 00:33:01,370
+point so that when you go into more
+
+627
+00:33:01,370 --> 00:33:04,110
+advanced systems<font color="#E5E5E5"> programming system</font>
+
+628
+00:33:04,110 --> 00:33:07,020
+design<font color="#E5E5E5"> you'll understand what it is</font>
+
+629
+00:33:07,020 --> 00:33:08,039
+<font color="#E5E5E5">you're trying to achieve</font>
+
+630
+00:33:08,039 --> 00:33:10,710
+and<font color="#CCCCCC"> that works out really well this user</font>
+
+631
+00:33:10,710 --> 00:33:12,690
+perspective or programmers perspective
+
+632
+00:33:12,690 --> 00:33:15,179
+<font color="#CCCCCC">works out really well for an</font>
+
+633
+00:33:15,179 --> 00:33:17,370
+<font color="#E5E5E5">introduction and</font><font color="#CCCCCC"> also for satisfying</font>
+
+634
+00:33:17,370 --> 00:33:21,720
+this goal we have<font color="#E5E5E5"> a you should learn</font>
+
+635
+00:33:21,720 --> 00:33:23,909
+something<font color="#CCCCCC"> useful in this course</font><font color="#E5E5E5"> even if</font>
+
+636
+00:33:23,909 --> 00:33:25,559
+you never<font color="#CCCCCC"> take another systems course</font>
+
+637
+00:33:25,559 --> 00:33:27,870
+because the chance<font color="#CCCCCC"> that you're actually</font>
+
+638
+00:33:27,870 --> 00:33:29,610
+<font color="#E5E5E5">gonna go off to a company that</font><font color="#CCCCCC"> designs</font>
+
+639
+00:33:29,610 --> 00:33:33,630
+cache memories is pretty small there's
+
+640
+00:33:33,630 --> 00:33:38,159
+<font color="#CCCCCC">only a couple of ability</font><font color="#E5E5E5"> and so you know</font>
+
+641
+00:33:38,159 --> 00:33:39,929
+in the whole<font color="#E5E5E5"> world the number of people</font>
+
+642
+00:33:39,929 --> 00:33:42,240
+who design microprocessors who design
+
+643
+00:33:42,240 --> 00:33:44,760
+cache memories who implement operating
+
+644
+00:33:44,760 --> 00:33:47,159
+systems there's only a small<font color="#CCCCCC"> fraction of</font>
+
+645
+00:33:47,159 --> 00:33:49,350
+the<font color="#E5E5E5"> total number of people</font><font color="#CCCCCC"> who use this</font>
+
+646
+00:33:49,350 --> 00:33:51,120
+stuff<font color="#E5E5E5"> at various different</font><font color="#CCCCCC"> levels of</font>
+
+647
+00:33:51,120 --> 00:33:55,890
+<font color="#E5E5E5">sophistication and so we're sort of</font>
+
+648
+00:33:55,890 --> 00:33:58,390
+<font color="#E5E5E5">preparing you</font><font color="#CCCCCC"> after</font><font color="#E5E5E5"> that broader task</font>
+
+649
+00:33:58,390 --> 00:34:01,840
+yeah<font color="#CCCCCC"> a life of programming in various</font>
+
+650
+00:34:01,840 --> 00:34:04,810
+<font color="#CCCCCC">stores</font><font color="#E5E5E5"> and a part of</font><font color="#CCCCCC"> what we do is a lot</font>
+
+651
+00:34:04,810 --> 00:34:07,000
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> material that we cover is stuff</font>
+
+652
+00:34:07,000 --> 00:34:09,250
+that<font color="#CCCCCC"> in historically</font><font color="#E5E5E5"> people just kind of</font>
+
+653
+00:34:09,250 --> 00:34:11,409
+learned on the job<font color="#E5E5E5"> or learn</font><font color="#CCCCCC"> from their</font>
+
+654
+00:34:11,409 --> 00:34:13,810
+friends<font color="#CCCCCC"> or poked around or heard from</font>
+
+655
+00:34:13,810 --> 00:34:16,030
+<font color="#CCCCCC">somebody else or run it on the internet</font>
+
+656
+00:34:16,030 --> 00:34:17,560
+<font color="#E5E5E5">or something</font><font color="#CCCCCC"> before there was an</font>
+
+657
+00:34:17,560 --> 00:34:22,300
+Internet<font color="#CCCCCC"> but but a lot of its what we've</font>
+
+658
+00:34:22,300 --> 00:34:24,159
+tried to do is<font color="#E5E5E5"> Conniff</font><font color="#CCCCCC"> I it and put it</font>
+
+659
+00:34:24,159 --> 00:34:26,199
+in<font color="#E5E5E5"> one place so</font><font color="#CCCCCC"> that even</font><font color="#E5E5E5"> if you don't</font>
+
+660
+00:34:26,199 --> 00:34:30,250
+have this<font color="#E5E5E5"> sort of driving</font><font color="#CCCCCC"> urge to dig up</font>
+
+661
+00:34:30,250 --> 00:34:32,800
+<font color="#E5E5E5">everything and learn it on your own you</font>
+
+662
+00:34:32,800 --> 00:34:38,560
+can learn it through us<font color="#E5E5E5"> so as I</font>
+
+663
+00:34:38,560 --> 00:34:40,719
+mentioned there's a lot<font color="#E5E5E5"> of</font><font color="#CCCCCC"> courses</font><font color="#E5E5E5"> if</font>
+
+664
+00:34:40,719 --> 00:34:42,909
+you look at that required this course<font color="#E5E5E5"> as</font>
+
+665
+00:34:42,909 --> 00:34:44,590
+a prerequisite<font color="#E5E5E5"> and I know a lot</font><font color="#CCCCCC"> of</font>
+
+666
+00:34:44,590 --> 00:34:46,659
+people are in<font color="#E5E5E5"> this course mostly because</font>
+
+667
+00:34:46,659 --> 00:34:48,639
+they want<font color="#E5E5E5"> to do other stuff and that's</font>
+
+668
+00:34:48,639 --> 00:34:52,210
+fine<font color="#E5E5E5"> but over time this course started</font>
+
+669
+00:34:52,210 --> 00:34:54,699
+as a CS course but it's been<font color="#CCCCCC"> adopted</font>
+
+670
+00:34:54,699 --> 00:34:57,100
+into<font color="#E5E5E5"> ECE and it's a core course in both</font>
+
+671
+00:34:57,100 --> 00:35:00,700
+<font color="#E5E5E5">programs as well as people</font><font color="#CCCCCC"> from</font><font color="#E5E5E5"> the</font>
+
+672
+00:35:00,700 --> 00:35:02,980
+number<font color="#E5E5E5"> other programs on campus both</font>
+
+673
+00:35:02,980 --> 00:35:04,840
+undergraduate<font color="#E5E5E5"> and graduate who take this</font>
+
+674
+00:35:04,840 --> 00:35:07,420
+course as a<font color="#E5E5E5"> watching point for many</font>
+
+675
+00:35:07,420 --> 00:35:11,500
+other<font color="#E5E5E5"> courses and so one property</font><font color="#CCCCCC"> of all</font>
+
+676
+00:35:11,500 --> 00:35:13,390
+our advanced courses at CMU<font color="#CCCCCC"> is they</font>
+
+677
+00:35:13,390 --> 00:35:15,700
+expect you to<font color="#CCCCCC"> know</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> material and</font>
+
+678
+00:35:15,700 --> 00:35:20,890
+<font color="#E5E5E5">this part of the reason we</font><font color="#CCCCCC"> have it so at</font>
+
+679
+00:35:20,890 --> 00:35:22,780
+this<font color="#E5E5E5"> point I want</font><font color="#CCCCCC"> to turn over</font><font color="#E5E5E5"> the</font>
+
+680
+00:35:22,780 --> 00:35:26,710
+microphone<font color="#CCCCCC"> to Brian who wants to talk</font>
+
+681
+00:35:26,710 --> 00:35:29,980
+<font color="#E5E5E5">something</font><font color="#CCCCCC"> about how</font><font color="#E5E5E5"> he uses the</font><font color="#CCCCCC"> teaching</font>
+
+682
+00:35:29,980 --> 00:35:32,170
+of this course as a as a research
+
+683
+00:35:32,170 --> 00:35:35,040
+endeavor as well
+
+684
+00:35:42,329 --> 00:35:44,619
+that's<font color="#E5E5E5"> more applause</font><font color="#CCCCCC"> than it but I teach</font>
+
+685
+00:35:44,619 --> 00:35:48,849
+it over the summer<font color="#CCCCCC"> so I'm just need to</font>
+
+686
+00:35:48,849 --> 00:35:51,579
+give a brief a<font color="#CCCCCC"> two-minute quick spiel</font>
+
+687
+00:35:51,579 --> 00:35:54,400
+<font color="#CCCCCC">which is that every semester we</font>
+
+688
+00:35:54,400 --> 00:35:56,079
+<font color="#E5E5E5">basically do a little bit of educational</font>
+
+689
+00:35:56,079 --> 00:35:58,480
+research<font color="#CCCCCC"> so not only are we teaching you</font>
+
+690
+00:35:58,480 --> 00:36:00,550
+all<font color="#E5E5E5"> about computer systems we're trying</font>
+
+691
+00:36:00,550 --> 00:36:02,470
+to understand<font color="#E5E5E5"> better how well to teach</font>
+
+692
+00:36:02,470 --> 00:36:05,260
+you computer systems so this<font color="#E5E5E5"> is going to</font>
+
+693
+00:36:05,260 --> 00:36:08,010
+<font color="#E5E5E5">entail those two</font><font color="#CCCCCC"> particular things</font><font color="#E5E5E5"> one</font>
+
+694
+00:36:08,010 --> 00:36:10,839
+we're continuing to revise<font color="#CCCCCC"> to change up</font>
+
+695
+00:36:10,839 --> 00:36:14,530
+the recitations<font color="#CCCCCC"> to as Randy is not yet</font>
+
+696
+00:36:14,530 --> 00:36:17,650
+<font color="#CCCCCC">mentioned</font><font color="#E5E5E5"> there will also be some sort</font>
+
+697
+00:36:17,650 --> 00:36:23,920
+of in-class<font color="#E5E5E5"> quiz now today</font><font color="#CCCCCC"> and they're</font>
+
+698
+00:36:23,920 --> 00:36:26,380
+<font color="#E5E5E5">not even really</font><font color="#CCCCCC"> greeted so but these</font>
+
+699
+00:36:26,380 --> 00:36:27,970
+<font color="#CCCCCC">things are both</font><font color="#E5E5E5"> two things that we're</font>
+
+700
+00:36:27,970 --> 00:36:30,069
+<font color="#E5E5E5">trying to do we're trying to update</font>
+
+701
+00:36:30,069 --> 00:36:32,140
+<font color="#E5E5E5">we're just going to measure at the end</font>
+
+702
+00:36:32,140 --> 00:36:34,869
+of the semester<font color="#CCCCCC"> basically to see how</font>
+
+703
+00:36:34,869 --> 00:36:37,300
+well you learn did you learn better than
+
+704
+00:36:37,300 --> 00:36:39,220
+the students last fall<font color="#CCCCCC"> did it actually</font>
+
+705
+00:36:39,220 --> 00:36:41,020
+help you learn did it help you<font color="#E5E5E5"> use your</font>
+
+706
+00:36:41,020 --> 00:36:43,210
+time<font color="#E5E5E5"> better all these different kinds of</font>
+
+707
+00:36:43,210 --> 00:36:46,030
+<font color="#CCCCCC">questions what do you need to do nothing</font>
+
+708
+00:36:46,030 --> 00:36:48,339
+<font color="#CCCCCC">I mean you're just</font><font color="#E5E5E5"> in the course you're</font>
+
+709
+00:36:48,339 --> 00:36:49,960
+already<font color="#E5E5E5"> learning in the course you don't</font>
+
+710
+00:36:49,960 --> 00:36:51,220
+have<font color="#E5E5E5"> to do anything particular to</font>
+
+711
+00:36:51,220 --> 00:36:53,619
+participate<font color="#E5E5E5"> if for some reason you</font><font color="#CCCCCC"> don't</font>
+
+712
+00:36:53,619 --> 00:36:56,500
+want your data included<font color="#CCCCCC"> then you can</font>
+
+713
+00:36:56,500 --> 00:36:59,619
+clean<font color="#E5E5E5"> out myself</font><font color="#CCCCCC"> or you can email Chad /</font>
+
+714
+00:36:59,619 --> 00:37:02,410
+<font color="#CCCCCC">shocked who's that Everly</font><font color="#E5E5E5"> Center and say</font>
+
+715
+00:37:02,410 --> 00:37:05,500
+<font color="#E5E5E5">don't</font><font color="#CCCCCC"> include my data now</font><font color="#E5E5E5"> all your data</font>
+
+716
+00:37:05,500 --> 00:37:07,660
+is going to be anonymized<font color="#E5E5E5"> no one's going</font>
+
+717
+00:37:07,660 --> 00:37:09,700
+to<font color="#E5E5E5"> look at your ID</font><font color="#CCCCCC"> no it's gonna look at</font>
+
+718
+00:37:09,700 --> 00:37:11,680
+<font color="#E5E5E5">your past grades specifically</font><font color="#CCCCCC"> we're</font><font color="#E5E5E5"> just</font>
+
+719
+00:37:11,680 --> 00:37:13,089
+<font color="#CCCCCC">gonna</font><font color="#E5E5E5"> look at this and see</font><font color="#CCCCCC"> some hash</font>
+
+720
+00:37:13,089 --> 00:37:15,849
+code that says you know some long
+
+721
+00:37:15,849 --> 00:37:18,520
+sequence of letters and<font color="#E5E5E5"> numbers</font><font color="#CCCCCC"> scored</font>
+
+722
+00:37:18,520 --> 00:37:20,049
+this<font color="#E5E5E5"> well in the course and this quality</font>
+
+723
+00:37:20,049 --> 00:37:21,910
+<font color="#CCCCCC">to the assignments and we'll look at</font>
+
+724
+00:37:21,910 --> 00:37:23,230
+<font color="#E5E5E5">that and we're not even gonna look at it</font>
+
+725
+00:37:23,230 --> 00:37:27,339
+<font color="#E5E5E5">until January so however you get on it</font>
+
+726
+00:37:27,339 --> 00:37:29,020
+it doesn't<font color="#CCCCCC"> matter it's not</font><font color="#E5E5E5"> going to</font>
+
+727
+00:37:29,020 --> 00:37:31,270
+impact your actual grade that Phil and
+
+728
+00:37:31,270 --> 00:37:33,430
+<font color="#CCCCCC">Ramey are going to assign</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> we're just</font>
+
+729
+00:37:33,430 --> 00:37:34,630
+going<font color="#E5E5E5"> to be doing the measurements and</font>
+
+730
+00:37:34,630 --> 00:37:37,660
+<font color="#E5E5E5">look at it retroactively Lee and say did</font>
+
+731
+00:37:37,660 --> 00:37:40,690
+<font color="#E5E5E5">it help did you learn better or not so</font>
+
+732
+00:37:40,690 --> 00:37:43,780
+let's see you don't<font color="#E5E5E5"> get any compensation</font>
+
+733
+00:37:43,780 --> 00:37:47,010
+for doing this
+
+734
+00:37:47,730 --> 00:37:50,730
+sorry
+
+735
+00:37:50,770 --> 00:37:52,750
+yeah there's no actual<font color="#CCCCCC"> interception I'm</font>
+
+736
+00:37:52,750 --> 00:37:54,520
+telling you honestly<font color="#E5E5E5"> exactly what we're</font>
+
+737
+00:37:54,520 --> 00:37:56,560
+doing<font color="#E5E5E5"> we're trying new things we want to</font>
+
+738
+00:37:56,560 --> 00:37:59,619
+see that you actually<font color="#E5E5E5"> learned if</font><font color="#CCCCCC"> you</font>
+
+739
+00:37:59,619 --> 00:38:01,540
+have further<font color="#E5E5E5"> questions I'm always happy</font>
+
+740
+00:38:01,540 --> 00:38:03,970
+to<font color="#E5E5E5"> take emails I'm happy to meet with</font>
+
+741
+00:38:03,970 --> 00:38:06,340
+<font color="#CCCCCC">you and discuss these things</font><font color="#E5E5E5"> you know</font>
+
+742
+00:38:06,340 --> 00:38:08,320
+this is one of<font color="#E5E5E5"> my</font><font color="#CCCCCC"> passions of not only</font>
+
+743
+00:38:08,320 --> 00:38:10,510
+do I care about<font color="#CCCCCC"> things like you</font><font color="#E5E5E5"> know</font>
+
+744
+00:38:10,510 --> 00:38:12,280
+actual computer systems<font color="#E5E5E5"> but I care about</font>
+
+745
+00:38:12,280 --> 00:38:13,540
+making<font color="#E5E5E5"> sure</font><font color="#CCCCCC"> that you're learning the</font>
+
+746
+00:38:13,540 --> 00:38:15,700
+material<font color="#E5E5E5"> and that we're doing that the</font>
+
+747
+00:38:15,700 --> 00:38:17,910
+best and most efficient<font color="#E5E5E5"> way possible</font><font color="#CCCCCC"> so</font>
+
+748
+00:38:17,910 --> 00:38:19,330
+<font color="#CCCCCC">that's it</font>
+
+749
+00:38:19,330 --> 00:38:21,099
+the text is fully in the syllabus<font color="#CCCCCC"> so</font>
+
+750
+00:38:21,099 --> 00:38:23,080
+<font color="#CCCCCC">you're also welcome</font><font color="#E5E5E5"> to read it there and</font>
+
+751
+00:38:23,080 --> 00:38:26,550
+<font color="#E5E5E5">otherwise it's back to you</font><font color="#CCCCCC"> Rainey</font>
+
+752
+00:38:30,720 --> 00:38:34,890
+[Applause]
+
+753
+00:38:34,890 --> 00:38:37,480
+so if that seems a<font color="#CCCCCC"> little weird to you</font>
+
+754
+00:38:37,480 --> 00:38:40,090
+that<font color="#CCCCCC"> we have to say</font><font color="#E5E5E5"> now it's because</font>
+
+755
+00:38:40,090 --> 00:38:42,750
+technically you<font color="#CCCCCC"> are human subjects in a</font>
+
+756
+00:38:42,750 --> 00:38:47,470
+research experiment<font color="#E5E5E5"> and as human</font>
+
+757
+00:38:47,470 --> 00:38:50,590
+subjects<font color="#E5E5E5"> you</font><font color="#CCCCCC"> have to be apprised of</font>
+
+758
+00:38:50,590 --> 00:38:54,460
+what's going<font color="#E5E5E5"> on and this research so is</font>
+
+759
+00:38:54,460 --> 00:38:56,619
+very<font color="#E5E5E5"> much oriented it's an educational</font>
+
+760
+00:38:56,619 --> 00:38:59,859
+research so how to<font color="#E5E5E5"> make courses at CMU</font>
+
+761
+00:38:59,859 --> 00:39:03,040
+<font color="#CCCCCC">and elsewhere more effective so now I</font>
+
+762
+00:39:03,040 --> 00:39:04,780
+want to<font color="#E5E5E5"> jump into one of the less</font>
+
+763
+00:39:04,780 --> 00:39:07,240
+<font color="#E5E5E5">pleasant parts of this course and that's</font>
+
+764
+00:39:07,240 --> 00:39:09,339
+<font color="#E5E5E5">the issue of</font><font color="#CCCCCC"> academic integrity so</font>
+
+765
+00:39:09,339 --> 00:39:11,619
+academic integrity is sort of a broad
+
+766
+00:39:11,619 --> 00:39:16,060
+term<font color="#CCCCCC"> that counts various</font><font color="#E5E5E5"> forms of</font>
+
+767
+00:39:16,060 --> 00:39:18,160
+cheating<font color="#E5E5E5"> and plagiarism</font><font color="#CCCCCC"> and I know</font>
+
+768
+00:39:18,160 --> 00:39:20,320
+you've heard a lot<font color="#E5E5E5"> about this in other</font>
+
+769
+00:39:20,320 --> 00:39:24,130
+<font color="#CCCCCC">courses and some other places but it's</font>
+
+770
+00:39:24,130 --> 00:39:26,140
+<font color="#E5E5E5">especially a problem</font><font color="#CCCCCC"> in computer science</font>
+
+771
+00:39:26,140 --> 00:39:28,990
+<font color="#E5E5E5">there's many tools and techniques that</font>
+
+772
+00:39:28,990 --> 00:39:33,000
+<font color="#E5E5E5">make it</font><font color="#CCCCCC"> very easy and very tempting to</font>
+
+773
+00:39:33,000 --> 00:39:36,670
+acquire<font color="#CCCCCC"> information in in ways that</font>
+
+774
+00:39:36,670 --> 00:39:39,670
+you're<font color="#CCCCCC"> not</font><font color="#E5E5E5"> supposed to and it's been a</font>
+
+775
+00:39:39,670 --> 00:39:42,420
+problem<font color="#E5E5E5"> for this course and others that</font>
+
+776
+00:39:42,420 --> 00:39:46,119
+we really take<font color="#CCCCCC"> very seriously</font><font color="#E5E5E5"> and part</font>
+
+777
+00:39:46,119 --> 00:39:49,960
+of it is<font color="#CCCCCC"> I we as instructors</font><font color="#E5E5E5"> feel this</font>
+
+778
+00:39:49,960 --> 00:39:52,030
+special obligation in this course<font color="#E5E5E5"> that</font>
+
+779
+00:39:52,030 --> 00:39:54,130
+if you are<font color="#E5E5E5"> going from this course into</font>
+
+780
+00:39:54,130 --> 00:39:57,310
+say<font color="#E5E5E5"> the operating systems course we</font>
+
+781
+00:39:57,310 --> 00:39:59,230
+wanted<font color="#E5E5E5"> to make sure</font><font color="#CCCCCC"> that you've really</font>
+
+782
+00:39:59,230 --> 00:40:00,100
+<font color="#E5E5E5">mastered</font>
+
+783
+00:40:00,100 --> 00:40:02,350
+<font color="#E5E5E5">Tyrael in a way that those people are</font>
+
+784
+00:40:02,350 --> 00:40:04,300
+<font color="#E5E5E5">expected</font><font color="#CCCCCC"> you've mastered it and if</font>
+
+785
+00:40:04,300 --> 00:40:06,150
+you've done<font color="#CCCCCC"> it</font><font color="#E5E5E5"> by ill-gotten means</font>
+
+786
+00:40:06,150 --> 00:40:08,170
+chances are you haven't growing<font color="#CCCCCC"> rid of</font>
+
+787
+00:40:08,170 --> 00:40:11,370
+the material<font color="#E5E5E5"> and that's a problem so</font>
+
+788
+00:40:11,370 --> 00:40:15,270
+it's not<font color="#CCCCCC"> just</font><font color="#E5E5E5"> that I'm a mean person and</font>
+
+789
+00:40:15,270 --> 00:40:19,060
+vengeful<font color="#CCCCCC"> on things it's like to us all</font>
+
+790
+00:40:19,060 --> 00:40:21,280
+<font color="#E5E5E5">of us we feel like this is our one</font><font color="#CCCCCC"> of</font>
+
+791
+00:40:21,280 --> 00:40:24,130
+our real obligations as<font color="#CCCCCC"> instructors</font><font color="#E5E5E5"> and</font>
+
+792
+00:40:24,130 --> 00:40:25,750
+<font color="#CCCCCC">also I should</font><font color="#E5E5E5"> say one of the least</font>
+
+793
+00:40:25,750 --> 00:40:30,880
+Pleasant parts of the job that<font color="#E5E5E5"> I have so</font>
+
+794
+00:40:30,880 --> 00:40:33,160
+in general then and you'll see in<font color="#E5E5E5"> the</font>
+
+795
+00:40:33,160 --> 00:40:36,400
+syllabus a fairly in-depth discussion of
+
+796
+00:40:36,400 --> 00:40:38,320
+what's<font color="#E5E5E5"> allowed and what's</font><font color="#CCCCCC"> not and</font><font color="#E5E5E5"> I</font>
+
+797
+00:40:38,320 --> 00:40:40,630
+really advise<font color="#CCCCCC"> you to look</font><font color="#E5E5E5"> very carefully</font>
+
+798
+00:40:40,630 --> 00:40:44,040
+at<font color="#CCCCCC"> that but in</font><font color="#E5E5E5"> general all the</font>
+
+799
+00:40:44,040 --> 00:40:46,360
+<font color="#E5E5E5">assignments you do the labs in this</font>
+
+800
+00:40:46,360 --> 00:40:49,360
+course is eight<font color="#E5E5E5"> of them are done on your</font>
+
+801
+00:40:49,360 --> 00:40:52,480
+own<font color="#E5E5E5"> and we may really on your own you</font>
+
+802
+00:40:52,480 --> 00:40:55,390
+can<font color="#E5E5E5"> make use of information that's in</font>
+
+803
+00:40:55,390 --> 00:40:58,960
+<font color="#E5E5E5">the textbook on the class web pages you</font>
+
+804
+00:40:58,960 --> 00:41:01,720
+can talk to the TAS<font color="#E5E5E5"> or the instructors</font>
+
+805
+00:41:01,720 --> 00:41:04,180
+<font color="#CCCCCC">but you really shouldn't be</font><font color="#E5E5E5"> cooperating</font>
+
+806
+00:41:04,180 --> 00:41:06,610
+<font color="#E5E5E5">with each other in any significant way</font>
+
+807
+00:41:06,610 --> 00:41:10,440
+in getting<font color="#CCCCCC"> your assignments done</font><font color="#E5E5E5"> also</font>
+
+808
+00:41:10,440 --> 00:41:13,300
+<font color="#E5E5E5">the reality</font><font color="#CCCCCC"> is use a</font><font color="#E5E5E5"> lot of stuff on the</font>
+
+809
+00:41:13,300 --> 00:41:16,180
+web<font color="#CCCCCC"> that makes it possible to bypass</font>
+
+810
+00:41:16,180 --> 00:41:18,430
+<font color="#E5E5E5">some</font><font color="#CCCCCC"> of what our goals for</font><font color="#E5E5E5"> this course</font>
+
+811
+00:41:18,430 --> 00:41:21,220
+<font color="#E5E5E5">are as from learning this textbook gets</font>
+
+812
+00:41:21,220 --> 00:41:26,100
+used at<font color="#CCCCCC"> 320 schools around</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> world</font><font color="#E5E5E5"> and</font>
+
+813
+00:41:26,100 --> 00:41:30,160
+some<font color="#CCCCCC"> of the</font><font color="#E5E5E5"> labs were developed and are</font>
+
+814
+00:41:30,160 --> 00:41:32,050
+made available although<font color="#E5E5E5"> we've tended to</font>
+
+815
+00:41:32,050 --> 00:41:33,670
+tweak the lamps<font color="#CCCCCC"> that you see here</font>
+
+816
+00:41:33,670 --> 00:41:35,290
+<font color="#CCCCCC">they're not quite the same</font><font color="#E5E5E5"> as the</font>
+
+817
+00:41:35,290 --> 00:41:39,550
+textbook ones but as a<font color="#E5E5E5"> result there's a</font>
+
+818
+00:41:39,550 --> 00:41:42,100
+lot of little hidden<font color="#E5E5E5"> places</font><font color="#CCCCCC"> on the web</font>
+
+819
+00:41:42,100 --> 00:41:44,470
+<font color="#E5E5E5">that have material that might be</font>
+
+820
+00:41:44,470 --> 00:41:48,120
+<font color="#CCCCCC">relevant</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> some of your assignments and</font>
+
+821
+00:41:48,120 --> 00:41:51,610
+so it can be<font color="#E5E5E5"> easy tempting and sometimes</font>
+
+822
+00:41:51,610 --> 00:41:54,070
+feel<font color="#CCCCCC"> almost necessary to make use of</font>
+
+823
+00:41:54,070 --> 00:41:56,980
+that<font color="#CCCCCC"> information and</font><font color="#E5E5E5"> we really aim to</font>
+
+824
+00:41:56,980 --> 00:42:00,300
+<font color="#E5E5E5">make that not happen</font>
+
+825
+00:42:00,850 --> 00:42:03,850
+so in general acquiring<font color="#CCCCCC"> information from</font>
+
+826
+00:42:03,850 --> 00:42:06,250
+others from the web in ways that<font color="#CCCCCC"> isn't</font>
+
+827
+00:42:06,250 --> 00:42:08,080
+<font color="#CCCCCC">appropriate</font><font color="#E5E5E5"> is is not</font><font color="#CCCCCC"> allowed and the</font>
+
+828
+00:42:08,080 --> 00:42:10,570
+other part of it<font color="#E5E5E5"> is it's the</font><font color="#CCCCCC"> other side</font>
+
+829
+00:42:10,570 --> 00:42:12,730
+<font color="#E5E5E5">of it</font><font color="#CCCCCC"> is we also don't want you to</font>
+
+830
+00:42:12,730 --> 00:42:13,780
+supply information
+
+831
+00:42:13,780 --> 00:42:18,190
+<font color="#CCCCCC">two students</font><font color="#E5E5E5"> in this course in or in</font>
+
+832
+00:42:18,190 --> 00:42:20,910
+future<font color="#CCCCCC"> versions of</font><font color="#E5E5E5"> this course and we</font>
+
+833
+00:42:20,910 --> 00:42:26,490
+put on you an obligation<font color="#E5E5E5"> now and forever</font>
+
+834
+00:42:26,490 --> 00:42:30,130
+<font color="#CCCCCC">to not be disclosing information</font>
+
+835
+00:42:30,130 --> 00:42:32,980
+relevant to<font color="#E5E5E5"> the labs in this course for</font>
+
+836
+00:42:32,980 --> 00:42:37,750
+other students<font color="#E5E5E5"> and I can say this you</font>
+
+837
+00:42:37,750 --> 00:42:39,870
+should realize<font color="#CCCCCC"> it if you look at the</font>
+
+838
+00:42:39,870 --> 00:42:42,460
+academic<font color="#E5E5E5"> integrity policies of the</font>
+
+839
+00:42:42,460 --> 00:42:44,680
+<font color="#CCCCCC">university one</font><font color="#E5E5E5"> of the things they say</font>
+
+840
+00:42:44,680 --> 00:42:46,180
+queer is there's no<font color="#E5E5E5"> statute of</font>
+
+841
+00:42:46,180 --> 00:42:49,780
+<font color="#CCCCCC">limitations its meaning</font><font color="#E5E5E5"> even</font><font color="#CCCCCC"> if</font><font color="#E5E5E5"> you get</font>
+
+842
+00:42:49,780 --> 00:42:52,210
+through this course<font color="#CCCCCC"> and you're not</font>
+
+843
+00:42:52,210 --> 00:42:55,270
+caught doing something<font color="#E5E5E5"> and you get a</font>
+
+844
+00:42:55,270 --> 00:42:57,700
+<font color="#E5E5E5">decent grade</font><font color="#CCCCCC"> you're not really home free</font>
+
+845
+00:42:57,700 --> 00:43:01,530
+<font color="#E5E5E5">we've we detect something in the past</font>
+
+846
+00:43:01,530 --> 00:43:05,220
+<font color="#E5E5E5">that was unauthorized</font><font color="#CCCCCC"> we can go back and</font>
+
+847
+00:43:05,220 --> 00:43:07,930
+<font color="#E5E5E5">through a</font><font color="#CCCCCC"> process of change your grade</font>
+
+848
+00:43:07,930 --> 00:43:11,950
+and possibly<font color="#E5E5E5"> revoke you to group so</font><font color="#CCCCCC"> not</font>
+
+849
+00:43:11,950 --> 00:43:14,620
+to sound too scary but<font color="#E5E5E5"> it's true and</font>
+
+850
+00:43:14,620 --> 00:43:18,370
+we've<font color="#E5E5E5"> done there's a special problem</font>
+
+851
+00:43:18,370 --> 00:43:21,580
+<font color="#E5E5E5">with github that</font><font color="#CCCCCC"> a lot of</font><font color="#E5E5E5"> students</font><font color="#CCCCCC"> like</font>
+
+852
+00:43:21,580 --> 00:43:23,860
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> use</font><font color="#CCCCCC"> GIMP</font><font color="#E5E5E5"> which is a great way to do</font>
+
+853
+00:43:23,860 --> 00:43:28,300
+version control but github<font color="#E5E5E5"> if</font><font color="#CCCCCC"> there's</font>
+
+854
+00:43:28,300 --> 00:43:31,000
+ways<font color="#CCCCCC"> that your account if you you might</font>
+
+855
+00:43:31,000 --> 00:43:33,400
+have<font color="#CCCCCC"> it as a private</font><font color="#E5E5E5"> currently but it</font>
+
+856
+00:43:33,400 --> 00:43:36,010
+<font color="#E5E5E5">will become</font><font color="#CCCCCC"> public after some period</font><font color="#E5E5E5"> of</font>
+
+857
+00:43:36,010 --> 00:43:37,720
+<font color="#CCCCCC">time</font><font color="#E5E5E5"> and so you can endeavour Tinley</font>
+
+858
+00:43:37,720 --> 00:43:41,220
+we've stuff lying around<font color="#E5E5E5"> that really is</font>
+
+859
+00:43:41,220 --> 00:43:43,540
+effectively disclosing information to
+
+860
+00:43:43,540 --> 00:43:47,110
+future students<font color="#E5E5E5"> so what is not cheating</font>
+
+861
+00:43:47,110 --> 00:43:48,760
+<font color="#E5E5E5">then and I use the term cheating</font>
+
+862
+00:43:48,760 --> 00:43:54,040
+plagiarism<font color="#E5E5E5"> interchangeably oh it's okay</font>
+
+863
+00:43:54,040 --> 00:43:55,540
+to work with other students if<font color="#E5E5E5"> they're</font>
+
+864
+00:43:55,540 --> 00:43:57,490
+having trouble<font color="#CCCCCC"> getting their code</font><font color="#E5E5E5"> to</font>
+
+865
+00:43:57,490 --> 00:43:59,830
+compile the debugger to work sort<font color="#E5E5E5"> of</font>
+
+866
+00:43:59,830 --> 00:44:04,060
+system level<font color="#E5E5E5"> stuff that's fine</font><font color="#CCCCCC"> very</font><font color="#E5E5E5"> very</font>
+
+867
+00:44:04,060 --> 00:44:06,820
+high level<font color="#E5E5E5"> design issues and that's one</font>
+
+868
+00:44:06,820 --> 00:44:09,370
+where<font color="#CCCCCC"> people are</font><font color="#E5E5E5"> often misinterpret what</font>
+
+869
+00:44:09,370 --> 00:44:12,160
+<font color="#CCCCCC">we mean by high level design so if</font>
+
+870
+00:44:12,160 --> 00:44:16,780
+<font color="#CCCCCC">you're here's an example of a case I had</font>
+
+871
+00:44:16,780 --> 00:44:20,170
+<font color="#E5E5E5">several years</font><font color="#CCCCCC"> ago oh we didn't we didn't</font>
+
+872
+00:44:20,170 --> 00:44:23,770
+I didn't<font color="#E5E5E5"> cheat</font><font color="#CCCCCC"> I was reading my</font><font color="#E5E5E5"> code</font>
+
+873
+00:44:23,770 --> 00:44:32,170
+and my friend<font color="#E5E5E5"> was typing it in or we</font>
+
+874
+00:44:32,170 --> 00:44:33,820
+went<font color="#E5E5E5"> on the whiteboard and worked it all</font>
+
+875
+00:44:33,820 --> 00:44:39,400
+out in pseudocode and but then we all
+
+876
+00:44:39,400 --> 00:44:42,100
+did the coding<font color="#E5E5E5"> our sauce that pseudocode</font>
+
+877
+00:44:42,100 --> 00:44:46,780
+is code<font color="#E5E5E5"> and even</font><font color="#CCCCCC"> if</font><font color="#E5E5E5"> it's pseudo the</font>
+
+878
+00:44:46,780 --> 00:44:48,840
+point is if it's at that<font color="#CCCCCC"> level of</font><font color="#E5E5E5"> detail</font>
+
+879
+00:44:48,840 --> 00:44:51,550
+<font color="#E5E5E5">where you have to be writing it down</font><font color="#CCCCCC"> to</font>
+
+880
+00:44:51,550 --> 00:44:53,950
+explain it<font color="#CCCCCC"> to somebody</font><font color="#E5E5E5"> that's not a high</font>
+
+881
+00:44:53,950 --> 00:44:56,680
+<font color="#E5E5E5">level high level means just in general</font>
+
+882
+00:44:56,680 --> 00:45:01,090
+<font color="#CCCCCC">oh I found it best</font><font color="#E5E5E5"> to you know array</font>
+
+883
+00:45:01,090 --> 00:45:04,150
+<font color="#CCCCCC">axises array row</font><font color="#E5E5E5"> wise rather than column</font>
+
+884
+00:45:04,150 --> 00:45:07,660
+wise<font color="#E5E5E5"> in general there's a</font><font color="#CCCCCC"> lot of code</font>
+
+885
+00:45:07,660 --> 00:45:11,650
+<font color="#CCCCCC">available through the book web page the</font>
+
+886
+00:45:11,650 --> 00:45:13,630
+course web pages and things and of
+
+887
+00:45:13,630 --> 00:45:16,150
+course you can<font color="#CCCCCC"> use make use of them so</font>
+
+888
+00:45:16,150 --> 00:45:18,970
+again<font color="#E5E5E5"> as I mentioned that the syllabus</font>
+
+889
+00:45:18,970 --> 00:45:22,000
+goes into<font color="#CCCCCC"> fair motor</font><font color="#E5E5E5"> detailing</font><font color="#CCCCCC"> them so</font>
+
+890
+00:45:22,000 --> 00:45:24,750
+what happens<font color="#E5E5E5"> so I should mention that</font>
+
+891
+00:45:24,750 --> 00:45:27,550
+we're pretty<font color="#CCCCCC"> good</font><font color="#E5E5E5"> tracking</font><font color="#CCCCCC"> this stuff</font>
+
+892
+00:45:27,550 --> 00:45:31,330
+down<font color="#E5E5E5"> I'm probably better or as good at</font>
+
+893
+00:45:31,330 --> 00:45:37,030
+using<font color="#E5E5E5"> a web search as you</font><font color="#CCCCCC"> are and so we</font>
+
+894
+00:45:37,030 --> 00:45:40,030
+we find these<font color="#E5E5E5"> things</font><font color="#CCCCCC"> if</font><font color="#E5E5E5"> you found a copy</font>
+
+895
+00:45:40,030 --> 00:45:42,609
+of some code on github<font color="#E5E5E5"> from some student</font>
+
+896
+00:45:42,609 --> 00:45:45,490
+in Iowa we've probably already<font color="#E5E5E5"> found</font>
+
+897
+00:45:45,490 --> 00:45:48,280
+that code<font color="#CCCCCC"> then make</font><font color="#E5E5E5"> sure have copies of</font>
+
+898
+00:45:48,280 --> 00:45:51,460
+<font color="#E5E5E5">it we also have copies</font><font color="#CCCCCC"> of every single</font>
+
+899
+00:45:51,460 --> 00:45:54,130
+submission<font color="#E5E5E5"> made in this course over</font><font color="#CCCCCC"> its</font>
+
+900
+00:45:54,130 --> 00:45:57,430
+entire<font color="#CCCCCC"> history and we run these programs</font>
+
+901
+00:45:57,430 --> 00:45:59,290
+<font color="#CCCCCC">where there are</font><font color="#E5E5E5"> called cheat checkers</font>
+
+902
+00:45:59,290 --> 00:46:02,580
+that<font color="#CCCCCC"> will just</font><font color="#E5E5E5"> take we</font><font color="#CCCCCC"> can literally</font>
+
+903
+00:46:02,580 --> 00:46:05,980
+make this big pot<font color="#E5E5E5"> of all the</font><font color="#CCCCCC"> assignments</font>
+
+904
+00:46:05,980 --> 00:46:08,050
+that<font color="#E5E5E5"> ever have been created and then</font>
+
+905
+00:46:08,050 --> 00:46:10,150
+throw in your code<font color="#CCCCCC"> and it does this</font>
+
+906
+00:46:10,150 --> 00:46:12,970
+analysis in comparison that<font color="#E5E5E5"> doesn't get</font>
+
+907
+00:46:12,970 --> 00:46:15,250
+fooled<font color="#E5E5E5"> by things like changing comments</font>
+
+908
+00:46:15,250 --> 00:46:17,500
+or variable names or<font color="#E5E5E5"> indentation</font><font color="#CCCCCC"> or</font>
+
+909
+00:46:17,500 --> 00:46:20,080
+things like<font color="#E5E5E5"> that</font><font color="#CCCCCC"> and it</font><font color="#E5E5E5"> comes back</font><font color="#CCCCCC"> with</font>
+
+910
+00:46:20,080 --> 00:46:22,060
+matches and<font color="#CCCCCC"> some of the</font><font color="#E5E5E5"> top matches are</font>
+
+911
+00:46:22,060 --> 00:46:24,520
+<font color="#E5E5E5">false you just sort of happenstance but</font>
+
+912
+00:46:24,520 --> 00:46:26,740
+<font color="#CCCCCC">others will look very fishy</font><font color="#E5E5E5"> and</font>
+
+913
+00:46:26,740 --> 00:46:28,750
+suspicious to us<font color="#E5E5E5"> Mets when we start</font>
+
+914
+00:46:28,750 --> 00:46:33,820
+looking<font color="#CCCCCC"> more closely so it's actually</font>
+
+915
+00:46:33,820 --> 00:46:37,010
+pretty<font color="#CCCCCC"> hard to to trick the</font>
+
+916
+00:46:37,010 --> 00:46:40,340
+programmers<font color="#E5E5E5"> and once it happens we begin</font>
+
+917
+00:46:40,340 --> 00:46:43,250
+a<font color="#CCCCCC"> process where we</font><font color="#E5E5E5"> several eyes will</font>
+
+918
+00:46:43,250 --> 00:46:45,680
+<font color="#E5E5E5">look more closely at the code</font><font color="#CCCCCC"> and if</font>
+
+919
+00:46:45,680 --> 00:46:48,020
+it's<font color="#E5E5E5"> suspicious then we'll call you in</font>
+
+920
+00:46:48,020 --> 00:46:49,670
+for a meeting<font color="#E5E5E5"> which can be a very</font>
+
+921
+00:46:49,670 --> 00:46:52,310
+<font color="#CCCCCC">uncomfortable meeting and just as a</font>
+
+922
+00:46:52,310 --> 00:46:55,730
+consequence<font color="#CCCCCC"> our our minimum penalty is</font>
+
+923
+00:46:55,730 --> 00:46:58,880
+always<font color="#CCCCCC"> a minus hundred percent for</font><font color="#E5E5E5"> that</font>
+
+924
+00:46:58,880 --> 00:47:02,060
+assignment<font color="#E5E5E5"> so it's</font><font color="#CCCCCC"> always worse then if</font>
+
+925
+00:47:02,060 --> 00:47:04,240
+you<font color="#E5E5E5"> haven't turned into anything at all</font>
+
+926
+00:47:04,240 --> 00:47:07,370
+but that's<font color="#E5E5E5"> actually when we're when</font>
+
+927
+00:47:07,370 --> 00:47:09,880
+things you know when there's some
+
+928
+00:47:09,880 --> 00:47:11,960
+extenuating circumstance or you're
+
+929
+00:47:11,960 --> 00:47:14,690
+honest about<font color="#CCCCCC"> it</font><font color="#E5E5E5"> there's other</font><font color="#CCCCCC"> cases and</font>
+
+930
+00:47:14,690 --> 00:47:16,970
+not uncommon in fact the default case<font color="#E5E5E5"> is</font>
+
+931
+00:47:16,970 --> 00:47:19,370
+that we give you<font color="#CCCCCC"> a failing grade the</font>
+
+932
+00:47:19,370 --> 00:47:20,660
+assignment<font color="#E5E5E5"> that goes on</font><font color="#CCCCCC"> your permanent</font>
+
+933
+00:47:20,660 --> 00:47:24,050
+record<font color="#E5E5E5"> and all of these are marked as a</font>
+
+934
+00:47:24,050 --> 00:47:27,650
+ID<font color="#E5E5E5"> by the</font><font color="#CCCCCC"> university</font><font color="#E5E5E5"> and the rule at the</font>
+
+935
+00:47:27,650 --> 00:47:31,520
+university is one<font color="#E5E5E5"> a IV okay</font><font color="#CCCCCC"> hope you</font>
+
+936
+00:47:31,520 --> 00:47:34,730
+learned your<font color="#E5E5E5"> lesson</font><font color="#CCCCCC"> - a IDs you get</font>
+
+937
+00:47:34,730 --> 00:47:37,220
+<font color="#CCCCCC">count in front of a board consisting of</font>
+
+938
+00:47:37,220 --> 00:47:39,560
+<font color="#CCCCCC">faculty and other students where</font><font color="#E5E5E5"> you</font>
+
+939
+00:47:39,560 --> 00:47:42,320
+have to explain<font color="#CCCCCC"> it and they can assess</font>
+
+940
+00:47:42,320 --> 00:47:44,870
+<font color="#E5E5E5">the penalty which can be that the</font>
+
+941
+00:47:44,870 --> 00:47:47,060
+maximum penalty we as instructors can
+
+942
+00:47:47,060 --> 00:47:49,760
+impose is to fail of course<font color="#CCCCCC"> but they can</font>
+
+943
+00:47:49,760 --> 00:47:53,780
+impose expulsion<font color="#CCCCCC"> and they do</font><font color="#E5E5E5"> I've been</font>
+
+944
+00:47:53,780 --> 00:47:55,490
+in<font color="#CCCCCC"> several of the hearings for somebody</font>
+
+945
+00:47:55,490 --> 00:47:58,400
+who<font color="#CCCCCC"> is on their</font><font color="#E5E5E5"> second instance and they</font>
+
+946
+00:47:58,400 --> 00:48:03,050
+were expelled from<font color="#E5E5E5"> users so just as for</font>
+
+947
+00:48:03,050 --> 00:48:06,380
+example<font color="#E5E5E5"> two years ago we had</font><font color="#CCCCCC"> twenty</font>
+
+948
+00:48:06,380 --> 00:48:10,100
+students<font color="#E5E5E5"> we failed the course dude that</font>
+
+949
+00:48:10,100 --> 00:48:12,200
+that's about<font color="#CCCCCC"> 5% of</font><font color="#E5E5E5"> the students</font><font color="#CCCCCC"> in the</font>
+
+950
+00:48:12,200 --> 00:48:15,770
+course<font color="#CCCCCC"> one of them at</font><font color="#E5E5E5"> least one of whom</font>
+
+951
+00:48:15,770 --> 00:48:17,450
+subsequently is expelled<font color="#E5E5E5"> from the</font>
+
+952
+00:48:17,450 --> 00:48:21,590
+<font color="#E5E5E5">University</font><font color="#CCCCCC"> last a couple</font><font color="#E5E5E5"> of years ago</font><font color="#CCCCCC"> I</font>
+
+953
+00:48:21,590 --> 00:48:25,280
+I we came<font color="#E5E5E5"> across some code</font><font color="#CCCCCC"> that showed</font>
+
+954
+00:48:25,280 --> 00:48:26,990
+up in a lot<font color="#CCCCCC"> of people's implementation</font>
+
+955
+00:48:26,990 --> 00:48:29,810
+<font color="#CCCCCC">to one</font><font color="#E5E5E5"> of the labs track down where it</font>
+
+956
+00:48:29,810 --> 00:48:32,210
+<font color="#E5E5E5">would</font><font color="#CCCCCC"> come from and then went back</font>
+
+957
+00:48:32,210 --> 00:48:35,450
+through several<font color="#E5E5E5"> years of submissions and</font>
+
+958
+00:48:35,450 --> 00:48:37,870
+found this same source<font color="#E5E5E5"> in a lot of</font>
+
+959
+00:48:37,870 --> 00:48:40,370
+people's assignments and so we went back
+
+960
+00:48:40,370 --> 00:48:43,370
+<font color="#CCCCCC">and through a process involved</font><font color="#E5E5E5"> multiple</font>
+
+961
+00:48:43,370 --> 00:48:46,250
+professors and the<font color="#CCCCCC"> University</font><font color="#E5E5E5"> Dean of</font>
+
+962
+00:48:46,250 --> 00:48:50,099
+Student Affairs<font color="#CCCCCC"> we</font><font color="#E5E5E5"> actually penalized</font>
+
+963
+00:48:50,099 --> 00:48:52,890
+<font color="#CCCCCC">we graded</font><font color="#E5E5E5"> and assigned new grades to</font>
+
+964
+00:48:52,890 --> 00:48:55,019
+<font color="#CCCCCC">eleven different students who had</font>
+
+965
+00:48:55,019 --> 00:48:57,210
+already taken<font color="#CCCCCC"> the course and some</font><font color="#E5E5E5"> who</font>
+
+966
+00:48:57,210 --> 00:49:00,299
+had already finished<font color="#E5E5E5"> at CMU so we really</font>
+
+967
+00:49:00,299 --> 00:49:01,739
+do take that no<font color="#E5E5E5"> statute of limitations</font>
+
+968
+00:49:01,739 --> 00:49:05,400
+<font color="#CCCCCC">here absolutely</font><font color="#E5E5E5"> and what they I'll just</font>
+
+969
+00:49:05,400 --> 00:49:07,499
+say personally is I don't<font color="#E5E5E5"> like doing</font>
+
+970
+00:49:07,499 --> 00:49:09,390
+<font color="#E5E5E5">this and I don't</font><font color="#CCCCCC"> even</font><font color="#E5E5E5"> like talking</font><font color="#CCCCCC"> about</font>
+
+971
+00:49:09,390 --> 00:49:12,509
+<font color="#E5E5E5">it</font><font color="#CCCCCC"> I feel like there's a tremendous</font>
+
+972
+00:49:12,509 --> 00:49:14,220
+waste of my time to<font color="#E5E5E5"> be looking at</font>
+
+973
+00:49:14,220 --> 00:49:16,019
+somebody's assignment<font color="#E5E5E5"> trying to figure</font>
+
+974
+00:49:16,019 --> 00:49:17,729
+<font color="#CCCCCC">out whether it's a copy of this other</font>
+
+975
+00:49:17,729 --> 00:49:20,880
+one that's on github<font color="#CCCCCC"> and it's</font><font color="#E5E5E5"> spending</font>
+
+976
+00:49:20,880 --> 00:49:23,579
+time talking<font color="#CCCCCC"> to the students and hearing</font>
+
+977
+00:49:23,579 --> 00:49:27,420
+<font color="#CCCCCC">they're you know they're</font><font color="#E5E5E5"> kind of dodging</font>
+
+978
+00:49:27,420 --> 00:49:29,779
+the issue<font color="#E5E5E5"> until they finally fess up</font>
+
+979
+00:49:29,779 --> 00:49:32,670
+<font color="#CCCCCC">confessing</font><font color="#E5E5E5"> and state what they really</font>
+
+980
+00:49:32,670 --> 00:49:34,499
+<font color="#E5E5E5">did and going through this whole</font><font color="#CCCCCC"> process</font>
+
+981
+00:49:34,499 --> 00:49:37,049
+<font color="#E5E5E5">it's</font><font color="#CCCCCC"> very painful it's emotionally</font>
+
+982
+00:49:37,049 --> 00:49:40,140
+actually very difficult<font color="#CCCCCC"> for me and it's</font>
+
+983
+00:49:40,140 --> 00:49:43,309
+way more<font color="#E5E5E5"> difficult for the</font><font color="#CCCCCC"> students so</font>
+
+984
+00:49:43,309 --> 00:49:45,900
+and I know all of you here have<font color="#E5E5E5"> no</font>
+
+985
+00:49:45,900 --> 00:49:50,309
+intention of cheating in the course<font color="#E5E5E5"> but</font>
+
+986
+00:49:50,309 --> 00:49:53,400
+<font color="#E5E5E5">what happens is as that deadline draws</font>
+
+987
+00:49:53,400 --> 00:49:55,079
+near<font color="#CCCCCC"> and you're just not getting the</font>
+
+988
+00:49:55,079 --> 00:49:57,599
+assignment done and you know there's a
+
+989
+00:49:57,599 --> 00:50:08,400
+copy line out<font color="#E5E5E5"> there it's just so</font><font color="#CCCCCC"> so it</font>
+
+990
+00:50:08,400 --> 00:50:11,910
+happens and it's but the<font color="#E5E5E5"> consequences</font>
+
+991
+00:50:11,910 --> 00:50:20,910
+are really really terrible question<font color="#CCCCCC"> moss</font>
+
+992
+00:50:20,910 --> 00:50:22,920
+generates a lot of<font color="#E5E5E5"> this question is good</font>
+
+993
+00:50:22,920 --> 00:50:24,869
+one what about false<font color="#E5E5E5"> positives a lot of</font>
+
+994
+00:50:24,869 --> 00:50:26,999
+false<font color="#CCCCCC"> positives</font><font color="#E5E5E5"> and there's been a few</font>
+
+995
+00:50:26,999 --> 00:50:29,670
+<font color="#CCCCCC">times when we'll have that meeting</font><font color="#E5E5E5"> with</font>
+
+996
+00:50:29,670 --> 00:50:30,900
+<font color="#CCCCCC">the student and there is some</font>
+
+997
+00:50:30,900 --> 00:50:35,339
+explanation<font color="#CCCCCC"> and nothing</font><font color="#E5E5E5"> happens</font><font color="#CCCCCC"> but you</font>
+
+998
+00:50:35,339 --> 00:50:36,989
+have to<font color="#E5E5E5"> realize that we as instructors</font>
+
+999
+00:50:36,989 --> 00:50:41,549
+<font color="#E5E5E5">don't have to have your confession</font><font color="#CCCCCC"> to be</font>
+
+1000
+00:50:41,549 --> 00:50:44,069
+able<font color="#E5E5E5"> to apply consequences we can say I</font>
+
+1001
+00:50:44,069 --> 00:50:46,890
+believe<font color="#CCCCCC"> you cheated I'm going to give</font>
+
+1002
+00:50:46,890 --> 00:50:49,319
+you this<font color="#E5E5E5"> penalty</font><font color="#CCCCCC"> you have the right to</font>
+
+1003
+00:50:49,319 --> 00:50:52,019
+appeal it and I<font color="#E5E5E5"> think it's a good</font><font color="#CCCCCC"> thing</font>
+
+1004
+00:50:52,019 --> 00:50:55,019
+to appeal if it really was unjust<font color="#CCCCCC"> we try</font>
+
+1005
+00:50:55,019 --> 00:50:57,869
+not<font color="#E5E5E5"> to</font><font color="#CCCCCC"> do this</font><font color="#E5E5E5"> but you know we don't</font>
+
+1006
+00:50:57,869 --> 00:51:00,509
+we're not the judge or the jury<font color="#E5E5E5"> we don't</font>
+
+1007
+00:51:00,509 --> 00:51:02,380
+have to
+
+1008
+00:51:02,380 --> 00:51:04,390
+have proof beyond<font color="#CCCCCC"> reasonable doubt this</font>
+
+1009
+00:51:04,390 --> 00:51:06,880
+occurred we can say I believe<font color="#CCCCCC"> that this</font>
+
+1010
+00:51:06,880 --> 00:51:11,920
+<font color="#E5E5E5">is what I believe you can appeal</font><font color="#CCCCCC"> so I've</font>
+
+1011
+00:51:11,920 --> 00:51:14,229
+never<font color="#E5E5E5"> had</font><font color="#CCCCCC"> that happen to</font><font color="#E5E5E5"> me</font><font color="#CCCCCC"> that case</font>
+
+1012
+00:51:14,229 --> 00:51:17,109
+but I<font color="#CCCCCC"> had some number</font><font color="#E5E5E5"> of students where</font>
+
+1013
+00:51:17,109 --> 00:51:18,729
+they come in<font color="#CCCCCC"> and there's some</font>
+
+1014
+00:51:18,729 --> 00:51:25,509
+explanation<font color="#E5E5E5"> and that's okay so let's</font>
+
+1015
+00:51:25,509 --> 00:51:35,079
+just<font color="#CCCCCC"> go through a</font><font color="#E5E5E5"> few examples</font><font color="#CCCCCC"> here</font><font color="#E5E5E5"> you</font>
+
+1016
+00:51:35,079 --> 00:51:38,499
+know if you start using searches for<font color="#CCCCCC"> 213</font>
+
+1017
+00:51:38,499 --> 00:51:41,769
+bomb lab which will come<font color="#E5E5E5"> up actually</font>
+
+1018
+00:51:41,769 --> 00:51:45,959
+with<font color="#CCCCCC"> some</font><font color="#E5E5E5"> interest in YouTube</font><font color="#CCCCCC"> videos I</font>
+
+1019
+00:51:46,410 --> 00:51:49,989
+know and I've<font color="#E5E5E5"> looked at those videos</font>
+
+1020
+00:51:49,989 --> 00:51:53,949
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> I've watched so we kind of know</font>
+
+1021
+00:51:53,949 --> 00:51:55,689
+what's there<font color="#E5E5E5"> but you shouldn't be doing</font>
+
+1022
+00:51:55,689 --> 00:51:57,789
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> right</font><font color="#E5E5E5"> that's clearly a case where</font>
+
+1023
+00:51:57,789 --> 00:51:59,650
+you're trying<font color="#E5E5E5"> to gain information to do</font>
+
+1024
+00:51:59,650 --> 00:52:01,930
+an assignment<font color="#CCCCCC"> not the technical</font>
+
+1025
+00:52:01,930 --> 00:52:04,089
+information<font color="#E5E5E5"> but something to help you do</font>
+
+1026
+00:52:04,089 --> 00:52:07,319
+a solution<font color="#E5E5E5"> in general</font><font color="#CCCCCC"> of course</font>
+
+1027
+00:52:07,319 --> 00:52:09,910
+<font color="#E5E5E5">supplying a code that's a fairly evident</font>
+
+1028
+00:52:09,910 --> 00:52:12,099
+thing giving a file<font color="#CCCCCC"> that's pretty</font>
+
+1029
+00:52:12,099 --> 00:52:13,929
+<font color="#CCCCCC">evidence</font><font color="#E5E5E5"> that as I</font><font color="#CCCCCC"> mentioned also</font>
+
+1030
+00:52:13,929 --> 00:52:16,839
+writing sooner<font color="#E5E5E5"> Lakota on</font><font color="#CCCCCC"> a whiteboard is</font>
+
+1031
+00:52:16,839 --> 00:52:21,789
+also sharing<font color="#E5E5E5"> of new</font><font color="#CCCCCC"> information on</font><font color="#E5E5E5"> the</font>
+
+1032
+00:52:21,789 --> 00:52:23,109
+<font color="#E5E5E5">other hand you know if you need</font>
+
+1033
+00:52:23,109 --> 00:52:25,929
+reference material about some library
+
+1034
+00:52:25,929 --> 00:52:28,569
+functions that's for or particular
+
+1035
+00:52:28,569 --> 00:52:31,660
+programs that's fine<font color="#E5E5E5"> TAS we have a lot</font>
+
+1036
+00:52:31,660 --> 00:52:33,969
+<font color="#CCCCCC">of office hours it's always fine to talk</font>
+
+1037
+00:52:33,969 --> 00:52:38,979
+with<font color="#CCCCCC"> that</font><font color="#E5E5E5"> I'm gonna in the interest of</font>
+
+1038
+00:52:38,979 --> 00:52:41,140
+time skip this over but I<font color="#E5E5E5"> recommend you</font>
+
+1039
+00:52:41,140 --> 00:52:43,869
+look at some<font color="#E5E5E5"> of these scenarios that are</font>
+
+1040
+00:52:43,869 --> 00:52:46,269
+<font color="#CCCCCC">very typical</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> what I've experienced</font>
+
+1041
+00:52:46,269 --> 00:52:48,699
+that some students as I said the
+
+1042
+00:52:48,699 --> 00:52:50,890
+deadline is approaching<font color="#CCCCCC"> you have</font><font color="#E5E5E5"> to get</font>
+
+1043
+00:52:50,890 --> 00:52:54,459
+this in it's not working<font color="#CCCCCC"> if you find on</font>
+
+1044
+00:52:54,459 --> 00:52:57,239
+github a student<font color="#E5E5E5"> from some of the places</font>
+
+1045
+00:52:57,239 --> 00:52:59,469
+written<font color="#E5E5E5"> code that more or less works</font>
+
+1046
+00:52:59,469 --> 00:53:03,749
+<font color="#E5E5E5">make a copy of it try and fix it up some</font>
+
+1047
+00:53:03,749 --> 00:53:09,759
+<font color="#E5E5E5">submit it fine</font><font color="#CCCCCC"> but then we find</font><font color="#E5E5E5"> that we</font>
+
+1048
+00:53:09,759 --> 00:53:10,980
+<font color="#CCCCCC">can and</font>
+
+1049
+00:53:10,980 --> 00:53:13,080
+find those cases and then have these
+
+1050
+00:53:13,080 --> 00:53:18,380
+<font color="#CCCCCC">meetings</font><font color="#E5E5E5"> that I described</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> you um</font>
+
+1051
+00:53:21,619 --> 00:53:25,500
+here's some a<font color="#E5E5E5"> little bit more scenarios</font>
+
+1052
+00:53:25,500 --> 00:53:29,460
+that<font color="#E5E5E5"> so Ellis is working on</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> lab it's</font>
+
+1053
+00:53:29,460 --> 00:53:31,200
+not<font color="#E5E5E5"> working</font>
+
+1054
+00:53:31,200 --> 00:53:35,420
+and Bob is<font color="#E5E5E5"> sitting next to her he's done</font>
+
+1055
+00:53:35,420 --> 00:53:39,420
+<font color="#CCCCCC">that bob</font><font color="#E5E5E5"> is the</font><font color="#CCCCCC"> next to</font><font color="#E5E5E5"> Charlie and</font>
+
+1056
+00:53:39,420 --> 00:53:42,540
+<font color="#CCCCCC">Charlie's</font><font color="#E5E5E5"> not doing so well so Charlie</font>
+
+1057
+00:53:42,540 --> 00:53:44,490
+gets up for<font color="#CCCCCC"> a break</font><font color="#E5E5E5"> and Bob makes a</font>
+
+1058
+00:53:44,490 --> 00:53:46,080
+print out<font color="#CCCCCC"> of his own code and reads</font>
+
+1059
+00:53:46,080 --> 00:53:48,240
+about Charlie's chair<font color="#E5E5E5"> who is cheated</font>
+
+1060
+00:53:48,240 --> 00:53:56,520
+Charlie verb<font color="#E5E5E5"> I swear to Bob</font><font color="#CCCCCC"> I don't know</font>
+
+1061
+00:53:56,520 --> 00:53:58,230
+what he's doing you know it probably<font color="#E5E5E5"> is</font>
+
+1062
+00:53:58,230 --> 00:53:59,820
+what its intention there was it just
+
+1063
+00:53:59,820 --> 00:54:01,140
+<font color="#CCCCCC">because that was the nearest thing to</font>
+
+1064
+00:54:01,140 --> 00:54:03,240
+put it on or<font color="#E5E5E5"> not but there's definitely</font>
+
+1065
+00:54:03,240 --> 00:54:06,030
+sketchy<font color="#CCCCCC"> charlie obviously</font><font color="#E5E5E5"> is oblivious</font>
+
+1066
+00:54:06,030 --> 00:54:08,220
+to this at this point but then<font color="#E5E5E5"> Charlie</font>
+
+1067
+00:54:08,220 --> 00:54:10,440
+find us a copy<font color="#E5E5E5"> looks it</font><font color="#CCCCCC"> over and copies</font>
+
+1068
+00:54:10,440 --> 00:54:15,260
+one function<font color="#CCCCCC"> and fixes it up</font><font color="#E5E5E5"> so that one</font>
+
+1069
+00:54:21,859 --> 00:54:25,290
+Bob sits down<font color="#CCCCCC"> with Alice and they go</font>
+
+1070
+00:54:25,290 --> 00:54:27,510
+over<font color="#E5E5E5"> her code together</font><font color="#CCCCCC"> what's the</font>
+
+1071
+00:54:27,510 --> 00:54:32,520
+<font color="#E5E5E5">problem Bob or</font><font color="#CCCCCC"> Charlie both right</font>
+
+1072
+00:54:32,520 --> 00:54:36,750
+they're working together<font color="#CCCCCC"> Charlie looks</font>
+
+1073
+00:54:36,750 --> 00:54:40,530
+at the screen that Bob left behind and
+
+1074
+00:54:40,530 --> 00:54:43,430
+sees what's<font color="#CCCCCC"> going on who cheated there</font>
+
+1075
+00:54:43,430 --> 00:54:46,320
+well<font color="#E5E5E5"> Corinne Charlie did Bob price</font>
+
+1076
+00:54:46,320 --> 00:54:47,850
+<font color="#E5E5E5">shouldn't have left his screen</font>
+
+1077
+00:54:47,850 --> 00:54:50,160
+unattended but<font color="#E5E5E5"> you know there's some</font>
+
+1078
+00:54:50,160 --> 00:54:52,470
+level<font color="#E5E5E5"> of expectation you can have in</font>
+
+1079
+00:54:52,470 --> 00:54:54,810
+this world<font color="#CCCCCC"> then it's</font><font color="#E5E5E5"> an expectation</font><font color="#CCCCCC"> of</font>
+
+1080
+00:54:54,810 --> 00:54:56,400
+<font color="#CCCCCC">privacy</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> you don't expect you</font><font color="#E5E5E5"> have</font>
+
+1081
+00:54:56,400 --> 00:54:59,790
+to lock everything<font color="#E5E5E5"> you do and put</font>
+
+1082
+00:54:59,790 --> 00:55:01,680
+<font color="#CCCCCC">passwords on it but in general that was</font>
+
+1083
+00:55:01,680 --> 00:55:04,170
+not good for Bob to just leave<font color="#E5E5E5"> the</font>
+
+1084
+00:55:04,170 --> 00:55:09,210
+<font color="#CCCCCC">screens like oh I was</font><font color="#E5E5E5"> having trouble GDD</font>
+
+1085
+00:55:09,210 --> 00:55:12,690
+<font color="#E5E5E5">how to set a breakpoint in it</font><font color="#CCCCCC"> he shows</font>
+
+1086
+00:55:12,690 --> 00:55:14,650
+her
+
+1087
+00:55:14,650 --> 00:55:18,190
+that's<font color="#E5E5E5"> okay</font><font color="#CCCCCC"> that's fine Joey goes to TA</font>
+
+1088
+00:55:18,190 --> 00:55:23,920
+for help<font color="#E5E5E5"> that's fine so one thing we're</font>
+
+1089
+00:55:23,920 --> 00:55:26,499
+doing<font color="#E5E5E5"> that just started last spring in</font>
+
+1090
+00:55:26,499 --> 00:55:29,319
+<font color="#E5E5E5">this course because</font><font color="#CCCCCC"> a lot of students</font>
+
+1091
+00:55:29,319 --> 00:55:31,900
+were using<font color="#CCCCCC"> github and it's their code</font>
+
+1092
+00:55:31,900 --> 00:55:34,599
+repository and<font color="#E5E5E5"> in fact I'm a fan of gift</font>
+
+1093
+00:55:34,599 --> 00:55:37,299
+myself<font color="#CCCCCC"> but the best thing about</font><font color="#E5E5E5"> github</font>
+
+1094
+00:55:37,299 --> 00:55:41,650
+<font color="#E5E5E5">is the gift not the hub</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> git is a</font>
+
+1095
+00:55:41,650 --> 00:55:44,200
+general-purpose version control program
+
+1096
+00:55:44,200 --> 00:55:47,200
+that as long<font color="#CCCCCC"> as you can find</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> servers</font>
+
+1097
+00:55:47,200 --> 00:55:49,900
+<font color="#E5E5E5">that supports</font><font color="#CCCCCC"> gift you can use it</font><font color="#E5E5E5"> you</font>
+
+1098
+00:55:49,900 --> 00:55:51,460
+<font color="#CCCCCC">don't have</font><font color="#E5E5E5"> to use the commercial one</font>
+
+1099
+00:55:51,460 --> 00:55:56,349
+called github and so ECE has a version
+
+1100
+00:55:56,349 --> 00:56:00,130
+control<font color="#E5E5E5"> runs</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> get server and we</font><font color="#CCCCCC"> are</font>
+
+1101
+00:56:00,130 --> 00:56:03,099
+really<font color="#CCCCCC"> gonna strongly push you to use</font>
+
+1102
+00:56:03,099 --> 00:56:07,359
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> instead of github and there's a</font>
+
+1103
+00:56:07,359 --> 00:56:09,819
+sort<font color="#E5E5E5"> of a carrot and a stick involved</font>
+
+1104
+00:56:09,819 --> 00:56:12,819
+here<font color="#E5E5E5"> so one is it's really</font><font color="#CCCCCC"> a good habit</font>
+
+1105
+00:56:12,819 --> 00:56:14,920
+to<font color="#CCCCCC"> use version control</font><font color="#E5E5E5"> as you make</font>
+
+1106
+00:56:14,920 --> 00:56:17,410
+<font color="#CCCCCC">changes to</font><font color="#E5E5E5"> programs you want</font><font color="#CCCCCC"> to be able</font>
+
+1107
+00:56:17,410 --> 00:56:20,380
+to recover<font color="#CCCCCC"> if you've made some change</font>
+
+1108
+00:56:20,380 --> 00:56:22,509
+and find out it was<font color="#E5E5E5"> really a bad</font><font color="#CCCCCC"> idea</font>
+
+1109
+00:56:22,509 --> 00:56:24,069
+<font color="#CCCCCC">you want to get back</font><font color="#E5E5E5"> to some previous</font>
+
+1110
+00:56:24,069 --> 00:56:26,079
+<font color="#E5E5E5">state and can do that you can create</font>
+
+1111
+00:56:26,079 --> 00:56:29,769
+different<font color="#E5E5E5"> branches you don't have to</font>
+
+1112
+00:56:29,769 --> 00:56:32,529
+worry<font color="#E5E5E5"> about your computer crashing and</font>
+
+1113
+00:56:32,529 --> 00:56:35,170
+losing files and things<font color="#CCCCCC"> like that</font><font color="#E5E5E5"> you</font>
+
+1114
+00:56:35,170 --> 00:56:37,420
+can document your changes all those are
+
+1115
+00:56:37,420 --> 00:56:38,710
+<font color="#E5E5E5">properties of gift</font>
+
+1116
+00:56:38,710 --> 00:56:41,440
+<font color="#CCCCCC">venez or any</font><font color="#E5E5E5"> variant server but</font><font color="#CCCCCC"> gets</font>
+
+1117
+00:56:41,440 --> 00:56:44,559
+<font color="#E5E5E5">especially good now the reason we wanted</font>
+
+1118
+00:56:44,559 --> 00:56:49,329
+<font color="#E5E5E5">to use this is this can actually also be</font>
+
+1119
+00:56:49,329 --> 00:56:52,119
+a record of<font color="#E5E5E5"> your effort in this lab that</font>
+
+1120
+00:56:52,119 --> 00:56:55,150
+<font color="#CCCCCC">can be very important if we start asking</font>
+
+1121
+00:56:55,150 --> 00:57:01,119
+<font color="#CCCCCC">questions so if we this tablet I haven't</font>
+
+1122
+00:57:01,119 --> 00:57:03,190
+done this<font color="#CCCCCC"> yet but both last spring in my</font>
+
+1123
+00:57:03,190 --> 00:57:06,009
+summer there are multiple<font color="#CCCCCC"> instances</font>
+
+1124
+00:57:06,009 --> 00:57:08,170
+where students got called in because<font color="#E5E5E5"> we</font>
+
+1125
+00:57:08,170 --> 00:57:09,519
+thought some<font color="#CCCCCC"> of their code looked a</font>
+
+1126
+00:57:09,519 --> 00:57:12,819
+<font color="#E5E5E5">little fishy and some of the students</font>
+
+1127
+00:57:12,819 --> 00:57:15,940
+<font color="#CCCCCC">actually had a pretty significant record</font>
+
+1128
+00:57:15,940 --> 00:57:19,720
+<font color="#E5E5E5">of the work they'd done through get and</font>
+
+1129
+00:57:19,720 --> 00:57:22,029
+could show that<font color="#E5E5E5"> this had consistently</font>
+
+1130
+00:57:22,029 --> 00:57:23,799
+been something you're working<font color="#CCCCCC"> on and</font>
+
+1131
+00:57:23,799 --> 00:57:27,420
+therefore<font color="#E5E5E5"> they were absolved of any</font>
+
+1132
+00:57:27,420 --> 00:57:30,510
+<font color="#CCCCCC">wrongdoing but other students</font><font color="#E5E5E5"> all of a</font>
+
+1133
+00:57:30,510 --> 00:57:32,910
+<font color="#CCCCCC">sudden oh no I didn't save anything or</font>
+
+1134
+00:57:32,910 --> 00:57:34,799
+yeah I saved<font color="#E5E5E5"> a bunch of stuff</font><font color="#CCCCCC"> but then</font>
+
+1135
+00:57:34,799 --> 00:57:37,200
+all of a sudden<font color="#E5E5E5"> it changed in this</font>
+
+1136
+00:57:37,200 --> 00:57:40,410
+massive way<font color="#E5E5E5"> that looked</font><font color="#CCCCCC"> like maybe some</font>
+
+1137
+00:57:40,410 --> 00:57:42,599
+blue<font color="#CCCCCC"> code was important into it so you</font>
+
+1138
+00:57:42,599 --> 00:57:46,200
+can<font color="#E5E5E5"> think of gap being your record that</font>
+
+1139
+00:57:46,200 --> 00:57:49,260
+we can look at we<font color="#CCCCCC"> can look at the get</font>
+
+1140
+00:57:49,260 --> 00:57:53,430
+logs of your<font color="#E5E5E5"> code on this ECE server for</font>
+
+1141
+00:57:53,430 --> 00:57:58,290
+this course<font color="#E5E5E5"> as</font><font color="#CCCCCC"> a record</font><font color="#E5E5E5"> of it so we</font>
+
+1142
+00:57:58,290 --> 00:58:00,990
+<font color="#CCCCCC">really want you to make use of it both</font>
+
+1143
+00:58:00,990 --> 00:58:02,549
+<font color="#CCCCCC">through you don't benefit as a</font>
+
+1144
+00:58:02,549 --> 00:58:05,339
+programmer<font color="#E5E5E5"> but also is is that suit of</font>
+
+1145
+00:58:05,339 --> 00:58:10,290
+record<font color="#CCCCCC"> that can determine that this is</font>
+
+1146
+00:58:10,290 --> 00:58:12,690
+<font color="#E5E5E5">really your own doing your own code that</font>
+
+1147
+00:58:12,690 --> 00:58:15,950
+you've been<font color="#E5E5E5"> working</font><font color="#CCCCCC"> so a few logistics</font>
+
+1148
+00:58:15,950 --> 00:58:21,030
+<font color="#CCCCCC">three</font><font color="#E5E5E5"> instructors for the undergraduate</font>
+
+1149
+00:58:21,030 --> 00:58:24,329
+we have lectures<font color="#E5E5E5"> and recitations</font><font color="#CCCCCC"> one</font>
+
+1150
+00:58:24,329 --> 00:58:25,650
+thing<font color="#E5E5E5"> that we're going to introduce it</font>
+
+1151
+00:58:25,650 --> 00:58:29,609
+<font color="#CCCCCC">was started west of summer is canvas</font>
+
+1152
+00:58:29,609 --> 00:58:32,220
+which<font color="#CCCCCC"> is the new blackboard in which I'm</font>
+
+1153
+00:58:32,220 --> 00:58:34,530
+generally not<font color="#CCCCCC"> very</font><font color="#E5E5E5"> familiar</font>
+
+1154
+00:58:34,530 --> 00:58:39,359
+<font color="#CCCCCC">I never use blackboard either but it has</font>
+
+1155
+00:58:39,359 --> 00:58:41,640
+<font color="#E5E5E5">its</font><font color="#CCCCCC"> fit Sony</font><font color="#E5E5E5"> where we can do with all in</font>
+
+1156
+00:58:41,640 --> 00:58:43,950
+class quizzes<font color="#E5E5E5"> and these aren't by</font>
+
+1157
+00:58:43,950 --> 00:58:46,319
+quizzes like<font color="#E5E5E5"> write down and paper and</font>
+
+1158
+00:58:46,319 --> 00:58:49,170
+<font color="#CCCCCC">passing Memphis's a few multiple-choice</font>
+
+1159
+00:58:49,170 --> 00:58:50,880
+questions and<font color="#E5E5E5"> these actually are very</font>
+
+1160
+00:58:50,880 --> 00:58:54,619
+<font color="#E5E5E5">useful</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> the instructors is a way to</font>
+
+1161
+00:58:54,619 --> 00:58:57,210
+kind<font color="#E5E5E5"> of gather a sense of where the</font>
+
+1162
+00:58:57,210 --> 00:58:59,930
+<font color="#CCCCCC">class is</font><font color="#E5E5E5"> in their understanding and</font>
+
+1163
+00:58:59,930 --> 00:59:02,520
+<font color="#E5E5E5">dynamically and real-time modify what</font>
+
+1164
+00:59:02,520 --> 00:59:04,799
+we're presenting<font color="#CCCCCC"> is a way to do that if</font>
+
+1165
+00:59:04,799 --> 00:59:06,180
+you ever been in a class with the
+
+1166
+00:59:06,180 --> 00:59:10,410
+clickers have you done that<font color="#E5E5E5"> I've never</font>
+
+1167
+00:59:10,410 --> 00:59:13,619
+<font color="#E5E5E5">used them but</font><font color="#CCCCCC"> then it's the</font><font color="#E5E5E5"> same</font><font color="#CCCCCC"> general</font>
+
+1168
+00:59:13,619 --> 00:59:16,319
+idea it's just<font color="#CCCCCC"> you'll use</font><font color="#E5E5E5"> so you should</font>
+
+1169
+00:59:16,319 --> 00:59:18,930
+plan on bringing off a laptop<font color="#CCCCCC"> or I guess</font>
+
+1170
+00:59:18,930 --> 00:59:20,700
+<font color="#E5E5E5">you can use</font><font color="#CCCCCC"> your</font><font color="#E5E5E5"> smartphone to do this</font>
+
+1171
+00:59:20,700 --> 00:59:26,760
+<font color="#CCCCCC">too so now we're not really</font><font color="#E5E5E5"> grading them</font>
+
+1172
+00:59:26,760 --> 00:59:31,130
+but in the end<font color="#E5E5E5"> on the grading if there's</font>
+
+1173
+00:59:31,130 --> 00:59:34,230
+sort of a<font color="#E5E5E5"> borderline case on a student</font>
+
+1174
+00:59:34,230 --> 00:59:36,390
+<font color="#E5E5E5">where they're right at some the cutoff</font>
+
+1175
+00:59:36,390 --> 00:59:39,710
+<font color="#E5E5E5">for one letter grade versus another</font>
+
+1176
+00:59:39,710 --> 00:59:42,120
+if we see<font color="#E5E5E5"> sort of an active</font>
+
+1177
+00:59:42,120 --> 00:59:45,780
+participation as like<font color="#E5E5E5"> sorry I won't be</font>
+
+1178
+00:59:45,780 --> 00:59:47,610
+<font color="#CCCCCC">able</font><font color="#E5E5E5"> to traffic who's in the class</font><font color="#CCCCCC"> under</font>
+
+1179
+00:59:47,610 --> 00:59:51,120
+<font color="#CCCCCC">in your basis but you know</font>
+
+1180
+00:59:51,120 --> 00:59:53,070
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> the record</font><font color="#CCCCCC"> we have for your</font>
+
+1181
+00:59:53,070 --> 00:59:54,870
+participation in these will be an
+
+1182
+00:59:54,870 --> 00:59:57,600
+indication of how<font color="#E5E5E5"> actively involved you</font>
+
+1183
+00:59:57,600 --> 01:00:01,380
+were in the class and<font color="#E5E5E5"> that could affect</font>
+
+1184
+01:00:01,380 --> 01:00:03,630
+your grade<font color="#E5E5E5"> so there's not a like numeric</font>
+
+1185
+01:00:03,630 --> 01:00:06,150
+value if you miss a class<font color="#CCCCCC"> don't</font><font color="#E5E5E5"> worry</font>
+
+1186
+01:00:06,150 --> 01:00:07,980
+about it<font color="#CCCCCC"> we have them on weck</font><font color="#E5E5E5"> we have</font>
+
+1187
+01:00:07,980 --> 01:00:10,050
+them on video there's a lot of material
+
+1188
+01:00:10,050 --> 01:00:12,240
+<font color="#E5E5E5">on the web we're not taking attendance</font>
+
+1189
+01:00:12,240 --> 01:00:15,390
+in any formal way but your participation
+
+1190
+01:00:15,390 --> 01:00:17,870
+could be beneficial to<font color="#E5E5E5"> your grade</font>
+
+1191
+01:00:17,870 --> 01:00:20,220
+<font color="#E5E5E5">besides the fact we were in the material</font>
+
+1192
+01:00:20,220 --> 01:00:25,620
+<font color="#E5E5E5">better of course - okay so the book get</font>
+
+1193
+01:00:25,620 --> 01:00:27,330
+the<font color="#CCCCCC"> third edition don't give</font><font color="#E5E5E5"> anything</font>
+
+1194
+01:00:27,330 --> 01:00:29,760
+else<font color="#E5E5E5"> don't get the International</font><font color="#CCCCCC"> Edition</font>
+
+1195
+01:00:29,760 --> 01:00:34,200
+<font color="#E5E5E5">they really screwed it up the Chinese</font>
+
+1196
+01:00:34,200 --> 01:00:37,230
+<font color="#E5E5E5">version is okay we know the translator</font>
+
+1197
+01:00:37,230 --> 01:00:47,180
+really well but<font color="#E5E5E5"> and then we also</font>
+
+1198
+01:00:47,180 --> 01:00:50,400
+strongly recommend<font color="#CCCCCC"> you get this the</font><font color="#E5E5E5"> C</font>
+
+1199
+01:00:50,400 --> 01:00:52,680
+book written by<font color="#E5E5E5"> Kernighan and Ritchie</font>
+
+1200
+01:00:52,680 --> 01:00:54,650
+Ritchie was one of the originators of
+
+1201
+01:00:54,650 --> 01:00:57,900
+the C language<font color="#E5E5E5"> at Bell Labs both the</font>
+
+1202
+01:00:57,900 --> 01:01:00,750
+<font color="#E5E5E5">word</font><font color="#CCCCCC"> go</font><font color="#E5E5E5"> - one time this book is really</font>
+
+1203
+01:01:00,750 --> 01:01:05,160
+old and really<font color="#E5E5E5"> a little bit out of date</font>
+
+1204
+01:01:05,160 --> 01:01:08,370
+<font color="#E5E5E5">because</font><font color="#CCCCCC"> he has evolved over times</font><font color="#E5E5E5"> but</font>
+
+1205
+01:01:08,370 --> 01:01:10,170
+it's<font color="#CCCCCC"> still the best</font><font color="#E5E5E5"> book because it's</font>
+
+1206
+01:01:10,170 --> 01:01:11,970
+not only<font color="#E5E5E5"> the</font><font color="#CCCCCC"> language itself but it</font>
+
+1207
+01:01:11,970 --> 01:01:15,180
+gives you<font color="#CCCCCC"> some really nice little</font>
+
+1208
+01:01:15,180 --> 01:01:17,010
+programming examples<font color="#CCCCCC"> that</font><font color="#E5E5E5"> sort of show</font>
+
+1209
+01:01:17,010 --> 01:01:19,380
+style and how<font color="#E5E5E5"> to think about programs</font>
+
+1210
+01:01:19,380 --> 01:01:21,720
+<font color="#E5E5E5">and things that is better than</font><font color="#CCCCCC"> any of</font>
+
+1211
+01:01:21,720 --> 01:01:26,790
+<font color="#E5E5E5">the other books we've seen um this</font>
+
+1212
+01:01:26,790 --> 01:01:28,800
+course is going to<font color="#E5E5E5"> have eight labs</font><font color="#CCCCCC"> if</font>
+
+1213
+01:01:28,800 --> 01:01:30,330
+you know anyone<font color="#E5E5E5"> who's taken it before</font>
+
+1214
+01:01:30,330 --> 01:01:32,580
+<font color="#E5E5E5">they've had seven labs and I'll tell you</font>
+
+1215
+01:01:32,580 --> 01:01:35,550
+about<font color="#E5E5E5"> that and the lamps</font><font color="#CCCCCC"> are really</font><font color="#E5E5E5"> the</font>
+
+1216
+01:01:35,550 --> 01:01:38,400
+main thing you'll do for this<font color="#E5E5E5"> course and</font>
+
+1217
+01:01:38,400 --> 01:01:39,840
+<font color="#E5E5E5">the main way you'll learn in</font><font color="#CCCCCC"> this course</font>
+
+1218
+01:01:39,840 --> 01:01:42,900
+and<font color="#CCCCCC"> you probably heard that</font><font color="#E5E5E5"> for your</font>
+
+1219
+01:01:42,900 --> 01:01:46,230
+friends<font color="#CCCCCC"> always there's two exams they're</font>
+
+1220
+01:01:46,230 --> 01:01:49,680
+both done<font color="#CCCCCC"> using an online exam system</font><font color="#E5E5E5"> so</font>
+
+1221
+01:01:49,680 --> 01:01:51,810
+we're<font color="#E5E5E5"> not scheduled for</font><font color="#CCCCCC"> the real</font>
+
+1222
+01:01:51,810 --> 01:01:59,340
+with no paper<font color="#CCCCCC"> tests at all so there's a</font>
+
+1223
+01:01:59,340 --> 01:02:02,280
+lot<font color="#CCCCCC"> of</font><font color="#E5E5E5"> resources the class web pages has</font>
+
+1224
+01:02:02,280 --> 01:02:05,850
+a lot<font color="#CCCCCC"> of stuff</font><font color="#E5E5E5"> on it we use a Piazza is</font>
+
+1225
+01:02:05,850 --> 01:02:10,110
+their way<font color="#CCCCCC"> of having</font><font color="#E5E5E5"> questions from the</font>
+
+1226
+01:02:10,110 --> 01:02:13,170
+students<font color="#E5E5E5"> and make also making a lot of</font>
+
+1227
+01:02:13,170 --> 01:02:14,940
+<font color="#E5E5E5">announcements</font><font color="#CCCCCC"> will be there too so</font>
+
+1228
+01:02:14,940 --> 01:02:16,500
+that's the way you<font color="#CCCCCC"> should definitely be</font>
+
+1229
+01:02:16,500 --> 01:02:20,370
+<font color="#CCCCCC">on Piazza poll here by default any post</font>
+
+1230
+01:02:20,370 --> 01:02:23,280
+you make will<font color="#E5E5E5"> be private</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> the</font>
+
+1231
+01:02:23,280 --> 01:02:25,200
+instructors<font color="#E5E5E5"> and</font><font color="#CCCCCC"> we recommend</font><font color="#E5E5E5"> you keep it</font>
+
+1232
+01:02:25,200 --> 01:02:26,910
+<font color="#CCCCCC">that way if there's some question that</font>
+
+1233
+01:02:26,910 --> 01:02:28,740
+recurs and it seems like it's worthwhile
+
+1234
+01:02:28,740 --> 01:02:31,170
+<font color="#E5E5E5">for the whole class</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> know then we</font>
+
+1235
+01:02:31,170 --> 01:02:33,450
+might turn your private post into<font color="#E5E5E5"> a</font>
+
+1236
+01:02:33,450 --> 01:02:36,980
+public one<font color="#E5E5E5"> an appropriate way</font><font color="#CCCCCC"> of course</font>
+
+1237
+01:02:36,980 --> 01:02:39,360
+<font color="#E5E5E5">just as a way to present that</font>
+
+1238
+01:02:39,360 --> 01:02:42,230
+information<font color="#E5E5E5"> to</font><font color="#CCCCCC"> a class</font><font color="#E5E5E5"> but in general</font>
+
+1239
+01:02:42,230 --> 01:02:44,940
+it's more of a private<font color="#E5E5E5"> way that you can</font>
+
+1240
+01:02:44,940 --> 01:02:47,550
+reach<font color="#E5E5E5"> either us or any of the</font><font color="#CCCCCC"> 20</font>
+
+1241
+01:02:47,550 --> 01:02:51,180
+teaching assistants<font color="#CCCCCC"> of course I don't on</font>
+
+1242
+01:02:51,180 --> 01:02:55,470
+<font color="#E5E5E5">the other hand</font><font color="#CCCCCC"> post code</font><font color="#E5E5E5"> there not</font>
+
+1243
+01:02:55,470 --> 01:02:57,810
+<font color="#E5E5E5">because we don't like code but it's just</font>
+
+1244
+01:02:57,810 --> 01:02:59,310
+not the<font color="#CCCCCC"> right way to do it</font>
+
+1245
+01:02:59,310 --> 01:03:01,080
+we have<font color="#CCCCCC"> Auto</font><font color="#E5E5E5"> lab which is</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> way we</font>
+
+1246
+01:03:01,080 --> 01:03:03,960
+submit assignments<font color="#E5E5E5"> so if you ever need</font>
+
+1247
+01:03:03,960 --> 01:03:06,350
+help<font color="#CCCCCC"> with code</font><font color="#E5E5E5"> what you should do is</font>
+
+1248
+01:03:06,350 --> 01:03:11,190
+submit it to<font color="#CCCCCC"> auto</font><font color="#E5E5E5"> web and then tell us</font>
+
+1249
+01:03:11,190 --> 01:03:13,590
+about it and<font color="#CCCCCC"> then we can</font><font color="#E5E5E5"> go</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> auto</font><font color="#CCCCCC"> 11</font>
+
+1250
+01:03:13,590 --> 01:03:15,480
+<font color="#E5E5E5">and get hold of your code</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> look at it</font>
+
+1251
+01:03:15,480 --> 01:03:20,450
+<font color="#CCCCCC">instead of us dealing with</font><font color="#E5E5E5"> big files yes</font>
+
+1252
+01:03:26,809 --> 01:03:30,229
+the question was what wouldn't
+
+1253
+01:03:30,229 --> 01:03:31,819
+submitting to<font color="#E5E5E5"> Ottawa account is a</font>
+
+1254
+01:03:31,819 --> 01:03:33,619
+<font color="#CCCCCC">submerge submission for all of our</font>
+
+1255
+01:03:33,619 --> 01:03:35,869
+assignments<font color="#CCCCCC"> you're allowed to submit</font><font color="#E5E5E5"> as</font>
+
+1256
+01:03:35,869 --> 01:03:37,459
+many<font color="#E5E5E5"> times as you like these no</font>
+
+1257
+01:03:37,459 --> 01:03:41,239
+penalties whatsoever<font color="#E5E5E5"> for every one of</font>
+
+1258
+01:03:41,239 --> 01:03:50,089
+our<font color="#CCCCCC"> assignments so email</font><font color="#E5E5E5"> we don't have a</font>
+
+1259
+01:03:50,089 --> 01:03:54,499
+class<font color="#CCCCCC"> email list but you can contact any</font>
+
+1260
+01:03:54,499 --> 01:03:56,089
+of<font color="#E5E5E5"> the</font><font color="#CCCCCC"> instructors or</font><font color="#E5E5E5"> individual</font>
+
+1261
+01:03:56,089 --> 01:03:58,549
+teaching assistants<font color="#E5E5E5"> we have office hours</font>
+
+1262
+01:03:58,549 --> 01:04:00,349
+<font color="#E5E5E5">every day of the week except</font><font color="#CCCCCC"> for</font>
+
+1263
+01:04:00,349 --> 01:04:04,699
+<font color="#CCCCCC">Saturday from 5:30 to 7:30 in the wean</font>
+
+1264
+01:04:04,699 --> 01:04:07,549
+<font color="#CCCCCC">hall clusters and</font><font color="#E5E5E5"> that's but they're not</font>
+
+1265
+01:04:07,549 --> 01:04:11,569
+going<font color="#CCCCCC"> to start</font><font color="#E5E5E5"> until next week there's</font>
+
+1266
+01:04:11,569 --> 01:04:16,549
+walk-in tutoring that exists and we
+
+1267
+01:04:16,549 --> 01:04:18,709
+won't put<font color="#CCCCCC"> information that</font><font color="#E5E5E5"> online once</font>
+
+1268
+01:04:18,709 --> 01:04:21,189
+we have it and you can<font color="#CCCCCC"> always schedule</font>
+
+1269
+01:04:21,189 --> 01:04:23,659
+<font color="#CCCCCC">office</font><font color="#E5E5E5"> hours all three of us have</font>
+
+1270
+01:04:23,659 --> 01:04:25,429
+regular office hours or you<font color="#CCCCCC"> can schedule</font>
+
+1271
+01:04:25,429 --> 01:04:31,880
+time there's fairly extensive
+
+1272
+01:04:31,880 --> 01:04:33,559
+information<font color="#CCCCCC"> in the syllabus</font><font color="#E5E5E5"> about a</font>
+
+1273
+01:04:33,559 --> 01:04:35,299
+procedure if you feel like you've<font color="#CCCCCC"> been</font>
+
+1274
+01:04:35,299 --> 01:04:40,419
+<font color="#CCCCCC">graded unjustly in either an exam or a</font>
+
+1275
+01:04:40,419 --> 01:04:42,799
+assignment<font color="#E5E5E5"> there's a process</font><font color="#CCCCCC"> for doing</font>
+
+1276
+01:04:42,799 --> 01:04:45,380
+that<font color="#CCCCCC"> that has a time limit of typically</font>
+
+1277
+01:04:45,380 --> 01:04:49,400
+a week or so<font color="#CCCCCC"> so we definitely understand</font>
+
+1278
+01:04:49,400 --> 01:04:51,559
+that<font color="#CCCCCC"> where we make mistakes in grading</font>
+
+1279
+01:04:51,559 --> 01:04:55,249
+and we're very<font color="#CCCCCC"> willing to</font><font color="#E5E5E5"> hear</font><font color="#CCCCCC"> requests</font>
+
+1280
+01:04:55,249 --> 01:04:57,589
+<font color="#E5E5E5">for great changes but don't expect at</font>
+
+1281
+01:04:57,589 --> 01:04:59,689
+the<font color="#CCCCCC"> end of the term to come back with oh</font>
+
+1282
+01:04:59,689 --> 01:05:02,509
+<font color="#CCCCCC">i'm the</font><font color="#E5E5E5"> lab 1 and lab 3 and the midterm</font>
+
+1283
+01:05:02,509 --> 01:05:05,449
+I was granted long it's too late<font color="#E5E5E5"> by that</font>
+
+1284
+01:05:05,449 --> 01:05:11,329
+<font color="#CCCCCC">so look at the syllabus question how the</font>
+
+1285
+01:05:11,329 --> 01:05:14,059
+assignments work is it<font color="#E5E5E5"> similar to 122 or</font>
+
+1286
+01:05:14,059 --> 01:05:16,309
+<font color="#CCCCCC">there's some aspect of</font><font color="#E5E5E5"> it that's like an</font>
+
+1287
+01:05:16,309 --> 01:05:18,650
+auto grader you can see<font color="#E5E5E5"> or is it all</font>
+
+1288
+01:05:18,650 --> 01:05:23,650
+just so the question was is this<font color="#E5E5E5"> like</font>
+
+1289
+01:05:23,650 --> 01:05:27,049
+<font color="#CCCCCC">122</font><font color="#E5E5E5"> we actually</font><font color="#CCCCCC"> talked</font><font color="#E5E5E5"> one</font><font color="#CCCCCC"> if 22 how to</font>
+
+1290
+01:05:27,049 --> 01:05:30,009
+<font color="#E5E5E5">do automated so</font>
+
+1291
+01:05:30,009 --> 01:05:32,719
+I'm the<font color="#E5E5E5"> dick fan</font><font color="#CCCCCC"> auto-graded I used to</font>
+
+1292
+01:05:32,719 --> 01:05:34,880
+say<font color="#E5E5E5"> I would rather spend</font><font color="#CCCCCC"> three hours</font>
+
+1293
+01:05:34,880 --> 01:05:36,739
+writing Auto graders that<font color="#CCCCCC"> one hour</font>
+
+1294
+01:05:36,739 --> 01:05:39,920
+<font color="#CCCCCC">grating tape itself we ought oh great</font>
+
+1295
+01:05:39,920 --> 01:05:42,619
+like crazy<font color="#CCCCCC"> so in</font><font color="#E5E5E5"> fact for everything you</font>
+
+1296
+01:05:42,619 --> 01:05:45,319
+do<font color="#E5E5E5"> you will know almost your entire</font>
+
+1297
+01:05:45,319 --> 01:05:48,529
+<font color="#E5E5E5">score</font><font color="#CCCCCC"> Auto graded and then there's some</font>
+
+1298
+01:05:48,529 --> 01:05:51,019
+small part that we do manually<font color="#E5E5E5"> like</font>
+
+1299
+01:05:51,019 --> 01:05:53,479
+style points<font color="#E5E5E5"> and some of that but we</font>
+
+1300
+01:05:53,479 --> 01:05:55,670
+like are the<font color="#E5E5E5"> auto grading kings of the</font>
+
+1301
+01:05:55,670 --> 01:05:59,689
+world<font color="#E5E5E5"> so in general this</font><font color="#CCCCCC"> is actually a</font>
+
+1302
+01:05:59,689 --> 01:06:01,910
+<font color="#E5E5E5">personal belief of mine and of all of us</font>
+
+1303
+01:06:01,910 --> 01:06:04,339
+that<font color="#E5E5E5"> you'd benefit a lot more from the</font>
+
+1304
+01:06:04,339 --> 01:06:06,140
+quick<font color="#E5E5E5"> feedback you get that the</font>
+
+1305
+01:06:06,140 --> 01:06:08,239
+absolutely<font color="#E5E5E5"> wrong</font><font color="#CCCCCC"> they have the</font><font color="#E5E5E5"> chance to</font>
+
+1306
+01:06:08,239 --> 01:06:10,400
+fix it rather than<font color="#E5E5E5"> submitting something</font>
+
+1307
+01:06:10,400 --> 01:06:11,959
+<font color="#CCCCCC">it's buggy</font><font color="#E5E5E5"> and then two</font><font color="#CCCCCC"> weeks later</font>
+
+1308
+01:06:11,959 --> 01:06:12,920
+you're told
+
+1309
+01:06:12,920 --> 01:06:16,400
+oh there's a bug in<font color="#CCCCCC"> your code</font><font color="#E5E5E5"> too bad</font><font color="#CCCCCC"> so</font>
+
+1310
+01:06:16,400 --> 01:06:18,559
+I think there's much<font color="#CCCCCC"> more</font><font color="#E5E5E5"> learning value</font>
+
+1311
+01:06:18,559 --> 01:06:21,289
+of of<font color="#E5E5E5"> giving that quick feedback</font><font color="#CCCCCC"> so it's</font>
+
+1312
+01:06:21,289 --> 01:06:23,359
+not<font color="#CCCCCC"> just that we're lazy</font><font color="#E5E5E5"> so you can just</font>
+
+1313
+01:06:23,359 --> 01:06:26,809
+submit<font color="#E5E5E5"> you can</font><font color="#CCCCCC"> submit</font><font color="#E5E5E5"> something yes</font>
+
+1314
+01:06:26,809 --> 01:06:38,179
+<font color="#CCCCCC">question yeah yeah yeah yeah early and</font>
+
+1315
+01:06:38,179 --> 01:06:39,199
+often<font color="#E5E5E5"> that's a great thing about</font>
+
+1316
+01:06:39,199 --> 01:06:43,459
+computers so we<font color="#CCCCCC"> have some special</font>
+
+1317
+01:06:43,459 --> 01:06:44,989
+machines that are reserved for<font color="#E5E5E5"> this</font>
+
+1318
+01:06:44,989 --> 01:06:48,380
+course called<font color="#CCCCCC"> the shark machines</font><font color="#E5E5E5"> most of</font>
+
+1319
+01:06:48,380 --> 01:06:49,939
+the work you do in this course<font color="#E5E5E5"> you could</font>
+
+1320
+01:06:49,939 --> 01:06:53,749
+do on essentially any Linux machine and
+
+1321
+01:06:53,749 --> 01:06:56,989
+even<font color="#CCCCCC"> some non Linux machines but the</font>
+
+1322
+01:06:56,989 --> 01:06:59,329
+grading<font color="#CCCCCC"> auto lab is</font><font color="#E5E5E5"> actually run on a</font>
+
+1323
+01:06:59,329 --> 01:07:01,459
+set of<font color="#CCCCCC"> Linux servers maintained by</font>
+
+1324
+01:07:01,459 --> 01:07:03,650
+<font color="#CCCCCC">competing facilities go we have these</font>
+
+1325
+01:07:03,650 --> 01:07:06,049
+very specific machines<font color="#CCCCCC"> to</font><font color="#E5E5E5"> shark machines</font>
+
+1326
+01:07:06,049 --> 01:07:08,509
+that where we kind of make<font color="#CCCCCC"> sure the</font>
+
+1327
+01:07:08,509 --> 01:07:10,339
+<font color="#CCCCCC">software is configured</font><font color="#E5E5E5"> and designed to</font>
+
+1328
+01:07:10,339 --> 01:07:13,449
+<font color="#E5E5E5">run</font><font color="#CCCCCC"> properly on that so when in doubt</font>
+
+1329
+01:07:13,449 --> 01:07:16,509
+<font color="#E5E5E5">use those machines for doing</font><font color="#CCCCCC"> your work</font>
+
+1330
+01:07:16,509 --> 01:07:19,509
+<font color="#E5E5E5">question</font>
+
+1331
+01:07:48,849 --> 01:07:52,339
+this is an interesting question<font color="#CCCCCC"> and I'll</font>
+
+1332
+01:07:52,339 --> 01:07:54,920
+give the<font color="#E5E5E5"> short answer which</font><font color="#CCCCCC"> is make sure</font>
+
+1333
+01:07:54,920 --> 01:07:56,960
+<font color="#E5E5E5">whatever you</font><font color="#CCCCCC"> submit it last</font><font color="#E5E5E5"> is the thing</font>
+
+1334
+01:07:56,960 --> 01:07:58,520
+you<font color="#E5E5E5"> want graded because that's the only</font>
+
+1335
+01:07:58,520 --> 01:08:02,420
+<font color="#E5E5E5">thing</font><font color="#CCCCCC"> we actually put</font><font color="#E5E5E5"> okay okay</font><font color="#CCCCCC"> I think</font>
+
+1336
+01:08:02,420 --> 01:08:11,930
+<font color="#CCCCCC">quite easy good question um so just a</font>
+
+1337
+01:08:11,930 --> 01:08:14,030
+<font color="#E5E5E5">few other policy things we do have grace</font>
+
+1338
+01:08:14,030 --> 01:08:17,000
+days as a<font color="#E5E5E5"> way for you to</font><font color="#CCCCCC"> certain deal</font>
+
+1339
+01:08:17,000 --> 01:08:19,339
+<font color="#CCCCCC">with your schedule there's deadlines for</font>
+
+1340
+01:08:19,339 --> 01:08:21,620
+every<font color="#CCCCCC"> assignment</font><font color="#E5E5E5"> over the course of the</font>
+
+1341
+01:08:21,620 --> 01:08:23,359
+term you allowed<font color="#CCCCCC"> to</font><font color="#E5E5E5"> keep my weight of</font>
+
+1342
+01:08:23,359 --> 01:08:26,899
+total of<font color="#E5E5E5"> five</font><font color="#CCCCCC"> weight days</font><font color="#E5E5E5"> we call those</font>
+
+1343
+01:08:26,899 --> 01:08:29,870
+grace days some assignments allow up<font color="#CCCCCC"> to</font>
+
+1344
+01:08:29,870 --> 01:08:33,859
+<font color="#E5E5E5">two so</font><font color="#CCCCCC"> none</font><font color="#E5E5E5"> someone it's all in the</font>
+
+1345
+01:08:33,859 --> 01:08:37,009
+schedule<font color="#E5E5E5"> and</font><font color="#CCCCCC"> that's what we want you to</font>
+
+1346
+01:08:37,009 --> 01:08:39,319
+<font color="#CCCCCC">use if your ear</font><font color="#E5E5E5"> press because you have</font>
+
+1347
+01:08:39,319 --> 01:08:41,630
+multiple<font color="#CCCCCC"> classes you're going off on a</font>
+
+1348
+01:08:41,630 --> 01:08:43,630
+<font color="#E5E5E5">job interview</font>
+
+1349
+01:08:43,630 --> 01:08:46,219
+<font color="#CCCCCC">you have to go home for</font><font color="#E5E5E5"> the weekend</font><font color="#CCCCCC"> for</font>
+
+1350
+01:08:46,219 --> 01:08:49,130
+your grandmother's birthday<font color="#E5E5E5"> any of that</font>
+
+1351
+01:08:49,130 --> 01:08:52,698
+<font color="#CCCCCC">stuff is</font><font color="#E5E5E5"> you know that's purpose grace</font>
+
+1352
+01:08:52,698 --> 01:08:55,670
+days so<font color="#E5E5E5"> that we're</font><font color="#CCCCCC"> not having to deal in</font>
+
+1353
+01:08:55,670 --> 01:08:58,040
+a class<font color="#CCCCCC"> of</font><font color="#E5E5E5"> this size with every special</font>
+
+1354
+01:08:58,040 --> 01:09:01,370
+case of<font color="#E5E5E5"> of can you give me an</font><font color="#CCCCCC"> extension</font>
+
+1355
+01:09:01,370 --> 01:09:04,040
+through this with that we also well<font color="#E5E5E5"> if</font>
+
+1356
+01:09:04,040 --> 01:09:05,839
+you don't if once you've used<font color="#CCCCCC"> up your</font>
+
+1357
+01:09:05,839 --> 01:09:08,180
+grace days and those are assigned
+
+1358
+01:09:08,180 --> 01:09:10,719
+automatically you<font color="#CCCCCC"> have no control over</font>
+
+1359
+01:09:10,719 --> 01:09:12,948
+<font color="#CCCCCC">you know which assignments you're using</font>
+
+1360
+01:09:12,948 --> 01:09:15,140
+grace days or not on as soon<font color="#E5E5E5"> as their</font>
+
+1361
+01:09:15,140 --> 01:09:18,710
+<font color="#E5E5E5">weight you start eating into those we</font>
+
+1362
+01:09:18,710 --> 01:09:21,859
+give<font color="#CCCCCC"> also often up to</font><font color="#E5E5E5"> three days</font><font color="#CCCCCC"> like</font>
+
+1363
+01:09:21,859 --> 01:09:24,948
+<font color="#E5E5E5">total for assignments where there's a</font>
+
+1364
+01:09:24,948 --> 01:09:26,930
+sort<font color="#CCCCCC"> of just an increasing thickness</font>
+
+1365
+01:09:26,930 --> 01:09:32,299
+<font color="#E5E5E5">penalty to it um and so we</font><font color="#CCCCCC"> expect</font><font color="#E5E5E5"> that</font>
+
+1366
+01:09:32,299 --> 01:09:35,540
+<font color="#E5E5E5">will take care</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> almost all the cases</font>
+
+1367
+01:09:35,540 --> 01:09:37,790
+<font color="#E5E5E5">people might not be able to get things</font>
+
+1368
+01:09:37,790 --> 01:09:39,830
+<font color="#E5E5E5">in time if there's something really</font>
+
+1369
+01:09:39,830 --> 01:09:41,229
+<font color="#CCCCCC">serious it goes</font>
+
+1370
+01:09:41,229 --> 01:09:44,680
+your life and this happens in<font color="#E5E5E5"> one form</font>
+
+1371
+01:09:44,680 --> 01:09:46,770
+or another<font color="#CCCCCC"> those are generally</font>
+
+1372
+01:09:46,770 --> 01:09:51,040
+significantly<font color="#CCCCCC"> not just for this course</font>
+
+1373
+01:09:51,040 --> 01:09:54,520
+but your whole participation in all your
+
+1374
+01:09:54,520 --> 01:09:56,470
+<font color="#E5E5E5">courses and so that's the time when you</font>
+
+1375
+01:09:56,470 --> 01:09:58,330
+<font color="#CCCCCC">need to go talk to</font><font color="#E5E5E5"> your course advisor</font>
+
+1376
+01:09:58,330 --> 01:10:01,300
+and the<font color="#CCCCCC"> adviser can get in contact with</font>
+
+1377
+01:10:01,300 --> 01:10:04,600
+<font color="#E5E5E5">us and basically work out a plan</font><font color="#CCCCCC"> for how</font>
+
+1378
+01:10:04,600 --> 01:10:06,820
+to get back<font color="#E5E5E5"> on schedule</font><font color="#CCCCCC"> one</font><font color="#E5E5E5"> of the</font>
+
+1379
+01:10:06,820 --> 01:10:09,250
+things<font color="#E5E5E5"> that's difficult about this</font>
+
+1380
+01:10:09,250 --> 01:10:12,070
+course or pretty much any courses<font color="#E5E5E5"> we get</font>
+
+1381
+01:10:12,070 --> 01:10:13,750
+this there's a lot of<font color="#E5E5E5"> momentum rolling</font>
+
+1382
+01:10:13,750 --> 01:10:16,210
+in this and once you start falling
+
+1383
+01:10:16,210 --> 01:10:19,930
+behind<font color="#CCCCCC"> it's really hard to then get</font>
+
+1384
+01:10:19,930 --> 01:10:23,380
+<font color="#E5E5E5">caught up</font><font color="#CCCCCC"> again you</font><font color="#E5E5E5"> get loaded down and</font>
+
+1385
+01:10:23,380 --> 01:10:26,650
+you get<font color="#E5E5E5"> further behind in things so my</font>
+
+1386
+01:10:26,650 --> 01:10:29,560
+main advice is hey don't use the grace
+
+1387
+01:10:29,560 --> 01:10:31,690
+days till<font color="#E5E5E5"> you really need them</font><font color="#CCCCCC"> to try</font>
+
+1388
+01:10:31,690 --> 01:10:34,120
+<font color="#CCCCCC">and save them up toward the</font><font color="#E5E5E5"> last few</font>
+
+1389
+01:10:34,120 --> 01:10:35,680
+assignments<font color="#CCCCCC"> in the</font><font color="#E5E5E5"> course which are the</font>
+
+1390
+01:10:35,680 --> 01:10:38,230
+<font color="#E5E5E5">ones that are the most significant and</font>
+
+1391
+01:10:38,230 --> 01:10:40,480
+<font color="#E5E5E5">also you</font><font color="#CCCCCC"> just never</font><font color="#E5E5E5"> know what might came</font>
+
+1392
+01:10:40,480 --> 01:10:42,250
+<font color="#E5E5E5">along</font><font color="#CCCCCC"> that will prevent you from getting</font>
+
+1393
+01:10:42,250 --> 01:10:45,310
+things done on<font color="#E5E5E5"> time so try to you</font><font color="#CCCCCC"> know</font>
+
+1394
+01:10:45,310 --> 01:10:47,470
+be prompt<font color="#E5E5E5"> keep on top of</font><font color="#CCCCCC"> things</font>
+
+1395
+01:10:47,470 --> 01:10:52,390
+<font color="#E5E5E5">throughout the course generally it's</font>
+
+1396
+01:10:52,390 --> 01:10:54,640
+fine to have laptops here<font color="#E5E5E5"> but we don't</font>
+
+1397
+01:10:54,640 --> 01:10:57,160
+<font color="#CCCCCC">like other things and we</font><font color="#E5E5E5"> want you doing</font>
+
+1398
+01:10:57,160 --> 01:11:01,710
+productive<font color="#E5E5E5"> work and that not Facebook</font>
+
+1399
+01:11:05,230 --> 01:11:09,350
+the course grade is<font color="#E5E5E5"> half exam and half</font>
+
+1400
+01:11:09,350 --> 01:11:12,260
+<font color="#E5E5E5">labs the labs have different point</font>
+
+1401
+01:11:12,260 --> 01:11:14,450
+values<font color="#E5E5E5"> you can</font><font color="#CCCCCC"> see on the assignments</font>
+
+1402
+01:11:14,450 --> 01:11:16,430
+page<font color="#E5E5E5"> the point distribution for the</font>
+
+1403
+01:11:16,430 --> 01:11:19,760
+different assignments<font color="#CCCCCC"> we tend to grade</font>
+
+1404
+01:11:19,760 --> 01:11:23,720
+just on the<font color="#CCCCCC"> point or standard grading</font>
+
+1405
+01:11:23,720 --> 01:11:27,860
+scale with<font color="#CCCCCC"> no we don't curve the course</font>
+
+1406
+01:11:27,860 --> 01:11:30,530
+we often work out quite<font color="#CCCCCC"> a few</font><font color="#E5E5E5"> A's and</font>
+
+1407
+01:11:30,530 --> 01:11:32,750
+quite a<font color="#E5E5E5"> few B's in this course and</font>
+
+1408
+01:11:32,750 --> 01:11:35,000
+<font color="#CCCCCC">that's fine if we</font><font color="#E5E5E5"> feel you've shown</font>
+
+1409
+01:11:35,000 --> 01:11:36,410
+mastery<font color="#CCCCCC"> in the material we have no</font>
+
+1410
+01:11:36,410 --> 01:11:39,200
+problem giving<font color="#CCCCCC"> you a good grade as I</font>
+
+1411
+01:11:39,200 --> 01:11:43,040
+mentioned we sometimes will<font color="#E5E5E5"> bump people</font>
+
+1412
+01:11:43,040 --> 01:11:45,530
+<font color="#E5E5E5">in a positive</font><font color="#CCCCCC"> direction if they're right</font>
+
+1413
+01:11:45,530 --> 01:11:47,540
+on<font color="#E5E5E5"> the border there's some circumstance</font>
+
+1414
+01:11:47,540 --> 01:11:54,350
+that<font color="#E5E5E5"> seems to</font><font color="#CCCCCC"> argue in favor of one</font>
+
+1415
+01:11:54,350 --> 01:11:59,450
+thing<font color="#E5E5E5"> I want to mention is there's a new</font>
+
+1416
+01:11:59,450 --> 01:12:02,480
+lab that's available<font color="#E5E5E5"> today you can get</font>
+
+1417
+01:12:02,480 --> 01:12:04,940
+<font color="#E5E5E5">it from the course page</font><font color="#CCCCCC"> if</font><font color="#E5E5E5"> you should</font>
+
+1418
+01:12:04,940 --> 01:12:06,500
+all have<font color="#CCCCCC"> all the way</font><font color="#E5E5E5"> of accounts already</font>
+
+1419
+01:12:06,500 --> 01:12:09,230
+<font color="#E5E5E5">if</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> are registered for</font><font color="#CCCCCC"> this course by</font>
+
+1420
+01:12:09,230 --> 01:12:14,210
+<font color="#E5E5E5">noon yesterday but in general there's a</font>
+
+1421
+01:12:14,210 --> 01:12:17,210
+new lab out called web<font color="#CCCCCC"> zero which is a</font>
+
+1422
+01:12:17,210 --> 01:12:20,450
+little exercise<font color="#CCCCCC"> and</font><font color="#E5E5E5"> C programming which</font>
+
+1423
+01:12:20,450 --> 01:12:22,400
+if you've done any C programming<font color="#E5E5E5"> if</font>
+
+1424
+01:12:22,400 --> 01:12:25,850
+you've taken<font color="#CCCCCC"> 122 should be a very</font>
+
+1425
+01:12:25,850 --> 01:12:27,890
+<font color="#CCCCCC">straightforward exercise we hope that's</font>
+
+1426
+01:12:27,890 --> 01:12:30,980
+<font color="#E5E5E5">the case but what we found is some</font>
+
+1427
+01:12:30,980 --> 01:12:32,240
+number<font color="#CCCCCC"> of students coming into the</font>
+
+1428
+01:12:32,240 --> 01:12:33,920
+course they're<font color="#E5E5E5"> either weakened it</font>
+
+1429
+01:12:33,920 --> 01:12:36,200
+they're a little<font color="#E5E5E5"> rusty some reason</font>
+
+1430
+01:12:36,200 --> 01:12:38,510
+haven't done much C<font color="#E5E5E5"> programming and they</font>
+
+1431
+01:12:38,510 --> 01:12:41,270
+find they get stuck<font color="#E5E5E5"> and the problem is</font>
+
+1432
+01:12:41,270 --> 01:12:43,430
+if the problem occurs<font color="#E5E5E5"> not in the first</font>
+
+1433
+01:12:43,430 --> 01:12:46,190
+few<font color="#E5E5E5"> laps but in later on in the course</font>
+
+1434
+01:12:46,190 --> 01:12:48,500
+<font color="#E5E5E5">about a month in when you have to start</font>
+
+1435
+01:12:48,500 --> 01:12:50,630
+<font color="#E5E5E5">writing more significant programs</font><font color="#CCCCCC"> so lab</font>
+
+1436
+01:12:50,630 --> 01:12:54,530
+<font color="#CCCCCC">0 is our our new attempt to</font><font color="#E5E5E5"> sort of help</font>
+
+1437
+01:12:54,530 --> 01:12:56,780
+give you some assessment<font color="#E5E5E5"> it only counts</font>
+
+1438
+01:12:56,780 --> 01:13:00,650
+<font color="#CCCCCC">two points total</font><font color="#E5E5E5"> in your grade but it</font>
+
+1439
+01:13:00,650 --> 01:13:03,800
+also should only take you<font color="#E5E5E5"> one hour or so</font>
+
+1440
+01:13:03,800 --> 01:13:08,420
+to do<font color="#CCCCCC"> so but you can get</font><font color="#E5E5E5"> on to that</font>
+
+1441
+01:13:08,420 --> 01:13:13,180
+<font color="#CCCCCC">right away</font><font color="#E5E5E5"> it's due a week from Thursday</font>
+
+1442
+01:13:13,180 --> 01:13:17,000
+<font color="#CCCCCC">otherwise the labs are once</font><font color="#E5E5E5"> we hand in</font>
+
+1443
+01:13:17,000 --> 01:13:18,219
+this<font color="#E5E5E5"> course for some time</font>
+
+1444
+01:13:18,219 --> 01:13:20,829
+<font color="#E5E5E5">although we keep tweaking and improving</font>
+
+1445
+01:13:20,829 --> 01:13:29,590
+<font color="#E5E5E5">them in various</font><font color="#CCCCCC"> differences just so the</font>
+
+1446
+01:13:29,590 --> 01:13:31,119
+<font color="#CCCCCC">lamps are</font><font color="#E5E5E5"> really a big part</font><font color="#CCCCCC"> of this</font>
+
+1447
+01:13:31,119 --> 01:13:32,889
+course and I'm sure if you<font color="#E5E5E5"> talk to</font>
+
+1448
+01:13:32,889 --> 01:13:34,449
+people<font color="#CCCCCC"> taking the course before that's</font>
+
+1449
+01:13:34,449 --> 01:13:38,380
+what<font color="#E5E5E5"> they remember the most it's a great</font>
+
+1450
+01:13:38,380 --> 01:13:40,179
+way to learn<font color="#CCCCCC"> material is to actually</font><font color="#E5E5E5"> get</font>
+
+1451
+01:13:40,179 --> 01:13:43,840
+your hands<font color="#E5E5E5"> on a duplex well we use a</font>
+
+1452
+01:13:43,840 --> 01:13:46,329
+system<font color="#CCCCCC"> called</font><font color="#E5E5E5"> the project</font><font color="#CCCCCC"> zone for</font>
+
+1453
+01:13:46,329 --> 01:13:48,999
+passing out the handouts<font color="#E5E5E5"> the write-ups</font>
+
+1454
+01:13:48,999 --> 01:13:53,769
+for the<font color="#E5E5E5"> labs and it's so a way that</font>
+
+1455
+01:13:53,769 --> 01:13:56,619
+<font color="#CCCCCC">actually kind of reveals the handout</font>
+
+1456
+01:13:56,619 --> 01:13:59,440
+slowly over time as you<font color="#E5E5E5"> answer</font><font color="#CCCCCC"> your</font>
+
+1457
+01:13:59,440 --> 01:14:01,059
+<font color="#E5E5E5">questions on what you've already seen</font>
+
+1458
+01:14:01,059 --> 01:14:03,489
+and<font color="#E5E5E5"> only when</font><font color="#CCCCCC"> you get to the very end</font>
+
+1459
+01:14:03,489 --> 01:14:06,429
+<font color="#E5E5E5">you get this little passkey which is a</font>
+
+1460
+01:14:06,429 --> 01:14:09,940
+set of digits<font color="#CCCCCC"> than the letters but</font><font color="#E5E5E5"> then</font>
+
+1461
+01:14:09,940 --> 01:14:12,489
+you include<font color="#E5E5E5"> as</font><font color="#CCCCCC"> part of</font><font color="#E5E5E5"> your submission</font>
+
+1462
+01:14:12,489 --> 01:14:14,440
+<font color="#E5E5E5">and that's what lets you submit things</font>
+
+1463
+01:14:14,440 --> 01:14:16,570
+to all the way out and<font color="#CCCCCC"> the reason</font><font color="#E5E5E5"> we do</font>
+
+1464
+01:14:16,570 --> 01:14:19,090
+<font color="#CCCCCC">this is</font><font color="#E5E5E5"> often we get questions in Piazza</font>
+
+1465
+01:14:19,090 --> 01:14:21,449
+where our answer is read the handout and
+
+1466
+01:14:21,449 --> 01:14:25,119
+so this is a way to<font color="#E5E5E5"> encourage you more</font>
+
+1467
+01:14:25,119 --> 01:14:28,059
+strongly to<font color="#E5E5E5"> read the handout carefully</font>
+
+1468
+01:14:28,059 --> 01:14:31,869
+before you jump<font color="#CCCCCC"> into the sciences</font><font color="#E5E5E5"> and as</font>
+
+1469
+01:14:31,869 --> 01:14:34,960
+I mentioned we'll have a gift server the
+
+1470
+01:14:34,960 --> 01:14:36,760
+last thing I want to talk<font color="#E5E5E5"> about is</font>
+
+1471
+01:14:36,760 --> 01:14:39,940
+there'll be a<font color="#CCCCCC"> bootcamp this</font><font color="#E5E5E5"> Monday which</font>
+
+1472
+01:14:39,940 --> 01:14:43,510
+I know is Labor Day<font color="#E5E5E5"> at 7 p.m. in ration</font>
+
+1473
+01:14:43,510 --> 01:14:46,229
+auditorium but<font color="#E5E5E5"> the TAS will run on</font>
+
+1474
+01:14:46,229 --> 01:14:50,260
+getting<font color="#E5E5E5"> familiar</font><font color="#CCCCCC"> with Linux and gift so</font>
+
+1475
+01:14:50,260 --> 01:14:53,469
+a lot of<font color="#E5E5E5"> you this isn't mandatory at all</font>
+
+1476
+01:14:53,469 --> 01:14:55,889
+but if you consider<font color="#E5E5E5"> the little shaky</font><font color="#CCCCCC"> on</font>
+
+1477
+01:14:55,889 --> 01:14:59,110
+using<font color="#E5E5E5"> Linux using command-line tools</font>
+
+1478
+01:14:59,110 --> 01:15:01,989
+using<font color="#E5E5E5"> get they'll cover a lot</font><font color="#CCCCCC"> of that</font>
+
+1479
+01:15:01,989 --> 01:15:04,150
+and so I recommend you<font color="#E5E5E5"> you put that on</font>
+
+1480
+01:15:04,150 --> 01:15:06,519
+<font color="#E5E5E5">your schedule otherwise I</font><font color="#CCCCCC"> think we're</font>
+
+1481
+01:15:06,519 --> 00:00:00,000
+good to<font color="#CCCCCC"> go so what</font><font color="#E5E5E5"> do I do with you</font>
+
