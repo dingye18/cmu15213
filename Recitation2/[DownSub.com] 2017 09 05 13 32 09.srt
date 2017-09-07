@@ -1,0 +1,5264 @@
+1
+00:00:08,599 --> 00:00:14,059
+<font color="#E5E5E5">no better good afternoon everyone</font>
+
+2
+00:00:17,029 --> 00:00:20,000
+so just a<font color="#E5E5E5"> few announcements</font>
+
+3
+00:00:20,000 --> 00:00:22,740
+it's you know web<font color="#E5E5E5"> bureaus been out there</font>
+
+4
+00:00:22,740 --> 00:00:25,050
+it's due this Thursday there are no wait
+
+5
+00:00:25,050 --> 00:00:27,750
+days no<font color="#E5E5E5"> greatest days no excuses</font><font color="#CCCCCC"> so</font>
+
+6
+00:00:27,750 --> 00:00:32,058
+don't put<font color="#E5E5E5"> it off to the last minute oh</font>
+
+7
+00:00:32,058 --> 00:00:35,040
+it should be<font color="#E5E5E5"> everything</font><font color="#CCCCCC"> set you should</font>
+
+8
+00:00:35,040 --> 00:00:37,860
+<font color="#CCCCCC">be able to do it</font><font color="#E5E5E5"> lab</font><font color="#CCCCCC"> one became</font>
+
+9
+00:00:37,860 --> 00:00:39,510
+available sometime<font color="#CCCCCC"> there only</font><font color="#E5E5E5"> this</font>
+
+10
+00:00:39,510 --> 00:00:43,770
+morning<font color="#CCCCCC"> and we're starting with web</font><font color="#E5E5E5"> one</font>
+
+11
+00:00:43,770 --> 00:00:45,750
+the way we're going<font color="#E5E5E5"> to release the</font>
+
+12
+00:00:45,750 --> 00:00:47,820
+information<font color="#CCCCCC"> we need to do though is</font>
+
+13
+00:00:47,820 --> 00:00:50,219
+through this website<font color="#E5E5E5"> called the project</font>
+
+14
+00:00:50,219 --> 00:00:52,829
+<font color="#CCCCCC">zone which will</font><font color="#E5E5E5"> guide you</font><font color="#CCCCCC"> through the</font>
+
+15
+00:00:52,829 --> 00:00:54,930
+write-up<font color="#E5E5E5"> and require</font><font color="#CCCCCC"> you to answer some</font>
+
+16
+00:00:54,930 --> 00:00:59,250
+little simple questions along the way<font color="#E5E5E5"> is</font>
+
+17
+00:00:59,250 --> 00:01:03,629
+our way<font color="#CCCCCC"> of encouraging you to read the</font>
+
+18
+00:01:03,629 --> 00:01:06,600
+<font color="#CCCCCC">write on carefully and</font><font color="#E5E5E5"> only once you get</font>
+
+19
+00:01:06,600 --> 00:01:09,260
+through<font color="#E5E5E5"> that you'll get a little code</font>
+
+20
+00:01:09,260 --> 00:01:12,930
+now<font color="#E5E5E5"> you can actually start the web and</font>
+
+21
+00:01:12,930 --> 00:01:18,720
+do all the<font color="#E5E5E5"> work of</font><font color="#CCCCCC"> the web because</font>
+
+22
+00:01:18,720 --> 00:01:20,310
+you'll<font color="#CCCCCC"> be</font><font color="#E5E5E5"> able to get the files actually</font>
+
+23
+00:01:20,310 --> 00:01:21,680
+<font color="#E5E5E5">for</font><font color="#CCCCCC"> it</font>
+
+24
+00:01:21,680 --> 00:01:26,460
+Vado and directly but to see the right
+
+25
+00:01:26,460 --> 00:01:28,170
+out the end to<font color="#E5E5E5"> actually submit</font><font color="#CCCCCC"> it to</font>
+
+26
+00:01:28,170 --> 00:01:30,079
+auto web<font color="#E5E5E5"> you'll have to have this little</font>
+
+27
+00:01:30,079 --> 00:01:32,850
+<font color="#CCCCCC">passkey that comes at the end</font><font color="#E5E5E5"> of your</font>
+
+28
+00:01:32,850 --> 00:01:35,070
+completion<font color="#E5E5E5"> of the right up through the</font>
+
+29
+00:01:35,070 --> 00:01:37,680
+project so and then you'll put<font color="#CCCCCC"> that in</font>
+
+30
+00:01:37,680 --> 00:01:39,479
+the file and submit that<font color="#CCCCCC"> as part</font><font color="#E5E5E5"> of your</font>
+
+31
+00:01:39,479 --> 00:01:41,700
+handle<font color="#E5E5E5"> so that's all described but</font>
+
+32
+00:01:41,700 --> 00:01:43,680
+there's a suit of<font color="#CCCCCC"> two-phase part that</font>
+
+33
+00:01:43,680 --> 00:01:45,869
+there's the<font color="#E5E5E5"> project zone there's</font><font color="#CCCCCC"> Auto</font>
+
+34
+00:01:45,869 --> 00:01:48,000
+labs<font color="#E5E5E5"> oh oh</font>
+
+35
+00:01:48,000 --> 00:01:53,159
+this particular lab is<font color="#CCCCCC"> we'll make use of</font>
+
+36
+00:01:53,159 --> 00:01:55,649
+what<font color="#E5E5E5"> you learned last week and this week</font>
+
+37
+00:01:55,649 --> 00:01:59,549
+about<font color="#CCCCCC"> bits bytes</font><font color="#E5E5E5"> and numeric</font>
+
+38
+00:01:59,549 --> 00:02:02,189
+representations and<font color="#E5E5E5"> so in particular a</font>
+
+39
+00:02:02,189 --> 00:02:05,670
+good chunk of<font color="#E5E5E5"> the problems are just</font><font color="#CCCCCC"> bit</font>
+
+40
+00:02:05,670 --> 00:02:09,598
+level manipulation questions that the
+
+41
+00:02:09,598 --> 00:02:11,280
+material<font color="#E5E5E5"> in the lecture material for it</font>
+
+42
+00:02:11,280 --> 00:02:13,500
+will be<font color="#E5E5E5"> from last week and from today</font>
+
+43
+00:02:13,500 --> 00:02:15,930
+and then on Thursday<font color="#E5E5E5"> we'll talk about</font>
+
+44
+00:02:15,930 --> 00:02:17,700
+<font color="#CCCCCC">floating-point and that will cover all</font>
+
+45
+00:02:17,700 --> 00:02:21,180
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> information then next Monday will be</font>
+
+46
+00:02:21,180 --> 00:02:22,950
+your first recitation class and it will
+
+47
+00:02:22,950 --> 00:02:25,350
+<font color="#E5E5E5">talk about that quite a</font><font color="#CCCCCC"> bit more</font><font color="#E5E5E5"> but I'd</font>
+
+48
+00:02:25,350 --> 00:02:27,180
+<font color="#CCCCCC">recommend you get</font><font color="#E5E5E5"> started before next</font>
+
+49
+00:02:27,180 --> 00:02:31,520
+<font color="#E5E5E5">Monday on this way question</font><font color="#CCCCCC"> over</font><font color="#E5E5E5"> there</font>
+
+50
+00:02:40,580 --> 00:02:45,720
+yeah<font color="#CCCCCC"> lab theorem is not required</font><font color="#E5E5E5"> in lab</font>
+
+51
+00:02:45,720 --> 00:02:48,090
+<font color="#CCCCCC">one by the way</font><font color="#E5E5E5"> I'm</font><font color="#CCCCCC"> not sure if Auto atom</font>
+
+52
+00:02:48,090 --> 00:02:50,280
+is working quite<font color="#CCCCCC"> right yet on it</font><font color="#E5E5E5"> start</font>
+
+53
+00:02:50,280 --> 00:02:52,620
+submission<font color="#E5E5E5"> so if you really out early</font>
+
+54
+00:02:52,620 --> 00:02:54,330
+<font color="#E5E5E5">and you want to submit it today</font><font color="#CCCCCC"> might</font>
+
+55
+00:02:54,330 --> 00:03:00,090
+not<font color="#CCCCCC"> work</font><font color="#E5E5E5"> we're tracking that down oh but</font>
+
+56
+00:03:00,090 --> 00:03:02,630
+you can certainly<font color="#E5E5E5"> get started on the web</font>
+
+57
+00:03:02,630 --> 00:03:07,320
+as<font color="#CCCCCC"> it is this and also mention</font><font color="#E5E5E5"> and I'll</font>
+
+58
+00:03:07,320 --> 00:03:09,270
+say<font color="#E5E5E5"> this</font><font color="#CCCCCC"> in the</font><font color="#E5E5E5"> various other place this</font>
+
+59
+00:03:09,270 --> 00:03:12,420
+particular<font color="#CCCCCC"> lab has more kind of quirks</font>
+
+60
+00:03:12,420 --> 00:03:15,320
+and bumps<font color="#E5E5E5"> and works in the software then</font>
+
+61
+00:03:15,320 --> 00:03:22,110
+I feel good about and the<font color="#CCCCCC"> reason is</font>
+
+62
+00:03:22,110 --> 00:03:23,430
+because<font color="#E5E5E5"> we've kind</font><font color="#CCCCCC"> of patched together</font>
+
+63
+00:03:23,430 --> 00:03:26,519
+this odd mix of software to<font color="#CCCCCC"> support how</font>
+
+64
+00:03:26,519 --> 00:03:29,910
+we do the checking<font color="#E5E5E5"> of your code for its</font>
+
+65
+00:03:29,910 --> 00:03:31,920
+conformance to some<font color="#E5E5E5"> programming rules</font>
+
+66
+00:03:31,920 --> 00:03:37,830
+and correctness and things<font color="#CCCCCC"> that</font><font color="#E5E5E5"> it's</font>
+
+67
+00:03:37,830 --> 00:03:40,320
+trying<font color="#E5E5E5"> to meet Mike</font><font color="#CCCCCC"> very</font><font color="#E5E5E5"> swimsuit of odd</font>
+
+68
+00:03:40,320 --> 00:03:42,720
+aspects of it that are all documented<font color="#E5E5E5"> in</font>
+
+69
+00:03:42,720 --> 00:03:45,090
+the write-up but it's easy<font color="#E5E5E5"> to overlook</font>
+
+70
+00:03:45,090 --> 00:03:46,590
+<font color="#CCCCCC">that when</font><font color="#E5E5E5"> you're first skimming through</font>
+
+71
+00:03:46,590 --> 00:03:48,480
+so this is one of<font color="#E5E5E5"> these things before</font>
+
+72
+00:03:48,480 --> 00:03:51,150
+<font color="#CCCCCC">you</font><font color="#E5E5E5"> run</font><font color="#CCCCCC"> off to</font><font color="#E5E5E5"> Piazza and ask what do</font>
+
+73
+00:03:51,150 --> 00:03:52,860
+<font color="#E5E5E5">you mean about this or what do you mean</font>
+
+74
+00:03:52,860 --> 00:03:55,320
+about<font color="#E5E5E5"> that or I get the following weird</font>
+
+75
+00:03:55,320 --> 00:03:59,340
+<font color="#E5E5E5">error report please re-read the write-up</font>
+
+76
+00:03:59,340 --> 00:04:02,489
+several times<font color="#CCCCCC"> because a lot of times all</font>
+
+77
+00:04:02,489 --> 00:04:04,350
+of<font color="#CCCCCC"> a sudden it will jump out at you that</font>
+
+78
+00:04:04,350 --> 00:04:06,720
+you have<font color="#CCCCCC"> arrived oh right curly brace</font>
+
+79
+00:04:06,720 --> 00:04:08,910
+<font color="#CCCCCC">and the first column to finish your</font>
+
+80
+00:04:08,910 --> 00:04:11,820
+function definitions<font color="#E5E5E5"> that aren't part of</font>
+
+81
+00:04:11,820 --> 00:04:15,709
+the normal seat programming conventions
+
+82
+00:04:17,120 --> 00:04:20,250
+so today we're going to continue<font color="#CCCCCC"> talking</font>
+
+83
+00:04:20,250 --> 00:04:24,390
+about<font color="#E5E5E5"> the</font><font color="#CCCCCC"> representation of values in</font>
+
+84
+00:04:24,390 --> 00:04:26,790
+particular<font color="#E5E5E5"> integer values</font>
+
+85
+00:04:26,790 --> 00:04:29,280
+<font color="#E5E5E5">as</font><font color="#CCCCCC"> bit and we started that last time and</font>
+
+86
+00:04:29,280 --> 00:04:31,920
+<font color="#CCCCCC">what we'll do is is continue that today</font>
+
+87
+00:04:31,920 --> 00:04:34,050
+<font color="#E5E5E5">talking</font><font color="#CCCCCC"> about the different arithmetic</font>
+
+88
+00:04:34,050 --> 00:04:35,930
+operations<font color="#E5E5E5"> you want to perform</font><font color="#CCCCCC"> landfills</font>
+
+89
+00:04:35,930 --> 00:04:39,060
+<font color="#CCCCCC">will</font><font color="#E5E5E5"> also cover some</font><font color="#CCCCCC"> more general than</font>
+
+90
+00:04:39,060 --> 00:04:41,520
+<font color="#CCCCCC">students how information is stored in</font>
+
+91
+00:04:41,520 --> 00:04:46,500
+<font color="#E5E5E5">memory and how</font><font color="#CCCCCC"> its referenced</font><font color="#E5E5E5"> oh so you</font>
+
+92
+00:04:46,500 --> 00:04:48,600
+recall from<font color="#E5E5E5"> before</font><font color="#CCCCCC"> that the</font><font color="#E5E5E5"> two</font>
+
+93
+00:04:48,600 --> 00:04:50,070
+<font color="#E5E5E5">equations that you really have to know</font>
+
+94
+00:04:50,070 --> 00:04:51,630
+<font color="#E5E5E5">and understand and everything else</font>
+
+95
+00:04:51,630 --> 00:04:54,150
+<font color="#CCCCCC">follows from</font><font color="#E5E5E5"> those two equations</font><font color="#CCCCCC"> it's</font>
+
+96
+00:04:54,150 --> 00:04:57,870
+given a set of<font color="#E5E5E5"> bits what number does</font>
+
+97
+00:04:57,870 --> 00:05:00,330
+that represent<font color="#CCCCCC"> and we can talk</font><font color="#E5E5E5"> about</font>
+
+98
+00:05:00,330 --> 00:05:03,030
+that<font color="#E5E5E5"> number is either</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> unsigned</font><font color="#CCCCCC"> integer</font>
+
+99
+00:05:03,030 --> 00:05:05,400
+meaning<font color="#E5E5E5"> its value is either</font><font color="#CCCCCC"> 0 or greater</font>
+
+100
+00:05:05,400 --> 00:05:08,970
+<font color="#E5E5E5">or the other representation we'll look</font>
+
+101
+00:05:08,970 --> 00:05:10,710
+at in this<font color="#CCCCCC"> class is two's complement</font>
+
+102
+00:05:10,710 --> 00:05:13,080
+representation<font color="#E5E5E5"> which allows you to</font><font color="#CCCCCC"> have</font>
+
+103
+00:05:13,080 --> 00:05:14,700
+<font color="#CCCCCC">numbers that</font><font color="#E5E5E5"> are both negative and</font>
+
+104
+00:05:14,700 --> 00:05:17,280
+<font color="#CCCCCC">positive and the way that works is by</font>
+
+105
+00:05:17,280 --> 00:05:20,000
+<font color="#E5E5E5">simply making the most significant death</font>
+
+106
+00:05:20,000 --> 00:05:23,280
+<font color="#CCCCCC">they have a negative value to it so that</font>
+
+107
+00:05:23,280 --> 00:05:27,120
+if it's set<font color="#CCCCCC"> then it</font><font color="#E5E5E5"> in turn makes the</font>
+
+108
+00:05:27,120 --> 00:05:29,670
+number very negative and then you can
+
+109
+00:05:29,670 --> 00:05:32,550
+add back<font color="#CCCCCC"> some more bits positive bits to</font>
+
+110
+00:05:32,550 --> 00:05:35,610
+bring it<font color="#E5E5E5"> back closer to</font><font color="#CCCCCC"> zero</font><font color="#E5E5E5"> and so we</font>
+
+111
+00:05:35,610 --> 00:05:37,980
+looked at the example<font color="#E5E5E5"> and here's the</font>
+
+112
+00:05:37,980 --> 00:05:40,680
+correct<font color="#E5E5E5"> version of it that 10 is simply</font>
+
+113
+00:05:40,680 --> 00:05:47,550
+2<font color="#E5E5E5"> plus 8 but - town is is minus 16</font><font color="#CCCCCC"> plus</font>
+
+114
+00:05:47,550 --> 00:05:50,970
+4 plus 2 so you start<font color="#CCCCCC"> with</font><font color="#E5E5E5"> minus 16 you</font>
+
+115
+00:05:50,970 --> 00:05:54,150
+add back 4 that gives you minus 12<font color="#E5E5E5"> add</font>
+
+116
+00:05:54,150 --> 00:06:00,570
+back<font color="#E5E5E5"> to that gives you minus 10 I should</font>
+
+117
+00:06:00,570 --> 00:06:02,100
+also mention two's complement there's
+
+118
+00:06:02,100 --> 00:06:04,080
+nothing in the<font color="#CCCCCC"> c standard in fact the</font><font color="#E5E5E5"> c</font>
+
+119
+00:06:04,080 --> 00:06:06,840
+standard is<font color="#E5E5E5"> very careful not</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> say thou</font>
+
+120
+00:06:06,840 --> 00:06:10,550
+shalt use two's complement<font color="#CCCCCC"> numbers but</font>
+
+121
+00:06:10,550 --> 00:06:13,950
+<font color="#E5E5E5">the x86 processors which is what we use</font>
+
+122
+00:06:13,950 --> 00:06:16,830
+and really just<font color="#E5E5E5"> about every processor</font>
+
+123
+00:06:16,830 --> 00:06:19,590
+that<font color="#E5E5E5"> you're likely to come across</font><font color="#CCCCCC"> does</font>
+
+124
+00:06:19,590 --> 00:06:22,170
+use two's complement<font color="#CCCCCC"> so you can't</font><font color="#E5E5E5"> always</font>
+
+125
+00:06:22,170 --> 00:06:23,940
+assume this<font color="#E5E5E5"> when you're writing programs</font>
+
+126
+00:06:23,940 --> 00:06:27,450
+but for<font color="#E5E5E5"> the platforms that we're</font>
+
+127
+00:06:27,450 --> 00:06:32,330
+interested in<font color="#E5E5E5"> this will be</font><font color="#CCCCCC"> the case and</font>
+
+128
+00:06:32,330 --> 00:06:35,720
+so we talked about<font color="#E5E5E5"> this idea that</font>
+
+129
+00:06:35,720 --> 00:06:38,070
+there's a sort<font color="#CCCCCC"> of correspondence</font><font color="#E5E5E5"> between</font>
+
+130
+00:06:38,070 --> 00:06:40,260
+<font color="#E5E5E5">unsigned and signed numbers</font>
+
+131
+00:06:40,260 --> 00:06:43,020
+that's based on<font color="#E5E5E5"> this kind of odd idea</font>
+
+132
+00:06:43,020 --> 00:06:44,580
+that when you<font color="#CCCCCC"> convert from one</font><font color="#E5E5E5"> to the</font>
+
+133
+00:06:44,580 --> 00:06:46,680
+<font color="#E5E5E5">other you actually don't do</font><font color="#CCCCCC"> anything</font><font color="#E5E5E5"> you</font>
+
+134
+00:06:46,680 --> 00:06:49,080
+keep the bits in there whatever<font color="#CCCCCC"> pattern</font>
+
+135
+00:06:49,080 --> 00:06:51,870
+they are and you<font color="#E5E5E5"> just change your</font>
+
+136
+00:06:51,870 --> 00:06:54,090
+interpretation of what<font color="#E5E5E5"> those bits me</font>
+
+137
+00:06:54,090 --> 00:07:02,040
+so for these are<font color="#E5E5E5"> 4-bit values so as an</font>
+
+138
+00:07:02,040 --> 00:07:03,900
+unsigned number it<font color="#E5E5E5"> can range from 0 to</font>
+
+139
+00:07:03,900 --> 00:07:06,990
+15<font color="#E5E5E5"> but as a two's complement number it</font>
+
+140
+00:07:06,990 --> 00:07:10,290
+can range from<font color="#E5E5E5"> minus 8 to positive 7</font><font color="#CCCCCC"> and</font>
+
+141
+00:07:10,290 --> 00:07:14,040
+you'll notice<font color="#CCCCCC"> that</font><font color="#E5E5E5"> for</font><font color="#CCCCCC"> the positive case</font>
+
+142
+00:07:14,040 --> 00:07:15,630
+the<font color="#E5E5E5"> place where these</font><font color="#CCCCCC"> two</font>
+
+143
+00:07:15,630 --> 00:07:20,460
+representations overlap they match but
+
+144
+00:07:20,460 --> 00:07:22,620
+<font color="#E5E5E5">for the cases where they don't what is a</font>
+
+145
+00:07:22,620 --> 00:07:25,440
+very large<font color="#E5E5E5"> number a relatively large</font>
+
+146
+00:07:25,440 --> 00:07:27,960
+number<font color="#CCCCCC"> is an</font><font color="#E5E5E5"> unsigned becomes a negative</font>
+
+147
+00:07:27,960 --> 00:07:31,790
+<font color="#E5E5E5">number as a sign number but any time a</font>
+
+148
+00:07:31,790 --> 00:07:37,820
+program in<font color="#CCCCCC"> C</font><font color="#E5E5E5"> casts or for some reason</font>
+
+149
+00:07:37,820 --> 00:07:41,280
+<font color="#E5E5E5">sort of switches between unsigned and</font>
+
+150
+00:07:41,280 --> 00:07:43,680
+signed representations<font color="#E5E5E5"> that's what it's</font>
+
+151
+00:07:43,680 --> 00:07:46,560
+doing<font color="#E5E5E5"> is nothing</font><font color="#CCCCCC"> it's just</font><font color="#E5E5E5"> changing what</font>
+
+152
+00:07:46,560 --> 00:07:48,810
+numeric value is<font color="#E5E5E5"> assigned to a</font>
+
+153
+00:07:48,810 --> 00:07:51,870
+particular<font color="#E5E5E5"> bit</font><font color="#CCCCCC"> pattern and that has it's</font>
+
+154
+00:07:51,870 --> 00:07:54,900
+<font color="#CCCCCC">sort of strange</font><font color="#E5E5E5"> and quirky behaviors to</font>
+
+155
+00:07:54,900 --> 00:07:57,270
+it and the other<font color="#E5E5E5"> that I mentioned last</font>
+
+156
+00:07:57,270 --> 00:08:00,570
+<font color="#CCCCCC">time it</font><font color="#E5E5E5"> is especially peculiar is if you</font>
+
+157
+00:08:00,570 --> 00:08:03,330
+have an operation<font color="#E5E5E5"> say addition or less</font>
+
+158
+00:08:03,330 --> 00:08:06,240
+than and<font color="#E5E5E5"> one of the operands is signed</font>
+
+159
+00:08:06,240 --> 00:08:09,180
+and the other is unsigned<font color="#E5E5E5"> the rule in C</font>
+
+160
+00:08:09,180 --> 00:08:11,490
+is and this<font color="#E5E5E5"> is the C standard is</font>
+
+161
+00:08:11,490 --> 00:08:14,220
+there'll be an implicit conversion from
+
+162
+00:08:14,220 --> 00:08:16,950
+that<font color="#E5E5E5"> sign value to an unsigned value and</font>
+
+163
+00:08:16,950 --> 00:08:18,660
+then whatever operation<font color="#E5E5E5"> would be</font>
+
+164
+00:08:18,660 --> 00:08:22,020
+<font color="#E5E5E5">performed is performed</font><font color="#CCCCCC"> Oh</font>
+
+165
+00:08:22,020 --> 00:08:24,060
+last time we also talked about<font color="#E5E5E5"> this idea</font>
+
+166
+00:08:24,060 --> 00:08:26,580
+<font color="#CCCCCC">of sign extension</font><font color="#E5E5E5"> which</font><font color="#CCCCCC"> is to</font><font color="#E5E5E5"> take a</font>
+
+167
+00:08:26,580 --> 00:08:28,980
+smaller bit pattern and make it<font color="#E5E5E5"> larger</font>
+
+168
+00:08:28,980 --> 00:08:31,020
+<font color="#E5E5E5">you do it by copying the most</font>
+
+169
+00:08:31,020 --> 00:08:34,770
+significant bit<font color="#E5E5E5"> into the new positions</font>
+
+170
+00:08:34,770 --> 00:08:37,559
+<font color="#E5E5E5">and what we saw with that</font><font color="#CCCCCC"> is for the</font>
+
+171
+00:08:37,559 --> 00:08:41,970
+case of this is for a two's complement
+
+172
+00:08:41,970 --> 00:08:45,260
+number what it does is it gives you a
+
+173
+00:08:45,260 --> 00:08:48,000
+larger number<font color="#E5E5E5"> of bits this represents</font>
+
+174
+00:08:48,000 --> 00:08:50,700
+the exact same<font color="#E5E5E5"> number similarly if you</font>
+
+175
+00:08:50,700 --> 00:08:53,490
+<font color="#CCCCCC">want to shrink a number of what happens</font>
+
+176
+00:08:53,490 --> 00:08:54,040
+is they do
+
+177
+00:08:54,040 --> 00:08:56,560
+<font color="#E5E5E5">chop off the</font><font color="#CCCCCC"> high-order</font><font color="#E5E5E5"> bits</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> whatever</font>
+
+178
+00:08:56,560 --> 00:08:59,470
+<font color="#E5E5E5">if it's a signed number whatever used to</font>
+
+179
+00:08:59,470 --> 00:09:01,300
+be in this what's the new most
+
+180
+00:09:01,300 --> 00:09:03,430
+significant<font color="#E5E5E5"> fit position that becomes</font>
+
+181
+00:09:03,430 --> 00:09:06,370
+<font color="#CCCCCC">assigned it and that may</font><font color="#E5E5E5"> or may</font><font color="#CCCCCC"> not be a</font>
+
+182
+00:09:06,370 --> 00:09:09,220
+good<font color="#E5E5E5"> idea in</font><font color="#CCCCCC"> terms of preserving</font><font color="#E5E5E5"> numeric</font>
+
+183
+00:09:09,220 --> 00:09:10,690
+values<font color="#E5E5E5"> obviously if you're going</font><font color="#CCCCCC"> to</font>
+
+184
+00:09:10,690 --> 00:09:13,149
+shrink the number<font color="#CCCCCC"> of bits some values</font>
+
+185
+00:09:13,149 --> 00:09:17,199
+will be<font color="#E5E5E5"> unrepresentable and that's</font>
+
+186
+00:09:17,199 --> 00:09:19,720
+becomes the consequence of this<font color="#E5E5E5"> but</font>
+
+187
+00:09:19,720 --> 00:09:22,230
+that's<font color="#E5E5E5"> just the way it works</font>
+
+188
+00:09:22,230 --> 00:09:24,519
+so now let's poke into arithmetic
+
+189
+00:09:24,519 --> 00:09:25,930
+operations<font color="#E5E5E5"> and we'll see the same</font>
+
+190
+00:09:25,930 --> 00:09:29,949
+<font color="#CCCCCC">general ideas apply that and</font><font color="#E5E5E5"> usually</font>
+
+191
+00:09:29,949 --> 00:09:31,329
+it's a little<font color="#E5E5E5"> more</font><font color="#CCCCCC"> intuitive to</font>
+
+192
+00:09:31,329 --> 00:09:33,220
+understand the unsigned case than the
+
+193
+00:09:33,220 --> 00:09:35,620
+<font color="#CCCCCC">sine case</font><font color="#E5E5E5"> so the idea</font><font color="#CCCCCC"> with unsigned</font>
+
+194
+00:09:35,620 --> 00:09:38,079
+addition is in principle<font color="#CCCCCC"> if you want to</font>
+
+195
+00:09:38,079 --> 00:09:42,009
+add two numbers each say of n bits that
+
+196
+00:09:42,009 --> 00:09:44,560
+to<font color="#E5E5E5"> fully represent</font><font color="#CCCCCC"> the sum of those two</font>
+
+197
+00:09:44,560 --> 00:09:47,649
+numbers<font color="#E5E5E5"> you might need n plus 1 bits and</font>
+
+198
+00:09:47,649 --> 00:09:49,060
+it's a<font color="#E5E5E5"> little hard if you keep adding</font>
+
+199
+00:09:49,060 --> 00:09:51,490
+<font color="#E5E5E5">numbers to go and get more bits and so</font>
+
+200
+00:09:51,490 --> 00:09:53,680
+what happens is we just<font color="#E5E5E5"> chop it off and</font>
+
+201
+00:09:53,680 --> 00:09:57,610
+<font color="#E5E5E5">say whatever the extra bit was I'm going</font>
+
+202
+00:09:57,610 --> 00:10:00,149
+<font color="#E5E5E5">to ignore</font><font color="#CCCCCC"> the so-called overflow bit</font>
+
+203
+00:10:00,149 --> 00:10:03,250
+<font color="#E5E5E5">whether it was a</font><font color="#CCCCCC"> 0 or 1</font><font color="#E5E5E5"> I'm not going to</font>
+
+204
+00:10:03,250 --> 00:10:05,949
+do<font color="#E5E5E5"> it and the effect</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> that is it is</font>
+
+205
+00:10:05,949 --> 00:10:11,649
+sort<font color="#CCCCCC"> of a modular arithmetic</font><font color="#E5E5E5"> that that</font>
+
+206
+00:10:11,649 --> 00:10:15,790
+the<font color="#CCCCCC"> additions are just wraps around</font><font color="#E5E5E5"> and</font>
+
+207
+00:10:15,790 --> 00:10:19,360
+continues on<font color="#E5E5E5"> so for example this</font><font color="#CCCCCC"> example</font>
+
+208
+00:10:19,360 --> 00:10:23,470
+shows if I add the numbers a decimal 223
+
+209
+00:10:23,470 --> 00:10:29,079
+<font color="#CCCCCC">to 213 if I had enough bits I'd get the</font>
+
+210
+00:10:29,079 --> 00:10:32,709
+number 446 what I don't I'm<font color="#E5E5E5"> going to</font>
+
+211
+00:10:32,709 --> 00:10:34,959
+keep it at<font color="#E5E5E5"> 8 bits and so I'm going to</font>
+
+212
+00:10:34,959 --> 00:10:38,980
+<font color="#E5E5E5">just chop off that most significant bit</font>
+
+213
+00:10:38,980 --> 00:10:41,680
+and<font color="#CCCCCC"> the result I'll get is 190 you might</font>
+
+214
+00:10:41,680 --> 00:10:46,000
+<font color="#E5E5E5">notice is exactly 256 smaller than 446</font>
+
+215
+00:10:46,000 --> 00:10:47,680
+and that's the<font color="#E5E5E5"> effect because he can</font>
+
+216
+00:10:47,680 --> 00:10:54,670
+<font color="#E5E5E5">think of here that we're dropping off</font>
+
+217
+00:10:54,670 --> 00:10:57,310
+that bit there that we're dropping<font color="#E5E5E5"> has</font>
+
+218
+00:10:57,310 --> 00:11:00,970
+weight or value 256<font color="#E5E5E5"> and so by</font>
+
+219
+00:11:00,970 --> 00:11:03,579
+eliminating<font color="#CCCCCC"> that</font><font color="#E5E5E5"> what we're doing is</font>
+
+220
+00:11:03,579 --> 00:11:07,839
+<font color="#E5E5E5">decreasing the result by 256</font>
+
+221
+00:11:07,839 --> 00:11:10,870
+and so actually<font color="#CCCCCC"> and this is part of the</font>
+
+222
+00:11:10,870 --> 00:11:13,480
+seed guarantees that all<font color="#CCCCCC"> addition will</font>
+
+223
+00:11:13,480 --> 00:11:17,050
+be performed<font color="#E5E5E5"> as modular addition so even</font>
+
+224
+00:11:17,050 --> 00:11:19,149
+when it<font color="#E5E5E5"> overflows</font><font color="#CCCCCC"> the program is</font>
+
+225
+00:11:19,149 --> 00:11:21,249
+completely well specified behavior<font color="#CCCCCC"> of</font>
+
+226
+00:11:21,249 --> 00:11:26,529
+what it's supposed<font color="#CCCCCC"> to do so if I think</font>
+
+227
+00:11:26,529 --> 00:11:29,529
+<font color="#CCCCCC">of the possible</font><font color="#E5E5E5"> range of values that</font>
+
+228
+00:11:29,529 --> 00:11:32,499
+<font color="#E5E5E5">these numbers could have along the x and</font>
+
+229
+00:11:32,499 --> 00:11:35,620
+y<font color="#E5E5E5"> axes and then the sum</font><font color="#CCCCCC"> of the values on</font>
+
+230
+00:11:35,620 --> 00:11:38,439
+the<font color="#E5E5E5"> z then the sort of normal addition</font>
+
+231
+00:11:38,439 --> 00:11:42,579
+would give you this<font color="#E5E5E5"> plain diagonal plane</font>
+
+232
+00:11:42,579 --> 00:11:45,610
+because once<font color="#E5E5E5"> sort of the definition</font><font color="#CCCCCC"> of a</font>
+
+233
+00:11:45,610 --> 00:11:50,170
+<font color="#E5E5E5">linear function but if I go to two's</font>
+
+234
+00:11:50,170 --> 00:11:52,149
+complement addition<font color="#E5E5E5"> I'm sorry</font><font color="#CCCCCC"> to</font>
+
+235
+00:11:52,149 --> 00:11:55,540
+unsigned addition what you see is it
+
+236
+00:11:55,540 --> 00:11:57,339
+sort of splits into these two regions
+
+237
+00:11:57,339 --> 00:12:00,759
+<font color="#E5E5E5">each of a chance of plane and the first</font>
+
+238
+00:12:00,759 --> 00:12:05,790
+<font color="#E5E5E5">the left hands apart shows where</font><font color="#CCCCCC"> it's oh</font>
+
+239
+00:12:06,059 --> 00:12:08,559
+by the<font color="#E5E5E5"> way I'm</font><font color="#CCCCCC"> gonna try this hold you</font>
+
+240
+00:12:08,559 --> 00:12:11,430
+did today
+
+241
+00:12:11,639 --> 00:12:19,930
+this part here<font color="#CCCCCC"> I'll show is where it's</font>
+
+242
+00:12:19,930 --> 00:12:23,350
+<font color="#E5E5E5">the true sum of the numbers but over</font><font color="#CCCCCC"> on</font>
+
+243
+00:12:23,350 --> 00:12:36,309
+the right here<font color="#E5E5E5"> where it</font><font color="#CCCCCC"> would've kept</font>
+
+244
+00:12:36,309 --> 00:12:38,529
+<font color="#E5E5E5">going</font><font color="#CCCCCC"> up</font><font color="#E5E5E5"> instead what I've done is I've</font>
+
+245
+00:12:38,529 --> 00:12:40,449
+chopped off that low significant bit
+
+246
+00:12:40,449 --> 00:12:42,519
+this is<font color="#CCCCCC"> 4-bit addition the air so</font>
+
+247
+00:12:42,519 --> 00:12:46,720
+chopped off the value of 16 and now what
+
+248
+00:12:46,720 --> 00:12:52,720
+<font color="#CCCCCC">this left is is the the</font><font color="#E5E5E5"> original sum</font>
+
+249
+00:12:52,720 --> 00:12:55,689
+minus<font color="#E5E5E5"> 16 and so that will climb up in</font>
+
+250
+00:12:55,689 --> 00:13:02,230
+this case as high as 14<font color="#CCCCCC"> so as the</font>
+
+251
+00:13:02,230 --> 00:13:04,029
+picture on the left<font color="#CCCCCC"> shows you can think</font>
+
+252
+00:13:04,029 --> 00:13:08,339
+of<font color="#E5E5E5"> when you do the overflow then you're</font>
+
+253
+00:13:09,300 --> 00:13:13,389
+shifting the the sum back down into the
+
+254
+00:13:13,389 --> 00:13:18,240
+<font color="#CCCCCC">range of the original</font><font color="#E5E5E5"> set of numbers</font>
+
+255
+00:13:20,329 --> 00:13:23,459
+so for two's complement<font color="#E5E5E5"> addition</font><font color="#CCCCCC"> card</font>
+
+256
+00:13:23,459 --> 00:13:26,100
+the<font color="#E5E5E5"> reason why it's the</font><font color="#CCCCCC"> commonly used</font>
+
+257
+00:13:26,100 --> 00:13:28,680
+technique is the hardware<font color="#E5E5E5"> is the same</font>
+
+258
+00:13:28,680 --> 00:13:32,759
+the actual<font color="#CCCCCC"> low-level addition operation</font>
+
+259
+00:13:32,759 --> 00:13:35,850
+is exactly the same<font color="#E5E5E5"> for</font><font color="#CCCCCC"> we simply add</font>
+
+260
+00:13:35,850 --> 00:13:38,790
+the two numbers<font color="#CCCCCC"> and throw away any extra</font>
+
+261
+00:13:38,790 --> 00:13:41,279
+bits that might overflow<font color="#E5E5E5"> and call that</font>
+
+262
+00:13:41,279 --> 00:13:47,550
+result the sum and<font color="#E5E5E5"> so is he and</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> is</font>
+
+263
+00:13:47,550 --> 00:13:49,399
+an important<font color="#CCCCCC"> thing to understand is that</font>
+
+264
+00:13:49,399 --> 00:13:52,470
+<font color="#E5E5E5">whether you you say it's a sum</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> two</font>
+
+265
+00:13:52,470 --> 00:13:55,170
+minutes<font color="#CCCCCC"> or a son of two unsigned</font><font color="#E5E5E5"> the</font>
+
+266
+00:13:55,170 --> 00:13:58,970
+actual<font color="#E5E5E5"> bit level</font><font color="#CCCCCC"> of behavior is the same</font>
+
+267
+00:13:58,970 --> 00:14:03,569
+<font color="#E5E5E5">and again</font><font color="#CCCCCC"> you can see that</font><font color="#E5E5E5"> here with the</font>
+
+268
+00:14:03,569 --> 00:14:06,509
+same set<font color="#CCCCCC"> of bit patterns as before but</font>
+
+269
+00:14:06,509 --> 00:14:09,000
+<font color="#E5E5E5">now</font><font color="#CCCCCC"> since this is a two's complement</font>
+
+270
+00:14:09,000 --> 00:14:11,629
+number that if you<font color="#CCCCCC"> woke on</font><font color="#E5E5E5"> the right</font>
+
+271
+00:14:11,629 --> 00:14:14,519
+you'll see<font color="#E5E5E5"> that these bit patterns</font>
+
+272
+00:14:14,519 --> 00:14:16,920
+represent<font color="#E5E5E5"> the numbers</font><font color="#CCCCCC"> minus 23</font><font color="#E5E5E5"> and minus</font>
+
+273
+00:14:16,920 --> 00:14:22,189
+43<font color="#E5E5E5"> a respectively</font><font color="#CCCCCC"> if you were to</font><font color="#E5E5E5"> just</font>
+
+274
+00:14:22,189 --> 00:14:29,310
+add those numbers<font color="#E5E5E5"> you'd get as just bit</font>
+
+275
+00:14:29,310 --> 00:14:32,579
+<font color="#E5E5E5">you get 446 which doesn't seem to make</font>
+
+276
+00:14:32,579 --> 00:14:35,639
+<font color="#E5E5E5">much</font><font color="#CCCCCC"> sense but</font><font color="#E5E5E5"> if you chop off</font><font color="#CCCCCC"> that most</font>
+
+277
+00:14:35,639 --> 00:14:37,560
+significant bit you'll see<font color="#CCCCCC"> that what you</font>
+
+278
+00:14:37,560 --> 00:14:39,660
+<font color="#CCCCCC">have left</font><font color="#E5E5E5"> is the bit pattern for minus</font>
+
+279
+00:14:39,660 --> 00:14:42,860
+66 which is exactly what you'd<font color="#E5E5E5"> expect</font>
+
+280
+00:14:42,860 --> 00:14:45,540
+<font color="#E5E5E5">turns out if you really want to do two's</font>
+
+281
+00:14:45,540 --> 00:14:47,519
+complement<font color="#E5E5E5"> addition</font><font color="#CCCCCC"> and add the extra</font>
+
+282
+00:14:47,519 --> 00:14:49,800
+bits I should have sign<font color="#E5E5E5"> extended it to</font>
+
+283
+00:14:49,800 --> 00:14:53,009
+<font color="#CCCCCC">be</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> nine bit numbers and then done the</font>
+
+284
+00:14:53,009 --> 00:14:54,839
+addition<font color="#E5E5E5"> and then it would have come</font>
+
+285
+00:14:54,839 --> 00:14:57,360
+back up<font color="#CCCCCC"> here so it's</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> is a little</font>
+
+286
+00:14:57,360 --> 00:15:00,360
+bit of a peculiar example but you<font color="#CCCCCC"> see</font>
+
+287
+00:15:00,360 --> 00:15:04,470
+that<font color="#E5E5E5"> the result is this idea that now</font>
+
+288
+00:15:04,470 --> 00:15:05,880
+the<font color="#E5E5E5"> remaining eight bit number</font>
+
+289
+00:15:05,880 --> 00:15:10,740
+represents minus 66 so again you<font color="#E5E5E5"> can</font>
+
+290
+00:15:10,740 --> 00:15:18,959
+<font color="#CCCCCC">think of what happens is let me</font><font color="#E5E5E5"> jump to</font>
+
+291
+00:15:18,959 --> 00:15:21,809
+<font color="#E5E5E5">this picture</font><font color="#CCCCCC"> well no I'll go through</font>
+
+292
+00:15:21,809 --> 00:15:23,970
+this<font color="#E5E5E5"> picture so now</font><font color="#CCCCCC"> there's actually two</font>
+
+293
+00:15:23,970 --> 00:15:27,389
+overflow cases what can happen is if you
+
+294
+00:15:27,389 --> 00:15:30,120
+take<font color="#E5E5E5"> two</font><font color="#CCCCCC"> numbers and add</font>
+
+295
+00:15:30,120 --> 00:15:35,160
+and each<font color="#E5E5E5"> of them is</font><font color="#CCCCCC"> w bid</font><font color="#E5E5E5"> then if you</font>
+
+296
+00:15:35,160 --> 00:15:36,509
+look at the actual<font color="#E5E5E5"> that what I'll call</font>
+
+297
+00:15:36,509 --> 00:15:38,639
+the<font color="#E5E5E5"> true some the sort of mathematical</font>
+
+298
+00:15:38,639 --> 00:15:42,480
+<font color="#E5E5E5">sum of those two numbers you have three</font>
+
+299
+00:15:42,480 --> 00:15:47,069
+different cases<font color="#E5E5E5"> what is it</font><font color="#CCCCCC"> that that</font>
+
+300
+00:15:47,069 --> 00:15:49,680
+result is within the representable range
+
+301
+00:15:49,680 --> 00:15:52,889
+of the<font color="#E5E5E5"> W bitties come with number in</font>
+
+302
+00:15:52,889 --> 00:15:55,230
+which case that's<font color="#E5E5E5"> the result you'll get</font>
+
+303
+00:15:55,230 --> 00:15:58,290
+but if the number<font color="#E5E5E5"> is too big then it's</font>
+
+304
+00:15:58,290 --> 00:16:00,689
+called a positive overflow<font color="#E5E5E5"> and what</font>
+
+305
+00:16:00,689 --> 00:16:02,430
+we'll<font color="#CCCCCC"> see</font><font color="#E5E5E5"> is it will convert it</font><font color="#CCCCCC"> into a</font>
+
+306
+00:16:02,430 --> 00:16:05,550
+<font color="#CCCCCC">negative result</font><font color="#E5E5E5"> and then the other is if</font>
+
+307
+00:16:05,550 --> 00:16:07,680
+the<font color="#CCCCCC"> number is</font><font color="#E5E5E5"> too small being too</font>
+
+308
+00:16:07,680 --> 00:16:09,959
+negative<font color="#CCCCCC"> then</font><font color="#E5E5E5"> you have what's called a</font>
+
+309
+00:16:09,959 --> 00:16:12,269
+negative overflow<font color="#E5E5E5"> and the resulting</font>
+
+310
+00:16:12,269 --> 00:16:14,009
+number<font color="#CCCCCC"> will end up having a positive</font>
+
+311
+00:16:14,009 --> 00:16:17,879
+<font color="#CCCCCC">value</font><font color="#E5E5E5"> so we can</font><font color="#CCCCCC"> visualize it using the</font>
+
+312
+00:16:17,879 --> 00:16:21,149
+same ideas before<font color="#E5E5E5"> that this</font><font color="#CCCCCC"> Center</font>
+
+313
+00:16:21,149 --> 00:16:25,110
+region<font color="#E5E5E5"> are the sort of non overflow</font>
+
+314
+00:16:25,110 --> 00:16:27,990
+cases<font color="#E5E5E5"> they're the ones where the sum</font><font color="#CCCCCC"> of</font>
+
+315
+00:16:27,990 --> 00:16:30,059
+these two numbers<font color="#E5E5E5"> was within the range I</font>
+
+316
+00:16:30,059 --> 00:16:33,899
+could represent as a<font color="#CCCCCC"> 4-bit two's</font>
+
+317
+00:16:33,899 --> 00:16:38,480
+complement number and the numbers<font color="#CCCCCC"> that</font>
+
+318
+00:16:38,480 --> 00:16:41,459
+the sum would<font color="#E5E5E5"> have been</font><font color="#CCCCCC"> to negative</font><font color="#E5E5E5"> are</font>
+
+319
+00:16:41,459 --> 00:16:44,639
+on the<font color="#E5E5E5"> left they become</font><font color="#CCCCCC"> positive and the</font>
+
+320
+00:16:44,639 --> 00:16:47,160
+K numbers<font color="#CCCCCC"> that were too large</font><font color="#E5E5E5"> to</font>
+
+321
+00:16:47,160 --> 00:16:50,279
+positive on the right<font color="#E5E5E5"> become negative</font>
+
+322
+00:16:50,279 --> 00:16:53,660
+numbers<font color="#E5E5E5"> so that</font><font color="#CCCCCC"> shows</font><font color="#E5E5E5"> those two cases</font>
+
+323
+00:16:53,660 --> 00:16:58,350
+this<font color="#E5E5E5"> is all by the</font><font color="#CCCCCC"> way you know</font><font color="#E5E5E5"> if you</font>
+
+324
+00:16:58,350 --> 00:17:01,800
+look at<font color="#E5E5E5"> the formulas it all makes sense</font>
+
+325
+00:17:01,800 --> 00:17:03,809
+and once you<font color="#CCCCCC"> get used to</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> idea it</font>
+
+326
+00:17:03,809 --> 00:17:06,179
+becomes<font color="#E5E5E5"> very routine but if it's the</font>
+
+327
+00:17:06,179 --> 00:17:08,099
+first<font color="#E5E5E5"> time you've ever been confronted</font>
+
+328
+00:17:08,099 --> 00:17:09,329
+with<font color="#E5E5E5"> this it might be fairly</font>
+
+329
+00:17:09,329 --> 00:17:12,359
+non-intuitive<font color="#E5E5E5"> and the only way I can</font>
+
+330
+00:17:12,359 --> 00:17:16,020
+<font color="#CCCCCC">advise you is look at exact little</font>
+
+331
+00:17:16,020 --> 00:17:19,109
+examples of<font color="#E5E5E5"> 4 bit numbers try adding</font>
+
+332
+00:17:19,109 --> 00:17:22,439
+them together<font color="#E5E5E5"> see what you get compare</font>
+
+333
+00:17:22,439 --> 00:17:24,329
+that<font color="#CCCCCC"> to the various formulas check</font><font color="#E5E5E5"> them</font>
+
+334
+00:17:24,329 --> 00:17:26,520
+out<font color="#E5E5E5"> that you have to kind of let this</font>
+
+335
+00:17:26,520 --> 00:17:30,240
+stuff<font color="#CCCCCC"> bake inside of you to</font><font color="#E5E5E5"> really fully</font>
+
+336
+00:17:30,240 --> 00:17:34,980
+appreciate so if I look sort of a<font color="#E5E5E5"> bird's</font>
+
+337
+00:17:34,980 --> 00:17:38,000
+<font color="#E5E5E5">eye view from the top of that</font><font color="#CCCCCC"> this</font>
+
+338
+00:17:38,000 --> 00:17:41,460
+<font color="#CCCCCC">picture</font><font color="#E5E5E5"> here you can see that there's</font>
+
+339
+00:17:41,460 --> 00:17:43,690
+sort<font color="#E5E5E5"> of three regions</font>
+
+340
+00:17:43,690 --> 00:17:49,810
+if I for for<font color="#CCCCCC"> consideration</font><font color="#E5E5E5"> the the white</font>
+
+341
+00:17:49,810 --> 00:17:56,160
+region here is the case where<font color="#CCCCCC"> the</font>
+
+342
+00:17:58,380 --> 00:18:01,630
+<font color="#E5E5E5">there's no overflow so that the sum of</font>
+
+343
+00:18:01,630 --> 00:18:04,150
+the two<font color="#CCCCCC"> numbers is representable within</font>
+
+344
+00:18:04,150 --> 00:18:08,190
+the range of the result<font color="#E5E5E5"> and so that's</font>
+
+345
+00:18:08,190 --> 00:18:10,930
+and then the two pink ones are the
+
+346
+00:18:10,930 --> 00:18:13,170
+overflow cases and you can see that
+
+347
+00:18:13,170 --> 00:18:17,980
+first<font color="#E5E5E5"> of all if you're adding numbers of</font>
+
+348
+00:18:17,980 --> 00:18:20,260
+opposite signs<font color="#E5E5E5"> you see you can never get</font>
+
+349
+00:18:20,260 --> 00:18:22,210
+an overflow<font color="#E5E5E5"> because you'll</font><font color="#CCCCCC"> take a</font>
+
+350
+00:18:22,210 --> 00:18:23,980
+negative<font color="#E5E5E5"> number and a positive</font><font color="#CCCCCC"> number</font>
+
+351
+00:18:23,980 --> 00:18:25,540
+<font color="#CCCCCC">and you'll end up somewhere</font><font color="#E5E5E5"> in between</font>
+
+352
+00:18:25,540 --> 00:18:28,090
+<font color="#E5E5E5">so it's guaranteed to be representable</font>
+
+353
+00:18:28,090 --> 00:18:30,880
+<font color="#E5E5E5">so the danger</font><font color="#CCCCCC"> is by</font><font color="#E5E5E5"> adding two positive</font>
+
+354
+00:18:30,880 --> 00:18:34,540
+numbers<font color="#E5E5E5"> that becomes too big or two</font>
+
+355
+00:18:34,540 --> 00:18:36,430
+negative<font color="#CCCCCC"> numbers that become too small</font>
+
+356
+00:18:36,430 --> 00:18:38,830
+<font color="#CCCCCC">those are the two possible over</font><font color="#E5E5E5"> four</font>
+
+357
+00:18:38,830 --> 00:18:40,960
+cases and as it shows<font color="#CCCCCC"> these two</font>
+
+358
+00:18:40,960 --> 00:18:42,760
+<font color="#E5E5E5">represent these</font><font color="#CCCCCC"> Vil</font><font color="#E5E5E5"> of trying the older</font>
+
+359
+00:18:42,760 --> 00:18:46,420
+regions and<font color="#CCCCCC"> also as the formula</font><font color="#E5E5E5"> shows</font>
+
+360
+00:18:46,420 --> 00:18:51,120
+here<font color="#E5E5E5"> when you do have negative overflow</font>
+
+361
+00:18:51,120 --> 00:18:53,980
+then it becomes a<font color="#E5E5E5"> positive number it</font><font color="#CCCCCC"> has</font>
+
+362
+00:18:53,980 --> 00:18:56,080
+the<font color="#E5E5E5"> effect of adding the value two to</font>
+
+363
+00:18:56,080 --> 00:18:59,620
+the W to the sum and similarly<font color="#E5E5E5"> if it's a</font>
+
+364
+00:18:59,620 --> 00:19:01,600
+positive overflow it becomes a<font color="#CCCCCC"> negative</font>
+
+365
+00:19:01,600 --> 00:19:03,750
+number<font color="#E5E5E5"> that</font><font color="#CCCCCC"> you can think</font><font color="#E5E5E5"> of as</font>
+
+366
+00:19:03,750 --> 00:19:05,680
+subtracting to you the don't<font color="#E5E5E5"> you from</font>
+
+367
+00:19:05,680 --> 00:19:13,000
+<font color="#E5E5E5">that boy so I think the only example</font>
+
+368
+00:19:13,000 --> 00:19:21,340
+here was one<font color="#CCCCCC"> that</font><font color="#E5E5E5"> didn't overflow that's</font>
+
+369
+00:19:21,340 --> 00:19:23,110
+a if you want<font color="#E5E5E5"> to do it the bit level</font>
+
+370
+00:19:23,110 --> 00:19:24,880
+you'd have to take some<font color="#E5E5E5"> other examples</font>
+
+371
+00:19:24,880 --> 00:19:30,310
+<font color="#E5E5E5">okay so that's addition and I should</font>
+
+372
+00:19:30,310 --> 00:19:32,800
+mention<font color="#E5E5E5"> by</font><font color="#CCCCCC"> the way again if we just</font><font color="#E5E5E5"> go</font>
+
+373
+00:19:32,800 --> 00:19:36,030
+strictly by the C programming standards
+
+374
+00:19:36,030 --> 00:19:38,950
+<font color="#E5E5E5">they don't they guarantee that unsigned</font>
+
+375
+00:19:38,950 --> 00:19:41,530
+arithmetic is always modular<font color="#E5E5E5"> but they</font>
+
+376
+00:19:41,530 --> 00:19:43,570
+don't guarantee what happens if you
+
+377
+00:19:43,570 --> 00:19:47,730
+overflow<font color="#CCCCCC"> they're positive or negative</font>
+
+378
+00:19:47,730 --> 00:19:51,130
+with signed addition so if you're really
+
+379
+00:19:51,130 --> 00:19:53,440
+really strict<font color="#E5E5E5"> and careful about how</font><font color="#CCCCCC"> you</font>
+
+380
+00:19:53,440 --> 00:19:56,410
+do C programming<font color="#E5E5E5"> you should guard</font>
+
+381
+00:19:56,410 --> 00:19:57,210
+against
+
+382
+00:19:57,210 --> 00:20:02,309
+<font color="#E5E5E5">like that again in practice it's</font><font color="#CCCCCC"> these</font>
+
+383
+00:20:02,309 --> 00:20:04,230
+two's complement representation so
+
+384
+00:20:04,230 --> 00:20:06,840
+there's a very predictable behavior of
+
+385
+00:20:06,840 --> 00:20:09,690
+overflow or underflow<font color="#E5E5E5"> overflow either</font>
+
+386
+00:20:09,690 --> 00:20:13,440
+positive or negative but it might<font color="#CCCCCC"> not</font><font color="#E5E5E5"> be</font>
+
+387
+00:20:13,440 --> 00:20:15,570
+what you<font color="#CCCCCC"> want</font><font color="#E5E5E5"> so but you can at least</font>
+
+388
+00:20:15,570 --> 00:20:18,929
+predict what it is<font color="#E5E5E5"> so multiplication is</font>
+
+389
+00:20:18,929 --> 00:20:24,570
+a little bit Messier again<font color="#CCCCCC"> and</font><font color="#E5E5E5"> this big</font>
+
+390
+00:20:24,570 --> 00:20:27,240
+pile of<font color="#E5E5E5"> stuff what it basically shows it</font>
+
+391
+00:20:27,240 --> 00:20:29,399
+if I have two numbers<font color="#CCCCCC"> that</font><font color="#E5E5E5"> are each W</font>
+
+392
+00:20:29,399 --> 00:20:33,570
+bits and I<font color="#E5E5E5"> multiply them then I should</font>
+
+393
+00:20:33,570 --> 00:20:36,330
+need twice as many bits<font color="#E5E5E5"> if I want to</font>
+
+394
+00:20:36,330 --> 00:20:38,580
+safely represent the product<font color="#CCCCCC"> and that</font>
+
+395
+00:20:38,580 --> 00:20:41,429
+result holds for<font color="#CCCCCC"> both the unsigned case</font>
+
+396
+00:20:41,429 --> 00:20:44,399
+and for the<font color="#CCCCCC"> toothed countersign</font><font color="#E5E5E5"> case and</font>
+
+397
+00:20:44,399 --> 00:20:47,909
+basically<font color="#CCCCCC"> you can take</font><font color="#E5E5E5"> the largest</font>
+
+398
+00:20:47,909 --> 00:20:49,950
+number you represent you square<font color="#CCCCCC"> that and</font>
+
+399
+00:20:49,950 --> 00:20:53,159
+that will<font color="#E5E5E5"> require 2 2 times W bits to</font>
+
+400
+00:20:53,159 --> 00:20:59,640
+represent<font color="#CCCCCC"> um but again we don't have</font>
+
+401
+00:20:59,640 --> 00:21:01,980
+arbitrary we can't just keep adding bits
+
+402
+00:21:01,980 --> 00:21:05,279
+<font color="#E5E5E5">to our numbers in</font><font color="#CCCCCC"> general to do</font><font color="#E5E5E5"> this and</font>
+
+403
+00:21:05,279 --> 00:21:07,590
+so what happens<font color="#E5E5E5"> is we just truncate the</font>
+
+404
+00:21:07,590 --> 00:21:08,130
+result
+
+405
+00:21:08,130 --> 00:21:11,549
+so for example with unsigned<font color="#CCCCCC"> if you had</font>
+
+406
+00:21:11,549 --> 00:21:13,830
+two operands<font color="#E5E5E5"> U and V and</font><font color="#CCCCCC"> you multiply</font>
+
+407
+00:21:13,830 --> 00:21:15,929
+<font color="#E5E5E5">them</font><font color="#CCCCCC"> you might need twice</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> number of</font>
+
+408
+00:21:15,929 --> 00:21:17,940
+<font color="#E5E5E5">bits to</font><font color="#CCCCCC"> represent the true product that</font>
+
+409
+00:21:17,940 --> 00:21:20,549
+sort<font color="#E5E5E5"> of mathematical product of those</font>
+
+410
+00:21:20,549 --> 00:21:22,679
+two numbers<font color="#CCCCCC"> but we'll just</font><font color="#E5E5E5"> drop off</font>
+
+411
+00:21:22,679 --> 00:21:26,070
+those upper bits and just<font color="#E5E5E5"> leave the</font>
+
+412
+00:21:26,070 --> 00:21:28,490
+<font color="#E5E5E5">results</font><font color="#CCCCCC"> within this W good range</font><font color="#E5E5E5"> and</font>
+
+413
+00:21:28,490 --> 00:21:31,020
+<font color="#CCCCCC">again</font><font color="#E5E5E5"> it you can see that</font><font color="#CCCCCC"> this is</font>
+
+414
+00:21:31,020 --> 00:21:33,240
+exactly<font color="#CCCCCC"> an implementation</font><font color="#E5E5E5"> of modular</font>
+
+415
+00:21:33,240 --> 00:21:37,799
+arithmetic and modular arithmetic is
+
+416
+00:21:37,799 --> 00:21:41,850
+something that's maybe not<font color="#E5E5E5"> the standard</font>
+
+417
+00:21:41,850 --> 00:21:43,649
+multiplication but it's one that<font color="#E5E5E5"> people</font>
+
+418
+00:21:43,649 --> 00:21:47,850
+<font color="#E5E5E5">know and understand very well so again</font>
+
+419
+00:21:47,850 --> 00:21:52,440
+<font color="#CCCCCC">if I took my two numbers</font><font color="#E5E5E5"> 226 and 213 and</font>
+
+420
+00:21:52,440 --> 00:21:55,500
+multiply them I'd get<font color="#CCCCCC"> forty-seven</font>
+
+421
+00:21:55,500 --> 00:21:58,500
+thousand four hundred<font color="#CCCCCC"> ninety-nine which</font>
+
+422
+00:21:58,500 --> 00:22:00,000
+<font color="#CCCCCC">is too big to represent</font><font color="#E5E5E5"> it than</font><font color="#CCCCCC"> eight</font>
+
+423
+00:22:00,000 --> 00:22:02,760
+bits<font color="#E5E5E5"> so I just</font><font color="#CCCCCC"> chop off those upper</font><font color="#E5E5E5"> bits</font>
+
+424
+00:22:02,760 --> 00:22:11,020
+and I get<font color="#CCCCCC"> 221</font><font color="#E5E5E5"> which is the mod 256</font>
+
+425
+00:22:11,020 --> 00:22:18,730
+product of these two numbers sign
+
+426
+00:22:18,730 --> 00:22:21,760
+multiplication is a little bit trickier
+
+427
+00:22:21,760 --> 00:22:26,800
+actually it turns out<font color="#E5E5E5"> it turns out that</font>
+
+428
+00:22:26,800 --> 00:22:30,160
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> actually when you do two's complement</font>
+
+429
+00:22:30,160 --> 00:22:32,980
+multiplication again you should use your
+
+430
+00:22:32,980 --> 00:22:35,290
+<font color="#E5E5E5">product will be twice</font><font color="#CCCCCC"> at</font><font color="#E5E5E5"> number of bits</font>
+
+431
+00:22:35,290 --> 00:22:38,410
+and if you look at the bits<font color="#CCCCCC"> they'll</font>
+
+432
+00:22:38,410 --> 00:22:41,920
+actually be<font color="#CCCCCC"> different then they work</font><font color="#E5E5E5"> for</font>
+
+433
+00:22:41,920 --> 00:22:44,740
+the unsigned case<font color="#E5E5E5"> so look at the example</font>
+
+434
+00:22:44,740 --> 00:22:48,490
+here you will see<font color="#CCCCCC"> that</font><font color="#E5E5E5"> to multiply these</font>
+
+435
+00:22:48,490 --> 00:22:52,630
+two numbers<font color="#CCCCCC"> to negative numbers you get</font>
+
+436
+00:22:52,630 --> 00:22:55,870
+<font color="#CCCCCC">the positive result 1989 and</font><font color="#E5E5E5"> it's bit</font>
+
+437
+00:22:55,870 --> 00:23:01,650
+<font color="#E5E5E5">level representation looks like so</font><font color="#CCCCCC"> zeros</font>
+
+438
+00:23:01,950 --> 00:23:05,440
+and if I go<font color="#CCCCCC"> back and</font><font color="#E5E5E5"> look at the same</font>
+
+439
+00:23:05,440 --> 00:23:07,570
+bit pattern being multiplied as an
+
+440
+00:23:07,570 --> 00:23:09,309
+unsigned number you'll see a different
+
+441
+00:23:09,309 --> 00:23:12,100
+<font color="#CCCCCC">bit pattern to</font><font color="#E5E5E5"> these puckering bits on</font>
+
+442
+00:23:12,100 --> 00:23:14,110
+the<font color="#E5E5E5"> other hand if you look at the lower</font>
+
+443
+00:23:14,110 --> 00:23:21,460
+<font color="#CCCCCC">8 bits 1 0 1 1 0</font><font color="#E5E5E5"> 1 and 1 1 0 1 you'll</font>
+
+444
+00:23:21,460 --> 00:23:26,470
+see that's<font color="#E5E5E5"> the same for both</font><font color="#CCCCCC"> the signed</font>
+
+445
+00:23:26,470 --> 00:23:32,110
+in the unsigned case<font color="#E5E5E5"> 1 1 0 1 1 1 0</font><font color="#CCCCCC"> 1 and</font>
+
+446
+00:23:32,110 --> 00:23:35,650
+<font color="#E5E5E5">so and this actually an important rule</font>
+
+447
+00:23:35,650 --> 00:23:40,990
+is that the lower part<font color="#CCCCCC"> of the product</font>
+
+448
+00:23:40,990 --> 00:23:42,880
+<font color="#E5E5E5">which is typically the</font><font color="#CCCCCC"> only part that</font>
+
+449
+00:23:42,880 --> 00:23:47,080
+<font color="#E5E5E5">you keep is the same whether it's a sign</font>
+
+450
+00:23:47,080 --> 00:23:49,300
+the trees<font color="#CCCCCC"> compliment multiplication or</font>
+
+451
+00:23:49,300 --> 00:23:51,850
+an unsigned multiplication<font color="#E5E5E5"> the upper</font>
+
+452
+00:23:51,850 --> 00:23:56,050
+bits can differ<font color="#E5E5E5"> but it's relatively</font>
+
+453
+00:23:56,050 --> 00:23:59,910
+<font color="#E5E5E5">seldom that you actually want the full</font>
+
+454
+00:23:59,910 --> 00:24:03,670
+certain twice the size a product of two
+
+455
+00:24:03,670 --> 00:24:07,000
+<font color="#E5E5E5">numbers so for example an x86 there's</font>
+
+456
+00:24:07,000 --> 00:24:09,340
+some<font color="#E5E5E5"> special instructions you have to do</font>
+
+457
+00:24:09,340 --> 00:24:11,380
+to<font color="#E5E5E5"> get that product</font><font color="#CCCCCC"> the normal multiply</font>
+
+458
+00:24:11,380 --> 00:24:15,130
+instruction only<font color="#CCCCCC"> gives you the lower 32</font>
+
+459
+00:24:15,130 --> 00:24:17,860
+or 64 bits<font color="#E5E5E5"> then it takes a special</font>
+
+460
+00:24:17,860 --> 00:24:21,880
+<font color="#E5E5E5">instruction</font><font color="#CCCCCC"> to get a full 64-bit product</font>
+
+461
+00:24:21,880 --> 00:24:24,340
+of two 32-bit<font color="#E5E5E5"> numbers or 120</font>
+
+462
+00:24:24,340 --> 00:24:31,990
+<font color="#E5E5E5">product of</font><font color="#CCCCCC"> two 64-bit numbers and so</font><font color="#E5E5E5"> so</font>
+
+463
+00:24:31,990 --> 00:24:33,820
+most<font color="#E5E5E5"> of the time then the</font><font color="#CCCCCC"> fact that</font><font color="#E5E5E5"> the</font>
+
+464
+00:24:33,820 --> 00:24:36,760
+lower parts of<font color="#CCCCCC"> the bits are the same</font><font color="#E5E5E5"> is</font>
+
+465
+00:24:36,760 --> 00:24:38,950
+good enough<font color="#E5E5E5"> to say okay I'm going to</font><font color="#CCCCCC"> use</font>
+
+466
+00:24:38,950 --> 00:24:40,810
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> same multiply instructions for both</font>
+
+467
+00:24:40,810 --> 00:24:45,760
+cases<font color="#E5E5E5"> and and we'll see with x86</font>
+
+468
+00:24:45,760 --> 00:24:47,170
+actually have two<font color="#CCCCCC"> different instructions</font>
+
+469
+00:24:47,170 --> 00:24:49,660
+<font color="#E5E5E5">for doing the larger version of</font>
+
+470
+00:24:49,660 --> 00:24:51,190
+multiplication<font color="#E5E5E5"> when you need the full</font>
+
+471
+00:24:51,190 --> 00:24:58,990
+representation<font color="#E5E5E5"> so one</font><font color="#CCCCCC"> of the things</font>
+
+472
+00:24:58,990 --> 00:25:00,820
+you'll see<font color="#E5E5E5"> one of the things</font><font color="#CCCCCC"> we do in</font>
+
+473
+00:25:00,820 --> 00:25:04,540
+this course<font color="#CCCCCC"> that's kind of unusual</font><font color="#E5E5E5"> is</font>
+
+474
+00:25:04,540 --> 00:25:08,140
+that<font color="#CCCCCC"> we look at when</font><font color="#E5E5E5"> you will write C</font>
+
+475
+00:25:08,140 --> 00:25:11,080
+<font color="#CCCCCC">code and then look at where the compiler</font>
+
+476
+00:25:11,080 --> 00:25:13,740
+spits out when it compiles that code<font color="#E5E5E5"> and</font>
+
+477
+00:25:13,740 --> 00:25:16,870
+<font color="#CCCCCC">one</font><font color="#E5E5E5"> of the realities</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> you have to</font>
+
+478
+00:25:16,870 --> 00:25:18,490
+deal<font color="#CCCCCC"> with and doing</font><font color="#E5E5E5"> that is looking at</font>
+
+479
+00:25:18,490 --> 00:25:20,890
+code that the<font color="#E5E5E5"> compiler has done some</font>
+
+480
+00:25:20,890 --> 00:25:24,850
+optimizations that<font color="#E5E5E5"> you have to learn</font>
+
+481
+00:25:24,850 --> 00:25:26,650
+what<font color="#E5E5E5"> those optimizations really means</font>
+
+482
+00:25:26,650 --> 00:25:29,470
+<font color="#E5E5E5">and so an example of that</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> any time in</font>
+
+483
+00:25:29,470 --> 00:25:32,380
+C you have<font color="#E5E5E5"> an expression</font><font color="#CCCCCC"> that involves</font>
+
+484
+00:25:32,380 --> 00:25:35,590
+multiplying by a constant<font color="#CCCCCC"> and especially</font>
+
+485
+00:25:35,590 --> 00:25:38,800
+<font color="#E5E5E5">if that constant is a power of two then</font>
+
+486
+00:25:38,800 --> 00:25:40,540
+it won't actually<font color="#E5E5E5"> the compiler would</font>
+
+487
+00:25:40,540 --> 00:25:42,550
+actually stick a multiply instruction<font color="#E5E5E5"> in</font>
+
+488
+00:25:42,550 --> 00:25:45,910
+there stick in a shift and the reason is
+
+489
+00:25:45,910 --> 00:25:47,680
+that if you want to multiply<font color="#E5E5E5"> by</font><font color="#CCCCCC"> a power</font>
+
+490
+00:25:47,680 --> 00:25:50,320
+<font color="#E5E5E5">of two you can do that by just</font><font color="#CCCCCC"> shifting</font>
+
+491
+00:25:50,320 --> 00:25:52,270
+the<font color="#E5E5E5"> number left the appropriate number</font>
+
+492
+00:25:52,270 --> 00:25:54,460
+of<font color="#E5E5E5"> bit positions so if I want to</font>
+
+493
+00:25:54,460 --> 00:25:59,680
+<font color="#E5E5E5">multiply a number by 2 to</font><font color="#CCCCCC"> the K but then</font>
+
+494
+00:25:59,680 --> 00:26:01,180
+all I have<font color="#E5E5E5"> to do is shift that number</font>
+
+495
+00:26:01,180 --> 00:26:03,910
+left<font color="#E5E5E5"> by cave or positions and you</font>
+
+496
+00:26:03,910 --> 00:26:06,430
+remember the shift<font color="#E5E5E5"> always has the effect</font>
+
+497
+00:26:06,430 --> 00:26:08,980
+of filling in on the right with<font color="#E5E5E5"> the</font>
+
+498
+00:26:08,980 --> 00:26:12,520
+<font color="#E5E5E5">zeros and dropping off any bits that</font>
+
+499
+00:26:12,520 --> 00:26:15,280
+<font color="#CCCCCC">fall off the end so both of those cases</font>
+
+500
+00:26:15,280 --> 00:26:17,890
+even<font color="#E5E5E5"> when it instead of overflows as a</font>
+
+501
+00:26:17,890 --> 00:26:20,920
+result it's still preserving<font color="#CCCCCC"> the that</font>
+
+502
+00:26:20,920 --> 00:26:23,920
+same arithmetic behavior is a multiply
+
+503
+00:26:23,920 --> 00:26:29,980
+instruction<font color="#E5E5E5"> and you can think of it</font>
+
+504
+00:26:29,980 --> 00:26:32,260
+again<font color="#E5E5E5"> if you think</font><font color="#CCCCCC"> about how these</font>
+
+505
+00:26:32,260 --> 00:26:36,510
+<font color="#CCCCCC">numbers remember</font><font color="#E5E5E5"> if it's a</font>
+
+506
+00:26:38,059 --> 00:26:42,360
+we'll just think<font color="#E5E5E5"> of unsigned for now all</font>
+
+507
+00:26:42,360 --> 00:26:44,760
+when we shift that number up what we're
+
+508
+00:26:44,760 --> 00:26:47,490
+doing is each bit now has a weight
+
+509
+00:26:47,490 --> 00:26:50,850
+that's<font color="#E5E5E5"> 2 to the K greater than would</font>
+
+510
+00:26:50,850 --> 00:26:54,870
+<font color="#CCCCCC">have if it hadn't stayed in its original</font>
+
+511
+00:26:54,870 --> 00:26:57,540
+position<font color="#E5E5E5"> and so we're giving all these</font>
+
+512
+00:26:57,540 --> 00:27:00,090
+<font color="#E5E5E5">bits sort of an extra boost</font><font color="#CCCCCC"> and that has</font>
+
+513
+00:27:00,090 --> 00:27:02,160
+the<font color="#CCCCCC"> effect</font><font color="#E5E5E5"> of multiplying the</font><font color="#CCCCCC"> whole</font>
+
+514
+00:27:02,160 --> 00:27:08,250
+<font color="#E5E5E5">number by</font><font color="#CCCCCC"> 2 to the</font><font color="#E5E5E5"> cap and again the</font>
+
+515
+00:27:08,250 --> 00:27:10,050
+rule says<font color="#E5E5E5"> whether it's signed</font><font color="#CCCCCC"> you're</font>
+
+516
+00:27:10,050 --> 00:27:12,600
+unsigned we can just drop those any bits
+
+517
+00:27:12,600 --> 00:27:15,330
+<font color="#E5E5E5">that get</font><font color="#CCCCCC"> shifted out and we'll</font><font color="#E5E5E5"> get the</font>
+
+518
+00:27:15,330 --> 00:27:17,700
+<font color="#E5E5E5">same effect as if we done the sort of</font>
+
+519
+00:27:17,700 --> 00:27:19,590
+regular bit level<font color="#E5E5E5"> multiplication</font>
+
+520
+00:27:19,590 --> 00:27:22,950
+operation so for<font color="#E5E5E5"> example if we shift a</font>
+
+521
+00:27:22,950 --> 00:27:25,230
+number left by<font color="#E5E5E5"> 3 it's the same as</font>
+
+522
+00:27:25,230 --> 00:27:27,990
+<font color="#E5E5E5">multiplying it by 8</font><font color="#CCCCCC"> and you can put</font>
+
+523
+00:27:27,990 --> 00:27:29,730
+together various combinations of these
+
+524
+00:27:29,730 --> 00:27:31,890
+like if you shift a number left by<font color="#E5E5E5"> 5</font>
+
+525
+00:27:31,890 --> 00:27:34,850
+that's the same as multiplying<font color="#CCCCCC"> by 32 and</font>
+
+526
+00:27:34,850 --> 00:27:38,130
+then you subtract off shifting<font color="#E5E5E5"> that same</font>
+
+527
+00:27:38,130 --> 00:27:40,650
+number<font color="#E5E5E5"> left by 3 so that's like</font>
+
+528
+00:27:40,650 --> 00:27:43,559
+<font color="#CCCCCC">multiplying by 8 so it's</font><font color="#E5E5E5"> 32 minus 8 is</font>
+
+529
+00:27:43,559 --> 00:27:47,660
+24<font color="#E5E5E5"> that's the same effect as as</font>
+
+530
+00:27:47,660 --> 00:27:50,190
+multiplying the<font color="#CCCCCC"> original number by 24</font>
+
+531
+00:27:50,190 --> 00:27:52,050
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> you can see it can mix and</font><font color="#CCCCCC"> match</font>
+
+532
+00:27:52,050 --> 00:27:53,670
+these because addition<font color="#CCCCCC"> or multiplication</font>
+
+533
+00:27:53,670 --> 00:27:57,870
+distributes over addition<font color="#CCCCCC"> it has even in</font>
+
+534
+00:27:57,870 --> 00:28:00,809
+this sort of strange world of two's
+
+535
+00:28:00,809 --> 00:28:02,970
+complement numbers<font color="#E5E5E5"> and unsigned numbers</font>
+
+536
+00:28:02,970 --> 00:28:05,820
+in modular arithmetic<font color="#CCCCCC"> it has that same</font>
+
+537
+00:28:05,820 --> 00:28:09,630
+set of arithmetic properties and so even
+
+538
+00:28:09,630 --> 00:28:11,160
+if there's overflows or
+
+539
+00:28:11,160 --> 00:28:15,270
+funny things that<font color="#E5E5E5"> happen this this</font>
+
+540
+00:28:15,270 --> 00:28:17,610
+equality<font color="#E5E5E5"> is still the exact</font><font color="#CCCCCC"> same and</font>
+
+541
+00:28:17,610 --> 00:28:20,390
+that's why the compiler can safely
+
+542
+00:28:20,390 --> 00:28:25,080
+replace a multiplied<font color="#CCCCCC"> by two shifts</font><font color="#E5E5E5"> in an</font>
+
+543
+00:28:25,080 --> 00:28:28,290
+ad and get be sure that no<font color="#E5E5E5"> matter what</font>
+
+544
+00:28:28,290 --> 00:28:30,150
+the number is<font color="#E5E5E5"> it will have the same</font>
+
+545
+00:28:30,150 --> 00:28:33,000
+result<font color="#CCCCCC"> and it</font><font color="#E5E5E5"> depends actually</font><font color="#CCCCCC"> it</font>
+
+546
+00:28:33,000 --> 00:28:35,520
+depends on the hardware<font color="#CCCCCC"> whether that's a</font>
+
+547
+00:28:35,520 --> 00:28:37,890
+<font color="#CCCCCC">good idea</font><font color="#E5E5E5"> or not is</font><font color="#CCCCCC"> to three addition</font>
+
+548
+00:28:37,890 --> 00:28:40,910
+the<font color="#E5E5E5"> three</font><font color="#CCCCCC"> are</font><font color="#E5E5E5"> two shifts in a</font>
+
+549
+00:28:40,910 --> 00:28:45,030
+subtraction faster or slower<font color="#E5E5E5"> than a</font>
+
+550
+00:28:45,030 --> 00:28:46,890
+multiplication<font color="#E5E5E5"> that actually depends on</font>
+
+551
+00:28:46,890 --> 00:28:49,140
+how fast you multiply<font color="#CCCCCC"> it</font>
+
+552
+00:28:49,140 --> 00:28:51,390
+and how fast<font color="#CCCCCC"> it</font><font color="#E5E5E5"> can perform the other</font>
+
+553
+00:28:51,390 --> 00:28:55,370
+<font color="#E5E5E5">instructions and then uh I think the</font>
+
+554
+00:28:55,370 --> 00:28:57,750
+processors you'll find today it's about
+
+555
+00:28:57,750 --> 00:29:02,310
+<font color="#CCCCCC">uh about</font><font color="#E5E5E5"> what dead heat is on those two</font>
+
+556
+00:29:02,310 --> 00:29:05,370
+they're pretty close<font color="#CCCCCC"> to each other</font><font color="#E5E5E5"> but</font>
+
+557
+00:29:05,370 --> 00:29:06,990
+<font color="#E5E5E5">and the compiler doesn't actually know</font>
+
+558
+00:29:06,990 --> 00:29:08,880
+much about you real<font color="#E5E5E5"> hardware it's just</font>
+
+559
+00:29:08,880 --> 00:29:11,490
+<font color="#CCCCCC">moving a guess</font><font color="#E5E5E5"> but it will typically do</font>
+
+560
+00:29:11,490 --> 00:29:17,390
+these kind of substitutions questions
+
+561
+00:29:19,700 --> 00:29:23,360
+yes<font color="#E5E5E5"> if it's well if it's unsigned</font>
+
+562
+00:29:23,360 --> 00:29:25,710
+unsigned arithmetic is guaranteed to be
+
+563
+00:29:25,710 --> 00:29:27,420
+<font color="#E5E5E5">like modular arithmetic</font><font color="#CCCCCC"> both</font>
+
+564
+00:29:27,420 --> 00:29:30,810
+multiplication the other districts<font color="#E5E5E5"> sign</font>
+
+565
+00:29:30,810 --> 00:29:34,830
+numbers<font color="#CCCCCC"> right just like addition there's</font>
+
+566
+00:29:34,830 --> 00:29:38,510
+no the standard does not specify
+
+567
+00:29:38,510 --> 00:29:48,480
+<font color="#E5E5E5">ass-kisser</font><font color="#CCCCCC"> i have to kind of keep</font>
+
+568
+00:29:48,480 --> 00:29:50,130
+<font color="#E5E5E5">reminding myself</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> this because i've</font>
+
+569
+00:29:50,130 --> 00:29:53,520
+gotten a bit sloppy at time so say it's
+
+570
+00:29:53,520 --> 00:29:55,560
+just<font color="#E5E5E5"> to</font><font color="#CCCCCC"> accomplish</font><font color="#E5E5E5"> I know how that</font><font color="#CCCCCC"> looks</font>
+
+571
+00:29:55,560 --> 00:29:59,940
+<font color="#CCCCCC">Oh</font><font color="#E5E5E5"> so here's another trick that's kind</font>
+
+572
+00:29:59,940 --> 00:30:04,470
+of an interesting<font color="#E5E5E5"> one and if you like</font>
+
+573
+00:30:04,470 --> 00:30:07,650
+<font color="#E5E5E5">this kind of stuff</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> that actually</font><font color="#CCCCCC"> is</font>
+
+574
+00:30:07,650 --> 00:30:09,990
+very useful<font color="#E5E5E5"> to is if you want to divide</font>
+
+575
+00:30:09,990 --> 00:30:12,810
+by a power<font color="#CCCCCC"> of two</font><font color="#E5E5E5"> you can do that by</font>
+
+576
+00:30:12,810 --> 00:30:15,720
+shifting<font color="#CCCCCC"> as well and for the unsigned</font>
+
+577
+00:30:15,720 --> 00:30:17,400
+case it's<font color="#E5E5E5"> very</font><font color="#CCCCCC"> straightforward if you</font>
+
+578
+00:30:17,400 --> 00:30:19,680
+want to divide by<font color="#CCCCCC"> tooth decay</font><font color="#E5E5E5"> you just</font>
+
+579
+00:30:19,680 --> 00:30:21,750
+shift the number right by K bits<font color="#E5E5E5"> and</font>
+
+580
+00:30:21,750 --> 00:30:24,060
+this can be pretty useful if you want<font color="#CCCCCC"> a</font>
+
+581
+00:30:24,060 --> 00:30:27,180
+scale<font color="#CCCCCC"> like you want to ask how many</font>
+
+582
+00:30:27,180 --> 00:30:27,630
+<font color="#E5E5E5">bytes</font>
+
+583
+00:30:27,630 --> 00:30:31,410
+how many given some<font color="#CCCCCC"> of them are bytes</font>
+
+584
+00:30:31,410 --> 00:30:35,730
+<font color="#CCCCCC">how many double precision numbers</font><font color="#E5E5E5"> can I</font>
+
+585
+00:30:35,730 --> 00:30:37,740
+stick in there you want<font color="#E5E5E5"> to divide it by</font>
+
+586
+00:30:37,740 --> 00:30:41,160
+<font color="#E5E5E5">eight well you just take that original</font>
+
+587
+00:30:41,160 --> 00:30:42,750
+<font color="#E5E5E5">number and shift it right by three</font>
+
+588
+00:30:42,750 --> 00:30:44,660
+positions so<font color="#CCCCCC"> that gives you</font><font color="#E5E5E5"> the answer</font>
+
+589
+00:30:44,660 --> 00:30:47,670
+<font color="#E5E5E5">so in</font>
+
+590
+00:30:47,670 --> 00:30:50,840
+unsigned<font color="#CCCCCC"> we can do this using the</font>
+
+591
+00:30:50,840 --> 00:30:53,730
+logical shift<font color="#E5E5E5"> which he recall fills in</font>
+
+592
+00:30:53,730 --> 00:30:57,750
+with<font color="#CCCCCC"> zeros and</font>
+
+593
+00:30:57,750 --> 00:31:01,390
+again the<font color="#CCCCCC"> sudo logic behind this is as I</font>
+
+594
+00:31:01,390 --> 00:31:06,550
+<font color="#CCCCCC">mentioned I think last lecture we can</font>
+
+595
+00:31:06,550 --> 00:31:10,410
+think<font color="#E5E5E5"> of</font><font color="#CCCCCC"> them of a bit level</font>
+
+596
+00:31:10,410 --> 00:31:13,090
+<font color="#CCCCCC">representation</font><font color="#E5E5E5"> even including fractional</font>
+
+597
+00:31:13,090 --> 00:31:15,790
+numbers<font color="#E5E5E5"> but no longer do we</font><font color="#CCCCCC"> have a</font>
+
+598
+00:31:15,790 --> 00:31:18,280
+<font color="#CCCCCC">decimal point what we have is a</font><font color="#E5E5E5"> binary</font>
+
+599
+00:31:18,280 --> 00:31:20,590
+point<font color="#E5E5E5"> and the numbers to</font><font color="#CCCCCC"> the right in</font>
+
+600
+00:31:20,590 --> 00:31:22,510
+the<font color="#CCCCCC"> binary point have fractional values</font>
+
+601
+00:31:22,510 --> 00:31:28,540
+<font color="#E5E5E5">1/2 1/4 1/8 1/16 so if we shift a number</font>
+
+602
+00:31:28,540 --> 00:31:31,900
+by<font color="#E5E5E5"> K it's like moving the</font><font color="#CCCCCC"> the first</font>
+
+603
+00:31:31,900 --> 00:31:35,170
+though we significant K bits<font color="#E5E5E5"> to the</font>
+
+604
+00:31:35,170 --> 00:31:37,660
+right of the binary<font color="#E5E5E5"> point which now all</font>
+
+605
+00:31:37,660 --> 00:31:39,790
+has fractional value and<font color="#E5E5E5"> sums to</font>
+
+606
+00:31:39,790 --> 00:31:43,450
+something less<font color="#CCCCCC"> than</font><font color="#E5E5E5"> 1 so if I just now</font>
+
+607
+00:31:43,450 --> 00:31:45,130
+throw those bits<font color="#CCCCCC"> away</font>
+
+608
+00:31:45,130 --> 00:31:47,260
+what I'm doing is rounding that number
+
+609
+00:31:47,260 --> 00:31:49,660
+down<font color="#E5E5E5"> to the nearest integer which is</font>
+
+610
+00:31:49,660 --> 00:31:52,270
+exactly what you want for for division
+
+611
+00:31:52,270 --> 00:31:56,830
+so just to illustrate that<font color="#E5E5E5"> with some</font>
+
+612
+00:31:56,830 --> 00:31:59,650
+examples you see that if I take<font color="#CCCCCC"> the</font>
+
+613
+00:31:59,650 --> 00:32:02,530
+number 15<font color="#E5E5E5"> to 13 if I were to divide that</font>
+
+614
+00:32:02,530 --> 00:32:08,440
+<font color="#CCCCCC">by 2 I get a fractional number of 76 so</font>
+
+615
+00:32:08,440 --> 00:32:12,160
+six point five<font color="#E5E5E5"> but</font><font color="#CCCCCC"> I want to round</font>
+
+616
+00:32:12,160 --> 00:32:16,240
+<font color="#E5E5E5">toward zero in this</font><font color="#CCCCCC"> case</font><font color="#E5E5E5"> and so if I</font>
+
+617
+00:32:16,240 --> 00:32:18,280
+just<font color="#CCCCCC"> drop off that point five</font>
+
+618
+00:32:18,280 --> 00:32:20,710
+I'll get seventy<font color="#E5E5E5"> six</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> six which</font><font color="#CCCCCC"> is</font>
+
+619
+00:32:20,710 --> 00:32:24,280
+what I want<font color="#CCCCCC"> and similarly if I take 15</font>
+
+620
+00:32:24,280 --> 00:32:27,670
+to 13 and<font color="#E5E5E5"> divide it by 16</font><font color="#CCCCCC"> I end up</font><font color="#E5E5E5"> with</font>
+
+621
+00:32:27,670 --> 00:32:30,880
+a number<font color="#E5E5E5"> that</font><font color="#CCCCCC"> 915 point eight one two</font>
+
+622
+00:32:30,880 --> 00:32:34,990
+<font color="#E5E5E5">five which I want to round</font><font color="#CCCCCC"> toward</font><font color="#E5E5E5"> zero</font>
+
+623
+00:32:34,990 --> 00:32:37,750
+to<font color="#CCCCCC"> 950 and so you can see that that</font>
+
+624
+00:32:37,750 --> 00:32:40,320
+shifting just discarding<font color="#E5E5E5"> any extra bits</font>
+
+625
+00:32:40,320 --> 00:32:44,440
+<font color="#CCCCCC">as the</font><font color="#E5E5E5"> desired behavior of rounding</font>
+
+626
+00:32:44,440 --> 00:32:50,550
+<font color="#CCCCCC">toward zero for two's complement numbers</font>
+
+627
+00:32:50,550 --> 00:32:54,960
+<font color="#CCCCCC">you</font><font color="#E5E5E5"> almost get the same result by</font>
+
+628
+00:32:54,960 --> 00:32:57,820
+shifting using an arithmetic shift and
+
+629
+00:32:57,820 --> 00:33:01,090
+<font color="#E5E5E5">that's why the</font><font color="#CCCCCC"> arithmetic shift</font><font color="#E5E5E5"> is there</font>
+
+630
+00:33:01,090 --> 00:33:06,640
+<font color="#CCCCCC">oh</font><font color="#E5E5E5"> the only problem is it doesn't quite</font>
+
+631
+00:33:06,640 --> 00:33:08,110
+do the<font color="#E5E5E5"> wrong thing the right thing with</font>
+
+632
+00:33:08,110 --> 00:33:09,120
+negative
+
+633
+00:33:09,120 --> 00:33:12,550
+so let's see if I can give an example<font color="#CCCCCC"> so</font>
+
+634
+00:33:12,550 --> 00:33:14,440
+<font color="#CCCCCC">that the ideas is saying that we</font>
+
+635
+00:33:14,440 --> 00:33:17,680
+remember<font color="#CCCCCC"> an arithmetic shift we fill in</font>
+
+636
+00:33:17,680 --> 00:33:20,530
+with by copying the<font color="#E5E5E5"> most significant bit</font>
+
+637
+00:33:20,530 --> 00:33:27,040
+over and<font color="#E5E5E5"> over again</font><font color="#CCCCCC"> so you can imagine</font>
+
+638
+00:33:27,040 --> 00:33:29,080
+for positive<font color="#CCCCCC"> numbers it's just the same</font>
+
+639
+00:33:29,080 --> 00:33:30,940
+<font color="#E5E5E5">as what we</font><font color="#CCCCCC"> saw before for</font><font color="#E5E5E5"> negative</font>
+
+640
+00:33:30,940 --> 00:33:33,220
+<font color="#CCCCCC">numbers you see that it doesn't</font><font color="#E5E5E5"> quite do</font>
+
+641
+00:33:33,220 --> 00:33:36,880
+<font color="#CCCCCC">the right thing so for</font><font color="#E5E5E5"> example if I take</font>
+
+642
+00:33:36,880 --> 00:33:39,990
+<font color="#E5E5E5">minus 15 to 13</font><font color="#CCCCCC"> and I divide it by</font><font color="#E5E5E5"> 2</font>
+
+643
+00:33:39,990 --> 00:33:43,330
+again<font color="#CCCCCC"> minus sixty seventy six over six</font>
+
+644
+00:33:43,330 --> 00:33:47,620
+point five now<font color="#E5E5E5"> if I</font><font color="#CCCCCC"> just throw away</font>
+
+645
+00:33:47,620 --> 00:33:52,300
+<font color="#E5E5E5">these tips here the problem is those</font>
+
+646
+00:33:52,300 --> 00:33:56,140
+bits had a positive<font color="#CCCCCC"> value and so what</font>
+
+647
+00:33:56,140 --> 00:33:58,840
+I'm actually doing is decreasing<font color="#E5E5E5"> this</font>
+
+648
+00:33:58,840 --> 00:34:01,120
+number<font color="#CCCCCC"> what they call brown</font><font color="#E5E5E5"> bits or</font>
+
+649
+00:34:01,120 --> 00:34:03,850
+minus infinity<font color="#CCCCCC"> I'm rounding it to a more</font>
+
+650
+00:34:03,850 --> 00:34:06,340
+negative<font color="#E5E5E5"> number which in this case was</font>
+
+651
+00:34:06,340 --> 00:34:09,899
+<font color="#CCCCCC">minus mu</font><font color="#E5E5E5"> 607 and</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> where you see this</font>
+
+652
+00:34:09,899 --> 00:34:12,370
+minus nine fifteen point eight one<font color="#CCCCCC"> two</font>
+
+653
+00:34:12,370 --> 00:34:16,149
+five<font color="#E5E5E5"> it's rounded to minus 951 if I just</font>
+
+654
+00:34:16,149 --> 00:34:18,820
+do the<font color="#E5E5E5"> ship on</font><font color="#CCCCCC"> its own I</font><font color="#E5E5E5"> don't do</font>
+
+655
+00:34:18,820 --> 00:34:21,629
+anything else<font color="#E5E5E5"> so it's not quite right</font>
+
+656
+00:34:21,629 --> 00:34:26,168
+it's off by one basically for all<font color="#E5E5E5"> these</font>
+
+657
+00:34:26,168 --> 00:34:31,060
+negative<font color="#E5E5E5"> cases I want</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> round to zero</font>
+
+658
+00:34:31,060 --> 00:34:33,070
+so I want<font color="#E5E5E5"> around positive numbers down</font>
+
+659
+00:34:33,070 --> 00:34:39,699
+<font color="#E5E5E5">negative number is up so the trick is</font>
+
+660
+00:34:39,699 --> 00:34:42,699
+and what you'll<font color="#CCCCCC"> see the compiler does is</font>
+
+661
+00:34:42,699 --> 00:34:46,179
+to basically take the<font color="#E5E5E5"> case of a negative</font>
+
+662
+00:34:46,179 --> 00:34:49,929
+number<font color="#CCCCCC"> and bias it by adding</font><font color="#E5E5E5"> a little</font>
+
+663
+00:34:49,929 --> 00:34:51,480
+<font color="#CCCCCC">bit</font><font color="#E5E5E5"> to it</font>
+
+664
+00:34:51,480 --> 00:34:54,879
+<font color="#E5E5E5">before you it performs</font><font color="#CCCCCC"> a shift</font><font color="#E5E5E5"> and that</font>
+
+665
+00:34:54,879 --> 00:34:57,370
+<font color="#CCCCCC">little bit</font><font color="#E5E5E5"> that it adds will be just</font>
+
+666
+00:34:57,370 --> 00:35:00,250
+enough<font color="#CCCCCC"> to kind</font><font color="#E5E5E5"> of tip it and make</font><font color="#CCCCCC"> it</font>
+
+667
+00:35:00,250 --> 00:35:04,000
+round in the right direction and the the
+
+668
+00:35:04,000 --> 00:35:08,320
+way it does<font color="#CCCCCC"> that then is by</font><font color="#E5E5E5"> adding this</font>
+
+669
+00:35:08,320 --> 00:35:15,600
+bias of see if I can show
+
+670
+00:35:15,660 --> 00:35:19,870
+let me just<font color="#E5E5E5"> show</font><font color="#CCCCCC"> in the picture</font><font color="#E5E5E5"> by</font>
+
+671
+00:35:19,870 --> 00:35:22,630
+<font color="#E5E5E5">adding the</font><font color="#CCCCCC"> number</font><font color="#E5E5E5"> that's actually</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> the</font>
+
+672
+00:35:22,630 --> 00:35:25,090
+K minus<font color="#CCCCCC"> one which is a number that has</font>
+
+673
+00:35:25,090 --> 00:35:30,750
+all<font color="#CCCCCC"> one's for the these lowest</font><font color="#E5E5E5"> cave-ins</font>
+
+674
+00:35:30,750 --> 00:35:36,570
+<font color="#CCCCCC">and what that has the effect of doing is</font>
+
+675
+00:35:36,750 --> 00:35:41,800
+when I add that<font color="#E5E5E5"> is I will if this</font>
+
+676
+00:35:41,800 --> 00:35:45,460
+original number was all<font color="#E5E5E5"> zeros which is</font>
+
+677
+00:35:45,460 --> 00:35:48,400
+what's shown here and I am a bunch<font color="#E5E5E5"> of</font>
+
+678
+00:35:48,400 --> 00:35:50,620
+ones<font color="#CCCCCC"> to there nothing's going to happen</font>
+
+679
+00:35:50,620 --> 00:35:52,450
+<font color="#CCCCCC">I mean</font><font color="#E5E5E5"> it would only end up with</font><font color="#CCCCCC"> all</font>
+
+680
+00:35:52,450 --> 00:35:54,910
+ones but this yellow part will stay the
+
+681
+00:35:54,910 --> 00:35:58,860
+same<font color="#CCCCCC"> as before and when I shift that and</font>
+
+682
+00:35:58,860 --> 00:36:03,070
+<font color="#CCCCCC">drop off</font><font color="#E5E5E5"> anything</font><font color="#CCCCCC"> is right in the binary</font>
+
+683
+00:36:03,070 --> 00:36:09,490
+point<font color="#CCCCCC"> then</font><font color="#E5E5E5"> then I'll get back</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> the</font>
+
+684
+00:36:09,490 --> 00:36:12,070
+original shifted number and you'll see
+
+685
+00:36:12,070 --> 00:36:13,690
+I'm doing<font color="#E5E5E5"> an arithmetic shift</font><font color="#CCCCCC"> I'm</font>
+
+686
+00:36:13,690 --> 00:36:16,450
+filling it with once so for the case
+
+687
+00:36:16,450 --> 00:36:19,330
+where no rounding is required<font color="#E5E5E5"> then it</font>
+
+688
+00:36:19,330 --> 00:36:22,180
+what this shows is<font color="#CCCCCC"> it</font><font color="#E5E5E5"> does this biasing</font>
+
+689
+00:36:22,180 --> 00:36:25,180
+<font color="#E5E5E5">is no real effect but for the case where</font>
+
+690
+00:36:25,180 --> 00:36:27,040
+I<font color="#E5E5E5"> needed</font><font color="#CCCCCC"> to do that a little bit of</font>
+
+691
+00:36:27,040 --> 00:36:32,530
+<font color="#E5E5E5">rounding what happens is by adding this</font>
+
+692
+00:36:32,530 --> 00:36:35,380
+bias in here<font color="#E5E5E5"> if there are any one bits</font>
+
+693
+00:36:35,380 --> 00:36:37,350
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> all to the right of the binary</font><font color="#CCCCCC"> point</font>
+
+694
+00:36:37,350 --> 00:36:39,930
+<font color="#E5E5E5">of what will become</font><font color="#CCCCCC"> the binary point</font>
+
+695
+00:36:39,930 --> 00:36:45,780
+<font color="#E5E5E5">then then this value will</font><font color="#CCCCCC"> cause an</font>
+
+696
+00:36:45,780 --> 00:36:48,990
+incremented value in the yellow portion
+
+697
+00:36:48,990 --> 00:36:53,520
+and then when I shift<font color="#E5E5E5"> that to the right</font>
+
+698
+00:36:53,520 --> 00:36:56,250
+what I'll get is effectively
+
+699
+00:36:56,250 --> 00:37:00,400
+incrementing by one this number which
+
+700
+00:37:00,400 --> 00:37:04,990
+gets my bias right so this<font color="#CCCCCC"> is it</font>
+
+701
+00:37:04,990 --> 00:37:06,430
+probably easy as it's understood by
+
+702
+00:37:06,430 --> 00:37:17,470
+example this is<font color="#CCCCCC"> the best understood by</font>
+
+703
+00:37:17,470 --> 00:37:19,920
+example and<font color="#E5E5E5"> I don't have one</font><font color="#CCCCCC"> handy</font><font color="#E5E5E5"> so</font>
+
+704
+00:37:19,920 --> 00:37:23,380
+<font color="#CCCCCC">but so this</font><font color="#E5E5E5"> is a pretty quick march</font>
+
+705
+00:37:23,380 --> 00:37:25,090
+through it the book covers this with
+
+706
+00:37:25,090 --> 00:37:25,669
+some
+
+707
+00:37:25,669 --> 00:37:28,699
+actual examples and<font color="#E5E5E5"> I recommend</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> look</font>
+
+708
+00:37:28,699 --> 00:37:33,109
+at those but this is a again<font color="#CCCCCC"> so it turns</font>
+
+709
+00:37:33,109 --> 00:37:35,149
+out<font color="#E5E5E5"> that this is always a good idea for</font>
+
+710
+00:37:35,149 --> 00:37:38,169
+the<font color="#E5E5E5"> compiler if it can get away with a</font>
+
+711
+00:37:38,169 --> 00:37:41,119
+shift instead<font color="#E5E5E5"> of</font><font color="#CCCCCC"> divide that's a big</font>
+
+712
+00:37:41,119 --> 00:37:43,849
+savings<font color="#CCCCCC"> because</font><font color="#E5E5E5"> divide is a relatively</font>
+
+713
+00:37:43,849 --> 00:37:45,919
+<font color="#CCCCCC">expensive operation even on a modern</font>
+
+714
+00:37:45,919 --> 00:37:49,759
+processor<font color="#E5E5E5"> on the other hand whereas I</font>
+
+715
+00:37:49,759 --> 00:37:51,819
+could mix and match these I<font color="#E5E5E5"> could divide</font>
+
+716
+00:37:51,819 --> 00:37:56,299
+x 24 using<font color="#E5E5E5"> two shifts</font><font color="#CCCCCC"> in a subtraction</font>
+
+717
+00:37:56,299 --> 00:37:58,939
+you see it<font color="#E5E5E5"> doesn't really work when you</font>
+
+718
+00:37:58,939 --> 00:38:00,709
+<font color="#E5E5E5">want to divide by something other than a</font>
+
+719
+00:38:00,709 --> 00:38:02,899
+power of<font color="#E5E5E5"> two you can't sort of break</font>
+
+720
+00:38:02,899 --> 00:38:05,569
+that<font color="#CCCCCC"> up into</font><font color="#E5E5E5"> a bunch of separate power</font>
+
+721
+00:38:05,569 --> 00:38:08,449
+of two cases<font color="#E5E5E5"> so this is really only</font>
+
+722
+00:38:08,449 --> 00:38:10,669
+useful for<font color="#E5E5E5"> the special case of dividing</font>
+
+723
+00:38:10,669 --> 00:38:13,279
+by<font color="#CCCCCC"> a power too but you'll see this in in</font>
+
+724
+00:38:13,279 --> 00:38:17,359
+real life code so just<font color="#CCCCCC"> a</font><font color="#E5E5E5"> few other</font>
+
+725
+00:38:17,359 --> 00:38:22,519
+tricks<font color="#CCCCCC"> of the trade</font><font color="#E5E5E5"> one is when I took</font><font color="#CCCCCC"> a</font>
+
+726
+00:38:22,519 --> 00:38:25,279
+course in logic design<font color="#CCCCCC"> many years</font><font color="#E5E5E5"> ago I</font>
+
+727
+00:38:25,279 --> 00:38:27,709
+learned this trick<font color="#E5E5E5"> for computing the</font>
+
+728
+00:38:27,709 --> 00:38:30,529
+negation of a number in two's complement
+
+729
+00:38:30,529 --> 00:38:32,179
+<font color="#CCCCCC">form when they</font><font color="#E5E5E5"> call complement</font><font color="#CCCCCC"> plus</font>
+
+730
+00:38:32,179 --> 00:38:41,389
+increment so we've got examples<font color="#E5E5E5"> yeah so</font>
+
+731
+00:38:41,389 --> 00:38:43,489
+for<font color="#E5E5E5"> example if I wanted</font><font color="#CCCCCC"> to complement</font>
+
+732
+00:38:43,489 --> 00:38:48,319
+the number<font color="#CCCCCC"> 1 5 203 or increment</font><font color="#E5E5E5"> negator</font>
+
+733
+00:38:48,319 --> 00:38:51,229
+you see that's<font color="#CCCCCC"> its binary</font><font color="#E5E5E5"> representation</font>
+
+734
+00:38:51,229 --> 00:38:53,869
+so if I<font color="#CCCCCC"> complement</font><font color="#E5E5E5"> that if I take all</font>
+
+735
+00:38:53,869 --> 00:38:57,409
+the bits<font color="#E5E5E5"> and just bit by</font><font color="#CCCCCC"> bit put the</font>
+
+736
+00:38:57,409 --> 00:38:59,509
+opposite value<font color="#E5E5E5"> in that's</font><font color="#CCCCCC"> complementing</font>
+
+737
+00:38:59,509 --> 00:39:01,399
+it and you see numerically<font color="#CCCCCC"> that</font>
+
+738
+00:39:01,399 --> 00:39:06,259
+represents<font color="#E5E5E5"> the value - 15 - 14 and the</font>
+
+739
+00:39:06,259 --> 00:39:08,329
+<font color="#E5E5E5">intuition of why that's true is if you</font>
+
+740
+00:39:08,329 --> 00:39:12,829
+add X and<font color="#CCCCCC"> it's</font><font color="#E5E5E5"> complement you'll get a</font>
+
+741
+00:39:12,829 --> 00:39:15,199
+number<font color="#CCCCCC"> that's all</font><font color="#E5E5E5"> wands which of course</font>
+
+742
+00:39:15,199 --> 00:39:17,149
+you recall is the<font color="#E5E5E5"> representation of</font>
+
+743
+00:39:17,149 --> 00:39:20,419
+negative 1 and<font color="#CCCCCC"> so we</font><font color="#E5E5E5"> can see that the</font>
+
+744
+00:39:20,419 --> 00:39:26,719
+number X questions<font color="#CCCCCC"> compliment</font><font color="#E5E5E5"> is is</font>
+
+745
+00:39:26,719 --> 00:39:29,959
+minus 1 and therefore<font color="#E5E5E5"> if I now add a 1</font>
+
+746
+00:39:29,959 --> 00:39:32,929
+back to this<font color="#E5E5E5"> complement</font><font color="#CCCCCC"> his number I'll</font>
+
+747
+00:39:32,929 --> 00:39:38,150
+get minus X so if I now increment<font color="#CCCCCC"> that</font>
+
+748
+00:39:38,150 --> 00:39:40,910
+in this case it was an even number so<font color="#CCCCCC"> I</font>
+
+749
+00:39:40,910 --> 00:39:44,990
+<font color="#CCCCCC">just</font><font color="#E5E5E5"> said that Victor that one then this</font>
+
+750
+00:39:44,990 --> 00:39:49,759
+will be<font color="#CCCCCC"> the value of minus 15 to 30 so</font>
+
+751
+00:39:49,759 --> 00:39:52,339
+<font color="#E5E5E5">that's a pretty</font><font color="#CCCCCC"> handy trick</font><font color="#E5E5E5"> and again</font>
+
+752
+00:39:52,339 --> 00:39:56,599
+all of<font color="#E5E5E5"> these really you know there's not</font>
+
+753
+00:39:56,599 --> 00:39:58,730
+some magic new knowledge here it's they
+
+754
+00:39:58,730 --> 00:40:00,920
+all stem back to that original formula
+
+755
+00:40:00,920 --> 00:40:04,039
+showing<font color="#E5E5E5"> what the numeric value is of a</font>
+
+756
+00:40:04,039 --> 00:40:10,039
+two's complement number and so some
+
+757
+00:40:10,039 --> 00:40:13,069
+special<font color="#CCCCCC"> cases like four zero</font><font color="#E5E5E5"> if I</font>
+
+758
+00:40:13,069 --> 00:40:18,529
+<font color="#E5E5E5">complement it I'll get all ones which is</font>
+
+759
+00:40:18,529 --> 00:40:20,990
+minus<font color="#CCCCCC"> one</font><font color="#E5E5E5"> so if I add back</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> one to that</font>
+
+760
+00:40:20,990 --> 00:40:25,190
+<font color="#E5E5E5">I'll come back</font><font color="#CCCCCC"> to zero and one of the</font>
+
+761
+00:40:25,190 --> 00:40:27,319
+<font color="#E5E5E5">interesting numbers is if I complement</font>
+
+762
+00:40:27,319 --> 00:40:31,759
+it is<font color="#CCCCCC"> T min if</font><font color="#E5E5E5"> I complement it I should</font>
+
+763
+00:40:31,759 --> 00:40:35,450
+get T<font color="#CCCCCC"> Max and if I add</font><font color="#E5E5E5"> 1 to t max what</font>
+
+764
+00:40:35,450 --> 00:40:37,749
+do I get
+
+765
+00:40:38,230 --> 00:40:41,529
+<font color="#E5E5E5">I'll get Tina back so I took the most</font>
+
+766
+00:40:41,529 --> 00:40:45,499
+positive number and I<font color="#E5E5E5"> added 1 to</font><font color="#CCCCCC"> it and</font>
+
+767
+00:40:45,499 --> 00:40:48,619
+I got<font color="#E5E5E5"> the most angry but that's what</font>
+
+768
+00:40:48,619 --> 00:40:51,890
+they call positive<font color="#CCCCCC"> overflow yeah</font>
+
+769
+00:40:51,890 --> 00:40:56,900
+and<font color="#CCCCCC"> so what you can see is</font><font color="#E5E5E5"> actually if</font>
+
+770
+00:40:56,900 --> 00:41:01,099
+you give a compute the expression minus
+
+771
+00:41:01,099 --> 00:41:04,099
+X and X is<font color="#E5E5E5"> T then you'll get</font><font color="#CCCCCC"> back team</font>
+
+772
+00:41:04,099 --> 00:41:09,230
+<font color="#E5E5E5">it</font><font color="#CCCCCC"> just like if</font><font color="#E5E5E5"> t minus</font><font color="#CCCCCC"> 0 is 0 4 minus T</font>
+
+773
+00:41:09,230 --> 00:41:12,890
+min is team in in two's complement<font color="#E5E5E5"> in</font>
+
+774
+00:41:12,890 --> 00:41:15,890
+the world of two's complement<font color="#E5E5E5"> which by</font>
+
+775
+00:41:15,890 --> 00:41:18,769
+<font color="#E5E5E5">the way whenever any question comes up</font>
+
+776
+00:41:18,769 --> 00:41:21,640
+is this behavior<font color="#E5E5E5"> always true or false</font>
+
+777
+00:41:21,640 --> 00:41:24,859
+usually you want<font color="#E5E5E5"> to test the special</font>
+
+778
+00:41:24,859 --> 00:41:28,130
+<font color="#CCCCCC">cases is 0 and T min to see because</font>
+
+779
+00:41:28,130 --> 00:41:30,230
+they're<font color="#CCCCCC"> often the counter example to</font><font color="#E5E5E5"> any</font>
+
+780
+00:41:30,230 --> 00:41:38,119
+general<font color="#E5E5E5"> rules so just to summarize that</font>
+
+781
+00:41:38,119 --> 00:41:43,160
+<font color="#E5E5E5">part then actually what I'm gonna I'm</font>
+
+782
+00:41:43,160 --> 00:41:45,440
+going to summarize<font color="#CCCCCC"> it but we're about to</font>
+
+783
+00:41:45,440 --> 00:41:48,289
+do<font color="#CCCCCC"> our quiz and so if you want</font><font color="#E5E5E5"> to start</font>
+
+784
+00:41:48,289 --> 00:41:49,110
+working<font color="#E5E5E5"> you</font>
+
+785
+00:41:49,110 --> 00:41:54,420
+way into<font color="#E5E5E5"> canvas</font><font color="#CCCCCC"> oh</font><font color="#E5E5E5"> yeah because I know</font>
+
+786
+00:41:54,420 --> 00:41:58,100
+it takes some<font color="#E5E5E5"> time with all your</font>
+
+787
+00:43:08,070 --> 00:43:10,089
+I'm trying<font color="#E5E5E5"> to figure</font><font color="#CCCCCC"> out how</font><font color="#E5E5E5"> to get</font><font color="#CCCCCC"> to</font>
+
+788
+00:43:10,089 --> 00:43:52,450
+<font color="#E5E5E5">canvas are you guys taking</font><font color="#CCCCCC"> this quiz you</font>
+
+789
+00:43:52,450 --> 00:43:55,530
+<font color="#CCCCCC">probably ahead</font><font color="#E5E5E5"> of me out I can't</font>
+
+790
+00:46:30,310 --> 00:46:32,510
+<font color="#E5E5E5">okay let's see how we've done this sorry</font>
+
+791
+00:46:32,510 --> 00:46:35,140
+it took me so long
+
+792
+00:46:36,670 --> 00:46:40,100
+<font color="#E5E5E5">okay so I'd say people generally did</font>
+
+793
+00:46:40,100 --> 00:46:44,060
+pretty well here so actually the<font color="#E5E5E5"> answer</font>
+
+794
+00:46:44,060 --> 00:46:47,360
+to the first<font color="#CCCCCC"> problem was already stated</font>
+
+795
+00:46:47,360 --> 00:46:50,300
+<font color="#E5E5E5">in lecture when you have two numbers</font>
+
+796
+00:46:50,300 --> 00:46:51,830
+with opposite signs they can never
+
+797
+00:46:51,830 --> 00:46:54,100
+overflow remember I<font color="#E5E5E5"> said if it's a</font>
+
+798
+00:46:54,100 --> 00:46:56,240
+positive<font color="#CCCCCC"> number</font><font color="#E5E5E5"> and a negative number</font>
+
+799
+00:46:56,240 --> 00:46:57,890
+<font color="#E5E5E5">you're adding them together you'll end</font>
+
+800
+00:46:57,890 --> 00:46:59,990
+up somewhere<font color="#CCCCCC"> in between most</font><font color="#E5E5E5"> people</font>
+
+801
+00:46:59,990 --> 00:47:04,580
+about<font color="#E5E5E5"> that everyone basically</font><font color="#CCCCCC"> got the</font>
+
+802
+00:47:04,580 --> 00:47:07,520
+<font color="#E5E5E5">idea</font><font color="#CCCCCC"> that shifting left by four is the</font>
+
+803
+00:47:07,520 --> 00:47:10,790
+<font color="#E5E5E5">same as multiplying by</font><font color="#CCCCCC"> sixteen not</font>
+
+804
+00:47:10,790 --> 00:47:12,440
+remember this<font color="#E5E5E5"> a left shift</font>
+
+805
+00:47:12,440 --> 00:47:17,150
+not a right shift<font color="#E5E5E5"> and how many values to</font>
+
+806
+00:47:17,150 --> 00:47:18,860
+<font color="#E5E5E5">see have four faults instead of a trick</font>
+
+807
+00:47:18,860 --> 00:47:26,690
+question<font color="#CCCCCC"> in that remember false as one</font>
+
+808
+00:47:26,690 --> 00:47:29,510
+value which is<font color="#E5E5E5"> zero true is anything</font>
+
+809
+00:47:29,510 --> 00:47:36,340
+<font color="#E5E5E5">that's nonzero</font><font color="#CCCCCC"> this one actually was I</font>
+
+810
+00:47:36,340 --> 00:47:40,580
+can see that<font color="#E5E5E5"> people didn't necessarily</font>
+
+811
+00:47:40,580 --> 00:47:43,490
+guess the answer on this and so will
+
+812
+00:47:43,490 --> 00:47:47,720
+actually cover that in<font color="#CCCCCC"> just a second but</font>
+
+813
+00:47:47,720 --> 00:47:49,640
+<font color="#E5E5E5">this is good I think</font><font color="#CCCCCC"> this is very useful</font>
+
+814
+00:47:49,640 --> 00:47:56,600
+information so I think a<font color="#E5E5E5"> lot of people</font>
+
+815
+00:47:56,600 --> 00:47:59,990
+recalled from<font color="#E5E5E5"> last time this example of</font>
+
+816
+00:47:59,990 --> 00:48:06,440
+a<font color="#CCCCCC"> MOOC with a</font><font color="#E5E5E5"> an unsigned loop index I</font>
+
+817
+00:48:06,440 --> 00:48:10,280
+and the problem with this is that<font color="#CCCCCC"> if I</font>
+
+818
+00:48:10,280 --> 00:48:17,170
+is since<font color="#E5E5E5"> I is</font><font color="#CCCCCC"> let me stir the</font><font color="#E5E5E5"> soup</font>
+
+819
+00:48:25,559 --> 00:48:28,119
+since<font color="#E5E5E5"> I is unsigned it will always</font><font color="#CCCCCC"> be</font>
+
+820
+00:48:28,119 --> 00:48:30,819
+<font color="#CCCCCC">greater than or equal</font><font color="#E5E5E5"> to zero and so</font>
+
+821
+00:48:30,819 --> 00:48:33,519
+this group test is useless and it can be
+
+822
+00:48:33,519 --> 00:48:36,249
+a little<font color="#E5E5E5"> more subtle as people saw if</font>
+
+823
+00:48:36,249 --> 00:48:40,630
+Delta<font color="#CCCCCC"> is sizeof int Delta</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> defined to</font>
+
+824
+00:48:40,630 --> 00:48:45,219
+<font color="#E5E5E5">be an unsigned number until by the rules</font>
+
+825
+00:48:45,219 --> 00:48:51,549
+we had this would be cast<font color="#CCCCCC"> to unsigned</font>
+
+826
+00:48:51,549 --> 00:48:54,189
+<font color="#E5E5E5">and therefore always be greater or equal</font>
+
+827
+00:48:54,189 --> 00:48:59,640
+to<font color="#E5E5E5"> zero so the particular quiz problem</font>
+
+828
+00:49:00,359 --> 00:49:04,979
+<font color="#E5E5E5">if this works what it was doing is</font>
+
+829
+00:49:04,979 --> 00:49:08,349
+instead of using<font color="#E5E5E5"> size of int it had a</font>
+
+830
+00:49:08,349 --> 00:49:12,759
+particular hex number I<font color="#E5E5E5"> think it was</font>
+
+831
+00:49:12,759 --> 00:49:26,019
+<font color="#CCCCCC">four</font><font color="#E5E5E5"> eight right for the way I can</font>
+
+832
+00:49:26,019 --> 00:49:39,729
+change this<font color="#E5E5E5"> and so I think some of you</font>
+
+833
+00:49:39,729 --> 00:49:43,289
+said whoa hex numbers that looks kind of
+
+834
+00:49:43,289 --> 00:49:46,209
+unsigned to me<font color="#E5E5E5"> and so you guessed that</font>
+
+835
+00:49:46,209 --> 00:49:49,769
+that<font color="#E5E5E5"> would also</font><font color="#CCCCCC"> be</font><font color="#E5E5E5"> an unsigned number</font>
+
+836
+00:49:49,769 --> 00:49:54,869
+which is not<font color="#CCCCCC"> a bad guess but it's wrong</font>
+
+837
+00:49:54,869 --> 00:49:58,869
+in this case since<font color="#CCCCCC"> four there's actually</font>
+
+838
+00:49:58,869 --> 00:50:01,539
+a<font color="#E5E5E5"> pretty complicated set of rules that</font>
+
+839
+00:50:01,539 --> 00:50:05,650
+<font color="#CCCCCC">when you write it some digits</font><font color="#E5E5E5"> out what</font>
+
+840
+00:50:05,650 --> 00:50:09,849
+datatype does that imply<font color="#E5E5E5"> and in fact if</font>
+
+841
+00:50:09,849 --> 00:50:11,499
+you<font color="#CCCCCC"> really want to get</font><font color="#E5E5E5"> into this there's</font>
+
+842
+00:50:11,499 --> 00:50:15,729
+a web aside for the book<font color="#E5E5E5"> that you can</font>
+
+843
+00:50:15,729 --> 00:50:18,339
+<font color="#E5E5E5">get to off of the court the books web</font>
+
+844
+00:50:18,339 --> 00:50:23,589
+page that says how do<font color="#E5E5E5"> I write</font><font color="#CCCCCC"> T min and</font>
+
+845
+00:50:23,589 --> 00:50:25,569
+it goes through the whole<font color="#E5E5E5"> conversion</font>
+
+846
+00:50:25,569 --> 00:50:27,489
+rules which are<font color="#E5E5E5"> really</font><font color="#CCCCCC"> inque</font>
+
+847
+00:50:27,489 --> 00:50:29,799
+arcane<font color="#E5E5E5"> it actually depends on which</font>
+
+848
+00:50:29,799 --> 00:50:33,339
+version<font color="#E5E5E5"> of C you use so this could be</font><font color="#CCCCCC"> a</font>
+
+849
+00:50:33,339 --> 00:50:33,640
+<font color="#E5E5E5">very</font>
+
+850
+00:50:33,640 --> 00:50:36,309
+complicated<font color="#E5E5E5"> answer but the simple</font>
+
+851
+00:50:36,309 --> 00:50:38,829
+version<font color="#E5E5E5"> is if the number</font><font color="#CCCCCC"> can be</font>
+
+852
+00:50:38,829 --> 00:50:41,950
+<font color="#E5E5E5">represented</font><font color="#CCCCCC"> as an INT</font><font color="#E5E5E5"> and there is no</font>
+
+853
+00:50:41,950 --> 00:50:44,500
+little<font color="#CCCCCC"> u next to it</font><font color="#E5E5E5"> it will be treated</font>
+
+854
+00:50:44,500 --> 00:50:45,160
+<font color="#E5E5E5">as a hint</font>
+
+855
+00:50:45,160 --> 00:50:48,460
+and so hex<font color="#CCCCCC"> 4 is the same as decimal</font><font color="#E5E5E5"> 4 in</font>
+
+856
+00:50:48,460 --> 00:50:51,400
+<font color="#E5E5E5">this case it will be an assigned number</font>
+
+857
+00:50:51,400 --> 00:50:55,450
+and so since<font color="#E5E5E5"> I in this example the</font>
+
+858
+00:50:55,450 --> 00:50:58,269
+<font color="#E5E5E5">example is very similar to</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> one will</font>
+
+859
+00:50:58,269 --> 00:51:04,900
+be<font color="#E5E5E5"> all</font><font color="#CCCCCC"> this will be done using signed</font>
+
+860
+00:51:04,900 --> 00:51:06,849
+arithmetic<font color="#CCCCCC"> so the people</font><font color="#E5E5E5"> got that wrong</font>
+
+861
+00:51:06,849 --> 00:51:09,069
+it wasn't<font color="#CCCCCC"> a fundamental misunderstanding</font>
+
+862
+00:51:09,069 --> 00:51:12,069
+it's just this is one<font color="#E5E5E5"> kind</font><font color="#CCCCCC"> of corner of</font>
+
+863
+00:51:12,069 --> 00:51:14,920
+the sea<font color="#CCCCCC"> rules</font><font color="#E5E5E5"> that we didn't even cover</font>
+
+864
+00:51:14,920 --> 00:51:18,730
+and aren't often<font color="#E5E5E5"> covered in any standard</font>
+
+865
+00:51:18,730 --> 00:51:27,039
+presentations<font color="#E5E5E5"> good so I used to counsel</font>
+
+866
+00:51:27,039 --> 00:51:29,140
+people<font color="#E5E5E5"> I'd say well if you're gonna</font>
+
+867
+00:51:29,140 --> 00:51:31,450
+<font color="#CCCCCC">count down then don't use unsigned</font>
+
+868
+00:51:31,450 --> 00:51:33,190
+arithmetic<font color="#E5E5E5"> because it will get you in</font>
+
+869
+00:51:33,190 --> 00:51:35,890
+trouble<font color="#E5E5E5"> and there's a</font><font color="#CCCCCC"> fella day I don't</font>
+
+870
+00:51:35,890 --> 00:51:37,269
+<font color="#CCCCCC">think he's there anymore but used to</font>
+
+871
+00:51:37,269 --> 00:51:38,470
+<font color="#E5E5E5">work at the software engineering</font>
+
+872
+00:51:38,470 --> 00:51:42,250
+<font color="#CCCCCC">Institute</font><font color="#E5E5E5"> who sent me email saying by</font>
+
+873
+00:51:42,250 --> 00:51:45,279
+the way<font color="#E5E5E5"> you gave really bad advice so</font>
+
+874
+00:51:45,279 --> 00:51:47,319
+this guy named Robert<font color="#CCCCCC"> Secord has written</font>
+
+875
+00:51:47,319 --> 00:51:49,839
+a set of books<font color="#E5E5E5"> about what he calls</font>
+
+876
+00:51:49,839 --> 00:51:54,039
+secure coding<font color="#CCCCCC"> and if you really want to</font>
+
+877
+00:51:54,039 --> 00:51:56,230
+be a super careful programmer<font color="#E5E5E5"> it's a</font>
+
+878
+00:51:56,230 --> 00:51:58,779
+pretty interesting about<font color="#E5E5E5"> collection of</font>
+
+879
+00:51:58,779 --> 00:52:02,589
+books he has it in C C++ is<font color="#E5E5E5"> ones in Java</font>
+
+880
+00:52:02,589 --> 00:52:05,200
+and so forth<font color="#CCCCCC"> and he's especially</font><font color="#E5E5E5"> he's a</font>
+
+881
+00:52:05,200 --> 00:52:07,690
+a computer security<font color="#CCCCCC"> person so he's</font>
+
+882
+00:52:07,690 --> 00:52:09,670
+trying to say how<font color="#E5E5E5"> can you write code</font>
+
+883
+00:52:09,670 --> 00:52:13,569
+that<font color="#E5E5E5"> on any compiler on any system is</font>
+
+884
+00:52:13,569 --> 00:52:16,000
+less prone<font color="#CCCCCC"> to being attacked or</font>
+
+885
+00:52:16,000 --> 00:52:19,869
+vulnerable have<font color="#E5E5E5"> bugs and so what he</font>
+
+886
+00:52:19,869 --> 00:52:24,819
+claims is that<font color="#E5E5E5"> the best way to do</font>
+
+887
+00:52:24,819 --> 00:52:28,599
+counting down then is to<font color="#E5E5E5"> use a unsigned</font>
+
+888
+00:52:28,599 --> 00:52:31,269
+value as you loop index<font color="#E5E5E5"> but then rather</font>
+
+889
+00:52:31,269 --> 00:52:33,039
+<font color="#E5E5E5">than checking is it greater than or</font>
+
+890
+00:52:33,039 --> 00:52:35,619
+equal<font color="#E5E5E5"> to zero you actually check is it</font>
+
+891
+00:52:35,619 --> 00:52:39,549
+less<font color="#CCCCCC"> than your starting value</font><font color="#E5E5E5"> because</font>
+
+892
+00:52:39,549 --> 00:52:42,819
+the logic behind<font color="#CCCCCC"> it you keep going until</font>
+
+893
+00:52:42,819 --> 00:52:45,730
+that happens<font color="#E5E5E5"> because what happens is</font>
+
+894
+00:52:45,730 --> 00:52:47,220
+once<font color="#E5E5E5"> I goes</font>
+
+895
+00:52:47,220 --> 00:52:51,270
+<font color="#E5E5E5">to zero then the next thing it will</font>
+
+896
+00:52:51,270 --> 00:52:53,670
+become is it will wrap around<font color="#E5E5E5"> and become</font>
+
+897
+00:52:53,670 --> 00:52:56,190
+<font color="#E5E5E5">you max</font><font color="#CCCCCC"> because it's unsigned arithmetic</font>
+
+898
+00:52:56,190 --> 00:52:57,990
+is guaranteed<font color="#E5E5E5"> you be modular on any</font>
+
+899
+00:52:57,990 --> 00:53:01,470
+machine<font color="#E5E5E5"> on any compiler so you're</font>
+
+900
+00:53:01,470 --> 00:53:04,790
+<font color="#E5E5E5">guaranteed once it goes below zero or</font>
+
+901
+00:53:04,790 --> 00:53:06,810
+apparently blows you<font color="#E5E5E5"> or when it's really</font>
+
+902
+00:53:06,810 --> 00:53:08,760
+<font color="#E5E5E5">good to go is up to a really big notice</font>
+
+903
+00:53:08,760 --> 00:53:11,160
+<font color="#E5E5E5">and so that's a very non-intuitive</font>
+
+904
+00:53:11,160 --> 00:53:18,210
+looking loop<font color="#CCCCCC"> writing scheme is to</font><font color="#E5E5E5"> put</font>
+
+905
+00:53:18,210 --> 00:53:20,099
+<font color="#E5E5E5">instead of greater than or equal</font><font color="#CCCCCC"> to 0</font>
+
+906
+00:53:20,099 --> 00:53:22,560
+<font color="#CCCCCC">you saying less than count and</font><font color="#E5E5E5"> I've</font>
+
+907
+00:53:22,560 --> 00:53:24,359
+started using<font color="#E5E5E5"> this in my</font><font color="#CCCCCC"> own programming</font>
+
+908
+00:53:24,359 --> 00:53:26,160
+<font color="#E5E5E5">and once you kind</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> get used to it it</font>
+
+909
+00:53:26,160 --> 00:53:28,710
+<font color="#E5E5E5">looks reasonable but at first it seemed</font>
+
+910
+00:53:28,710 --> 00:53:30,990
+like a<font color="#CCCCCC"> very strange</font><font color="#E5E5E5"> thing and he</font><font color="#CCCCCC"> even</font>
+
+911
+00:53:30,990 --> 00:53:33,180
+recommends instead of<font color="#E5E5E5"> declaring it as an</font>
+
+912
+00:53:33,180 --> 00:53:34,890
+unsigned that you declared as this
+
+913
+00:53:34,890 --> 00:53:39,210
+<font color="#CCCCCC">datatype size T which is depending</font><font color="#E5E5E5"> on</font>
+
+914
+00:53:39,210 --> 00:53:41,760
+the<font color="#CCCCCC"> Machine type is always</font><font color="#E5E5E5"> sort of a big</font>
+
+915
+00:53:41,760 --> 00:53:45,750
+enough number<font color="#E5E5E5"> to handle the the full</font>
+
+916
+00:53:45,750 --> 00:53:49,099
+word size of your machine 32 or 64 bits
+
+917
+00:53:49,099 --> 00:53:53,190
+<font color="#E5E5E5">so that's um just one piece of advice</font>
+
+918
+00:53:53,190 --> 00:53:55,020
+I'll pass<font color="#E5E5E5"> along to</font><font color="#CCCCCC"> you from Richard</font>
+
+919
+00:53:55,020 --> 00:54:00,359
+<font color="#E5E5E5">Roberts</font><font color="#CCCCCC"> II court so other uses of</font>
+
+920
+00:54:00,359 --> 00:54:03,330
+unsigned<font color="#E5E5E5"> as I mentioned if you really</font>
+
+921
+00:54:03,330 --> 00:54:05,580
+really<font color="#CCCCCC"> want to</font><font color="#E5E5E5"> be careful</font><font color="#CCCCCC"> the good news</font>
+
+922
+00:54:05,580 --> 00:54:07,920
+<font color="#CCCCCC">about on site is it does</font><font color="#E5E5E5"> have a complete</font>
+
+923
+00:54:07,920 --> 00:54:09,750
+<font color="#E5E5E5">specification of</font><font color="#CCCCCC"> what to do</font><font color="#E5E5E5"> even in</font>
+
+924
+00:54:09,750 --> 00:54:13,560
+<font color="#E5E5E5">overflow cases and often modular</font>
+
+925
+00:54:13,560 --> 00:54:15,540
+arithmetic is actually fairly useful<font color="#CCCCCC"> if</font>
+
+926
+00:54:15,540 --> 00:54:16,920
+you want<font color="#E5E5E5"> to do</font><font color="#CCCCCC"> multiple position</font>
+
+927
+00:54:16,920 --> 00:54:20,760
+arithmetic you saw when you were doing
+
+928
+00:54:20,760 --> 00:54:24,359
+<font color="#E5E5E5">set operations it's sort of natural just</font>
+
+929
+00:54:24,359 --> 00:54:27,570
+to<font color="#E5E5E5"> think of a bit says bit flags and no</font>
+
+930
+00:54:27,570 --> 00:54:30,810
+sort of<font color="#E5E5E5"> negative numbers involved and</font>
+
+931
+00:54:30,810 --> 00:54:33,359
+you'll find in systems programming<font color="#E5E5E5"> when</font>
+
+932
+00:54:33,359 --> 00:54:35,970
+you talk about addresses or masks you
+
+933
+00:54:35,970 --> 00:54:37,700
+know collections of bits and<font color="#E5E5E5"> things</font>
+
+934
+00:54:37,700 --> 00:54:41,359
+unsigned is a<font color="#E5E5E5"> fairly sort of a</font>
+
+935
+00:54:41,359 --> 00:54:47,070
+reasonable thing<font color="#E5E5E5"> to conceptually so it's</font>
+
+936
+00:54:47,070 --> 00:54:48,690
+interesting like<font color="#E5E5E5"> Java does not have</font>
+
+937
+00:54:48,690 --> 00:54:53,760
+unsigned numbers<font color="#E5E5E5"> but it has because they</font>
+
+938
+00:54:53,760 --> 00:54:55,290
+didn't want<font color="#E5E5E5"> to get into all these quirks</font>
+
+939
+00:54:55,290 --> 00:54:59,700
+<font color="#CCCCCC">but in C unsigned numbers it kind</font><font color="#E5E5E5"> of</font>
+
+940
+00:54:59,700 --> 00:54:59,940
+bill
+
+941
+00:54:59,940 --> 00:55:04,860
+and<font color="#E5E5E5"> they're</font><font color="#CCCCCC"> very ease</font><font color="#E5E5E5"> okay</font><font color="#CCCCCC"> just to</font>
+
+942
+00:55:04,860 --> 00:55:07,340
+finish<font color="#CCCCCC"> it</font><font color="#E5E5E5"> up then let's talk about how</font>
+
+943
+00:55:07,340 --> 00:55:10,560
+we can<font color="#CCCCCC"> layout collections of bytes in</font>
+
+944
+00:55:10,560 --> 00:55:13,710
+<font color="#CCCCCC">memory</font><font color="#E5E5E5"> and when we look at the</font><font color="#CCCCCC"> actual</font>
+
+945
+00:55:13,710 --> 00:55:16,470
+machine<font color="#CCCCCC"> code assembly code</font><font color="#E5E5E5"> you'll see</font>
+
+946
+00:55:16,470 --> 00:55:18,180
+that it's issuing all these addresses
+
+947
+00:55:18,180 --> 00:55:24,840
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> people ask well where's where's the</font>
+
+948
+00:55:24,840 --> 00:55:27,810
+<font color="#E5E5E5">memory and the answer is well</font>
+
+949
+00:55:27,810 --> 00:55:30,930
+conceptually<font color="#E5E5E5"> the memory just exists it's</font>
+
+950
+00:55:30,930 --> 00:55:35,280
+called virtual memory and it's fist you
+
+951
+00:55:35,280 --> 00:55:36,900
+can think of it<font color="#CCCCCC"> conceptually it's just a</font>
+
+952
+00:55:36,900 --> 00:55:41,610
+big array of bytes<font color="#E5E5E5"> from over a wide</font>
+
+953
+00:55:41,610 --> 00:55:44,460
+<font color="#E5E5E5">range</font><font color="#CCCCCC"> of addresses</font><font color="#E5E5E5"> physically what</font>
+
+954
+00:55:44,460 --> 00:55:47,070
+happens<font color="#CCCCCC"> is the combination</font><font color="#E5E5E5"> of hardware</font>
+
+955
+00:55:47,070 --> 00:55:51,240
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> soft</font><font color="#E5E5E5"> system software makes that</font>
+
+956
+00:55:51,240 --> 00:55:54,060
+virtual memory<font color="#CCCCCC"> real by using some</font>
+
+957
+00:55:54,060 --> 00:55:59,280
+<font color="#CCCCCC">combination of of caches of actual DRAM</font>
+
+958
+00:55:59,280 --> 00:56:02,790
+on<font color="#E5E5E5"> typical</font><font color="#CCCCCC"> machine or and</font><font color="#E5E5E5"> even on the</font>
+
+959
+00:56:02,790 --> 00:56:06,900
+<font color="#CCCCCC">disks or solid-state drives that built</font>
+
+960
+00:56:06,900 --> 00:56:08,310
+into<font color="#CCCCCC"> your</font><font color="#E5E5E5"> machine</font><font color="#CCCCCC"> or even over the</font>
+
+961
+00:56:08,310 --> 00:56:11,130
+<font color="#E5E5E5">network potentially so instead</font><font color="#CCCCCC"> of</font>
+
+962
+00:56:11,130 --> 00:56:14,910
+providing that<font color="#CCCCCC"> memory and swapping</font><font color="#E5E5E5"> it in</font>
+
+963
+00:56:14,910 --> 00:56:17,010
+and trying<font color="#E5E5E5"> to make it look like it's all</font>
+
+964
+00:56:17,010 --> 00:56:21,810
+really<font color="#E5E5E5"> there even if it</font><font color="#CCCCCC"> isn't so anyways</font>
+
+965
+00:56:21,810 --> 00:56:24,270
+<font color="#E5E5E5">but from a</font><font color="#CCCCCC"> machine level</font><font color="#E5E5E5"> programming</font><font color="#CCCCCC"> we</font>
+
+966
+00:56:24,270 --> 00:56:25,980
+don't<font color="#E5E5E5"> think</font><font color="#CCCCCC"> about all that memory</font>
+
+967
+00:56:25,980 --> 00:56:27,600
+hierarchy we just<font color="#E5E5E5"> think of it as in</font>
+
+968
+00:56:27,600 --> 00:56:29,610
+<font color="#CCCCCC">terms of virtual</font><font color="#E5E5E5"> memory so you can just</font>
+
+969
+00:56:29,610 --> 00:56:32,240
+think<font color="#CCCCCC"> of</font><font color="#E5E5E5"> it as a big array of</font><font color="#CCCCCC"> buttons</font>
+
+970
+00:56:32,240 --> 00:56:36,420
+and<font color="#E5E5E5"> in fact when you're running</font><font color="#CCCCCC"> multiple</font>
+
+971
+00:56:36,420 --> 00:56:39,570
+<font color="#CCCCCC">programs on the machine on</font><font color="#E5E5E5"> the same</font>
+
+972
+00:56:39,570 --> 00:56:41,370
+machine<font color="#CCCCCC"> they each have</font><font color="#E5E5E5"> their own</font>
+
+973
+00:56:41,370 --> 00:56:44,400
+<font color="#E5E5E5">separate collection range of virtual</font>
+
+974
+00:56:44,400 --> 00:56:47,160
+addresses<font color="#E5E5E5"> and what that means is if</font>
+
+975
+00:56:47,160 --> 00:56:49,970
+you're running<font color="#CCCCCC"> multiple programs</font><font color="#E5E5E5"> and</font>
+
+976
+00:56:49,970 --> 00:56:54,140
+actually<font color="#CCCCCC"> buy one won't directly</font><font color="#E5E5E5"> affect</font>
+
+977
+00:56:54,140 --> 00:56:56,670
+<font color="#CCCCCC">the behavior of another</font><font color="#E5E5E5"> and that's a</font>
+
+978
+00:56:56,670 --> 00:56:58,940
+good<font color="#CCCCCC"> thing because if if one program</font>
+
+979
+00:56:58,940 --> 00:57:01,590
+misbehaves it's kind of<font color="#CCCCCC"> got a bug it</font>
+
+980
+00:57:01,590 --> 00:57:03,720
+can't make<font color="#CCCCCC"> but the rest of the programs</font>
+
+981
+00:57:03,720 --> 00:57:06,330
+<font color="#CCCCCC">crash by just doing all right</font><font color="#E5E5E5"> to some</font>
+
+982
+00:57:06,330 --> 00:57:09,390
+memory<font color="#E5E5E5"> location so that's sometimes</font>
+
+983
+00:57:09,390 --> 00:57:12,150
+<font color="#E5E5E5">referred</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> as a process when you</font>
+
+984
+00:57:12,150 --> 00:57:15,510
+<font color="#E5E5E5">have the processes the execution of a</font>
+
+985
+00:57:15,510 --> 00:57:15,990
+program
+
+986
+00:57:15,990 --> 00:57:18,960
+<font color="#E5E5E5">on a machine</font><font color="#CCCCCC"> and you can have one</font>
+
+987
+00:57:18,960 --> 00:57:21,990
+program<font color="#CCCCCC"> that's that which there's</font>
+
+988
+00:57:21,990 --> 00:57:23,940
+multiple processes running<font color="#E5E5E5"> that same</font>
+
+989
+00:57:23,940 --> 00:57:27,330
+program<font color="#E5E5E5"> so each process and each</font>
+
+990
+00:57:27,330 --> 00:57:29,460
+executing program has its own<font color="#E5E5E5"> virtual</font>
+
+991
+00:57:29,460 --> 00:57:34,230
+address space<font color="#E5E5E5"> and you'll often hear</font>
+
+992
+00:57:34,230 --> 00:57:36,360
+<font color="#CCCCCC">people talk about word size as I</font>
+
+993
+00:57:36,360 --> 00:57:39,000
+mentioned in<font color="#E5E5E5"> the first class</font><font color="#CCCCCC"> there's</font><font color="#E5E5E5"> no</font>
+
+994
+00:57:39,000 --> 00:57:41,730
+real solid<font color="#CCCCCC"> definition of what the word</font>
+
+995
+00:57:41,730 --> 00:57:45,240
+<font color="#CCCCCC">is on</font><font color="#E5E5E5"> a machine</font><font color="#CCCCCC"> we</font><font color="#E5E5E5"> talk about 32-bit</font>
+
+996
+00:57:45,240 --> 00:57:49,080
+<font color="#E5E5E5">machines and 64-bit machines but most</font>
+
+997
+00:57:49,080 --> 00:57:52,380
+machines<font color="#E5E5E5"> that your laptops your phones</font>
+
+998
+00:57:52,380 --> 00:57:56,760
+<font color="#E5E5E5">and most desktop machines</font><font color="#CCCCCC"> nowadays are</font>
+
+999
+00:57:56,760 --> 00:57:59,970
+actually can run<font color="#E5E5E5"> code either compiled</font>
+
+1000
+00:57:59,970 --> 00:58:04,620
+for 32-bit execution or for 64-bit
+
+1001
+00:58:04,620 --> 00:58:06,300
+execution<font color="#E5E5E5"> so it's really a combination</font>
+
+1002
+00:58:06,300 --> 00:58:09,230
+<font color="#E5E5E5">of the hardware and</font><font color="#CCCCCC"> the compiled code</font>
+
+1003
+00:58:09,230 --> 00:58:12,990
+<font color="#CCCCCC">that defines what word sizes but in</font>
+
+1004
+00:58:12,990 --> 00:58:15,320
+<font color="#E5E5E5">general</font><font color="#CCCCCC"> for a machine</font><font color="#E5E5E5"> the sort of</font>
+
+1005
+00:58:15,320 --> 00:58:18,960
+broadest concept of a word is how big
+
+1006
+00:58:18,960 --> 00:58:22,920
+are the<font color="#CCCCCC"> addresses in that machine so and</font>
+
+1007
+00:58:22,920 --> 00:58:25,020
+as I mentioned<font color="#E5E5E5"> that can actually depend</font>
+
+1008
+00:58:25,020 --> 00:58:27,510
+on the mode<font color="#E5E5E5"> of the program the machine</font>
+
+1009
+00:58:27,510 --> 00:58:31,380
+is executed so a 32-bit machine<font color="#E5E5E5"> means</font>
+
+1010
+00:58:31,380 --> 00:58:34,680
+that its largest addresses to the<font color="#E5E5E5"> 31 is</font>
+
+1011
+00:58:34,680 --> 00:58:37,590
+32 minus 1 and that's roughly<font color="#E5E5E5"> 4</font>
+
+1012
+00:58:37,590 --> 00:58:42,990
+gigabytes<font color="#E5E5E5"> the</font><font color="#CCCCCC"> Machine set even</font><font color="#E5E5E5"> phones</font>
+
+1013
+00:58:42,990 --> 00:58:45,710
+nowadays<font color="#E5E5E5"> are mostly running 64-bit</font>
+
+1014
+00:58:45,710 --> 00:58:48,450
+<font color="#E5E5E5">processors and what that means is in</font>
+
+1015
+00:58:48,450 --> 00:58:51,510
+principle<font color="#CCCCCC"> an address can be as many 64</font>
+
+1016
+00:58:51,510 --> 00:58:54,000
+bits and that would give you an<font color="#CCCCCC"> address</font>
+
+1017
+00:58:54,000 --> 00:59:00,300
+range of something bigger<font color="#E5E5E5"> like 10 to the</font>
+
+1018
+00:59:00,300 --> 00:59:03,810
+19th bytes which is a lot of bytes by
+
+1019
+00:59:03,810 --> 00:59:07,320
+the way an exabyte<font color="#E5E5E5"> so you think of the</font>
+
+1020
+00:59:07,320 --> 00:59:09,390
+biggest<font color="#E5E5E5"> disk drive you can buy nowadays</font>
+
+1021
+00:59:09,390 --> 00:59:14,220
+<font color="#E5E5E5">is I don't know 8</font><font color="#CCCCCC"> terabytes or</font><font color="#E5E5E5"> maybe</font>
+
+1022
+00:59:14,220 --> 00:59:18,780
+bigger<font color="#E5E5E5"> but that's still a thousand times</font>
+
+1023
+00:59:18,780 --> 00:59:22,350
+smaller<font color="#E5E5E5"> than</font><font color="#CCCCCC"> addressable range so to</font>
+
+1024
+00:59:22,350 --> 00:59:24,800
+<font color="#E5E5E5">really support a full 64 bit</font>
+
+1025
+00:59:24,800 --> 00:59:26,720
+memory space<font color="#CCCCCC"> he made a machine would</font><font color="#E5E5E5"> say</font>
+
+1026
+00:59:26,720 --> 00:59:29,270
+a thousand disk drives<font color="#CCCCCC"> just even have</font>
+
+1027
+00:59:29,270 --> 00:59:33,230
+<font color="#E5E5E5">that many bits of memories somewhere so</font>
+
+1028
+00:59:33,230 --> 00:59:36,050
+what happens is on on<font color="#E5E5E5"> the machines that</font>
+
+1029
+00:59:36,050 --> 00:59:37,730
+<font color="#E5E5E5">they actually don't today the hardware</font>
+
+1030
+00:59:37,730 --> 00:59:41,300
+<font color="#E5E5E5">it's not only 64-bit addresses but they</font>
+
+1031
+00:59:41,300 --> 00:59:43,460
+only<font color="#CCCCCC"> like to use the first 48</font><font color="#E5E5E5"> of those</font>
+
+1032
+00:59:43,460 --> 00:59:47,930
+<font color="#E5E5E5">and so they don't really support to</font>
+
+1033
+00:59:47,930 --> 00:59:51,950
+<font color="#E5E5E5">64-bit execution anyways the point</font><font color="#CCCCCC"> being</font>
+
+1034
+00:59:51,950 --> 00:59:55,010
+that depending on how<font color="#CCCCCC"> big your words are</font>
+
+1035
+00:59:55,010 --> 00:59:57,620
+that defines how many bytes of memory
+
+1036
+00:59:57,620 --> 01:00:01,490
+you can address and the general<font color="#CCCCCC"> rule</font>
+
+1037
+01:00:01,490 --> 01:00:04,670
+then is if I have a multi byte quantity
+
+1038
+01:00:04,670 --> 01:00:07,490
+what's its address what's defined<font color="#E5E5E5"> to be</font>
+
+1039
+01:00:07,490 --> 01:00:12,320
+<font color="#E5E5E5">the lowest numbered byte in in in its</font>
+
+1040
+01:00:12,320 --> 01:00:14,990
+<font color="#E5E5E5">collection of</font><font color="#CCCCCC"> four bytes so will</font>
+
+1041
+01:00:14,990 --> 01:00:20,270
+represent a<font color="#E5E5E5"> a 32 bit quantity is 4 bytes</font>
+
+1042
+01:00:20,270 --> 01:00:23,990
+and the address of that<font color="#E5E5E5"> 32 bit quantity</font>
+
+1043
+01:00:23,990 --> 01:00:27,350
+will be the that we significant or not
+
+1044
+01:00:27,350 --> 01:00:29,090
+<font color="#CCCCCC">the leasing of the byte with the lowest</font>
+
+1045
+01:00:29,090 --> 01:00:32,210
+number to dress and similarly<font color="#E5E5E5"> for other</font>
+
+1046
+01:00:32,210 --> 01:00:38,240
+<font color="#CCCCCC">senses and as I mentioned last</font><font color="#E5E5E5"> for some</font>
+
+1047
+01:00:38,240 --> 01:00:39,800
+previous<font color="#E5E5E5"> lecture we've seen this slide</font>
+
+1048
+01:00:39,800 --> 01:00:42,170
+before that depending<font color="#E5E5E5"> on whether you're</font>
+
+1049
+01:00:42,170 --> 01:00:44,870
+executing<font color="#CCCCCC"> a 32-bit program or a</font><font color="#E5E5E5"> 64-bit</font>
+
+1050
+01:00:44,870 --> 01:00:47,180
+program<font color="#E5E5E5"> some of</font><font color="#CCCCCC"> the data types will</font>
+
+1051
+01:00:47,180 --> 01:00:49,580
+change and particularly<font color="#E5E5E5"> a pointer an</font>
+
+1052
+01:00:49,580 --> 01:00:52,160
+address will change<font color="#CCCCCC"> between being a four</font>
+
+1053
+01:00:52,160 --> 01:00:55,970
+byte quantity or an eight by quantity so
+
+1054
+01:00:55,970 --> 01:00:59,390
+there's one thing that's<font color="#E5E5E5"> left here is if</font>
+
+1055
+01:00:59,390 --> 01:01:02,780
+I have multiple bytes representing a
+
+1056
+01:01:02,780 --> 01:01:06,070
+value what order should<font color="#E5E5E5"> they be</font>
+
+1057
+01:01:06,070 --> 01:01:08,210
+<font color="#E5E5E5">interpretive to the addresses and</font>
+
+1058
+01:01:08,210 --> 01:01:11,170
+there's two obvious conventions one is
+
+1059
+01:01:11,170 --> 01:01:13,730
+you put them in from least significant
+
+1060
+01:01:13,730 --> 01:01:15,920
+to both and the other is<font color="#E5E5E5"> from most to</font>
+
+1061
+01:01:15,920 --> 01:01:18,800
+least<font color="#E5E5E5"> and as you can imagine in any case</font>
+
+1062
+01:01:18,800 --> 01:01:23,870
+where there's a choice<font color="#E5E5E5"> where then some</font>
+
+1063
+01:01:23,870 --> 01:01:25,220
+<font color="#E5E5E5">people choose one way and some</font><font color="#CCCCCC"> people</font>
+
+1064
+01:01:25,220 --> 01:01:28,160
+<font color="#E5E5E5">choose the other and so that's sometimes</font>
+
+1065
+01:01:28,160 --> 01:01:31,840
+referred<font color="#CCCCCC"> to</font><font color="#E5E5E5"> as</font><font color="#CCCCCC"> the byte ordering and</font>
+
+1066
+01:01:31,840 --> 01:01:34,970
+it's<font color="#E5E5E5"> commonly</font><font color="#CCCCCC"> called big endian</font><font color="#E5E5E5"> vs.</font>
+
+1067
+01:01:34,970 --> 01:01:37,550
+<font color="#E5E5E5">little endian byte ordering and that's a</font>
+
+1068
+01:01:37,550 --> 01:01:38,180
+term
+
+1069
+01:01:38,180 --> 01:01:42,620
+that goes back<font color="#CCCCCC"> to the book Gulliver's</font>
+
+1070
+01:01:42,620 --> 01:01:45,080
+Travels<font color="#CCCCCC"> even though that was written</font>
+
+1071
+01:01:45,080 --> 01:01:47,510
+long<font color="#E5E5E5"> before there were bytes to store in</font>
+
+1072
+01:01:47,510 --> 01:01:51,410
+a computer<font color="#CCCCCC"> and there was a fellow who</font>
+
+1073
+01:01:51,410 --> 01:01:54,830
+wrote<font color="#E5E5E5"> a kind</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> amusing tale about how</font>
+
+1074
+01:01:54,830 --> 01:01:56,450
+<font color="#E5E5E5">people were</font><font color="#CCCCCC"> fighting about</font><font color="#E5E5E5"> this byte</font>
+
+1075
+01:01:56,450 --> 01:01:59,450
+ordering the way<font color="#E5E5E5"> the characters in this</font>
+
+1076
+01:01:59,450 --> 01:02:01,490
+book had fought over which end of a egg
+
+1077
+01:02:01,490 --> 01:02:05,870
+should you<font color="#CCCCCC"> opened anyways</font><font color="#E5E5E5"> nowadays it</font>
+
+1078
+01:02:05,870 --> 01:02:08,450
+turns out that you're gonna live<font color="#CCCCCC"> in a</font>
+
+1079
+01:02:08,450 --> 01:02:11,200
+little<font color="#CCCCCC"> Indian world</font><font color="#E5E5E5"> if it's an x86</font>
+
+1080
+01:02:11,200 --> 01:02:14,420
+hardware and that remember that applies
+
+1081
+01:02:14,420 --> 01:02:23,510
+to<font color="#E5E5E5"> Windows</font><font color="#CCCCCC"> OS X</font><font color="#E5E5E5"> and to Linux it's gonna</font>
+
+1082
+01:02:23,510 --> 01:02:28,040
+be<font color="#E5E5E5"> little</font><font color="#CCCCCC"> endian</font><font color="#E5E5E5"> an ARM processor like</font>
+
+1083
+01:02:28,040 --> 01:02:30,740
+as in most<font color="#E5E5E5"> earphones can actually run</font>
+
+1084
+01:02:30,740 --> 01:02:32,750
+<font color="#CCCCCC">and eat the hardware can</font><font color="#E5E5E5"> run with either</font>
+
+1085
+01:02:32,750 --> 01:02:34,340
+byte ordering but when you're<font color="#E5E5E5"> running</font>
+
+1086
+01:02:34,340 --> 01:02:37,070
+any of the common<font color="#E5E5E5"> operating systems it</font>
+
+1087
+01:02:37,070 --> 01:02:40,070
+will be<font color="#E5E5E5"> little endian ordering so little</font>
+
+1088
+01:02:40,070 --> 01:02:41,930
+<font color="#E5E5E5">endian means that the least significant</font>
+
+1089
+01:02:41,930 --> 01:02:46,370
+bites come first<font color="#E5E5E5"> and there's a few</font>
+
+1090
+01:02:46,370 --> 01:02:48,500
+<font color="#E5E5E5">machines that you're less likely to</font>
+
+1091
+01:02:48,500 --> 01:02:53,600
+encounter that<font color="#E5E5E5"> are big endian</font><font color="#CCCCCC"> but one of</font>
+
+1092
+01:02:53,600 --> 01:02:55,400
+the annoying<font color="#CCCCCC"> things some reason when</font>
+
+1093
+01:02:55,400 --> 01:02:57,020
+they're<font color="#CCCCCC"> designing the internet protocols</font>
+
+1094
+01:02:57,020 --> 01:03:01,280
+they said whoever<font color="#E5E5E5"> was in charge said I</font>
+
+1095
+01:03:01,280 --> 01:03:04,520
+want big endian than they did<font color="#E5E5E5"> it so when</font>
+
+1096
+01:03:04,520 --> 01:03:06,830
+you send packets<font color="#E5E5E5"> over the</font><font color="#CCCCCC"> internet what</font>
+
+1097
+01:03:06,830 --> 01:03:08,480
+has to happen and<font color="#E5E5E5"> you'll see that when</font>
+
+1098
+01:03:08,480 --> 01:03:10,280
+<font color="#E5E5E5">you write this code you have to use</font>
+
+1099
+01:03:10,280 --> 01:03:13,400
+special functions to<font color="#CCCCCC"> convert the byte</font>
+
+1100
+01:03:13,400 --> 01:03:16,160
+ordering<font color="#E5E5E5"> going out to the network</font><font color="#CCCCCC"> and</font>
+
+1101
+01:03:16,160 --> 01:03:21,530
+coming back in so what do I mean<font color="#CCCCCC"> by this</font>
+
+1102
+01:03:21,530 --> 01:03:25,280
+<font color="#CCCCCC">so again assume we had a value that we</font>
+
+1103
+01:03:25,280 --> 01:03:33,200
+wrote in hex<font color="#E5E5E5"> a 1 2 3 4 byte value which</font>
+
+1104
+01:03:33,200 --> 01:03:36,100
+we'd write when<font color="#CCCCCC"> we write it of</font><font color="#E5E5E5"> course</font>
+
+1105
+01:03:36,100 --> 01:03:38,930
+like up above we put the most
+
+1106
+01:03:38,930 --> 01:03:40,790
+significant byte on the left and the
+
+1107
+01:03:40,790 --> 01:03:45,050
+least significant byte<font color="#CCCCCC"> on the right but</font>
+
+1108
+01:03:45,050 --> 01:03:47,420
+now when<font color="#CCCCCC"> we go that into memory</font><font color="#E5E5E5"> will see</font>
+
+1109
+01:03:47,420 --> 01:03:51,230
+that in<font color="#E5E5E5"> big endian order if we read from</font>
+
+1110
+01:03:51,230 --> 01:03:51,790
+left
+
+1111
+01:03:51,790 --> 01:03:56,050
+<font color="#CCCCCC">it looks the same</font><font color="#E5E5E5"> because</font><font color="#CCCCCC"> the most</font>
+
+1112
+01:03:56,050 --> 01:03:57,640
+significant the<font color="#E5E5E5"> least significant byte</font>
+
+1113
+01:03:57,640 --> 01:03:59,350
+is at the highest address the most
+
+1114
+01:03:59,350 --> 01:04:01,440
+significant is that<font color="#CCCCCC"> the lowest</font><font color="#E5E5E5"> address</font>
+
+1115
+01:04:01,440 --> 01:04:03,580
+but if we write it in<font color="#E5E5E5"> little-endian</font>
+
+1116
+01:04:03,580 --> 01:04:07,260
+ordering and appears<font color="#E5E5E5"> to be reversed</font><font color="#CCCCCC"> I</font>
+
+1117
+01:04:07,260 --> 01:04:09,760
+remember these conventions of how you
+
+1118
+01:04:09,760 --> 01:04:11,980
+read things<font color="#E5E5E5"> list things left to right is</font>
+
+1119
+01:04:11,980 --> 01:04:15,460
+just<font color="#E5E5E5"> a convention</font><font color="#CCCCCC"> that's not really the</font>
+
+1120
+01:04:15,460 --> 01:04:18,340
+point being the address<font color="#E5E5E5"> the lowest</font>
+
+1121
+01:04:18,340 --> 01:04:21,520
+numbered address has either the<font color="#E5E5E5"> most</font>
+
+1122
+01:04:21,520 --> 01:04:23,080
+significant byte or the least
+
+1123
+01:04:23,080 --> 01:04:26,710
+significant byte<font color="#E5E5E5"> but we'll find in the</font>
+
+1124
+01:04:26,710 --> 01:04:28,450
+real world<font color="#CCCCCC"> since we're going to</font><font color="#E5E5E5"> live in</font>
+
+1125
+01:04:28,450 --> 01:04:31,530
+a<font color="#E5E5E5"> little Indian world most in time that</font>
+
+1126
+01:04:31,530 --> 01:04:33,730
+we're often<font color="#E5E5E5"> looking at things written</font>
+
+1127
+01:04:33,730 --> 01:04:37,200
+<font color="#E5E5E5">backwards with the byte</font><font color="#CCCCCC"> order</font><font color="#E5E5E5"> reversed</font>
+
+1128
+01:04:37,200 --> 01:04:40,420
+<font color="#E5E5E5">so there used to be machines actually on</font>
+
+1129
+01:04:40,420 --> 01:04:42,700
+campus<font color="#CCCCCC"> made by a company</font><font color="#E5E5E5"> called Sun</font>
+
+1130
+01:04:42,700 --> 01:04:45,640
+Microsystems<font color="#E5E5E5"> which was later acquired by</font>
+
+1131
+01:04:45,640 --> 01:04:48,280
+<font color="#E5E5E5">Oracle and they're still making these</font>
+
+1132
+01:04:48,280 --> 01:04:52,300
+machines but they're<font color="#CCCCCC"> not</font><font color="#E5E5E5"> very common</font><font color="#CCCCCC"> at</font>
+
+1133
+01:04:52,300 --> 01:04:56,820
+<font color="#E5E5E5">least sort of outside of the world of</font>
+
+1134
+01:04:56,820 --> 01:05:01,750
+database machines<font color="#E5E5E5"> but so I could</font>
+
+1135
+01:05:01,750 --> 01:05:04,740
+actually run<font color="#E5E5E5"> these experiments and see</font>
+
+1136
+01:05:04,740 --> 01:05:08,710
+<font color="#E5E5E5">you know</font><font color="#CCCCCC"> their verify what order you get</font>
+
+1137
+01:05:08,710 --> 01:05:11,380
+<font color="#E5E5E5">when you</font><font color="#CCCCCC"> listed various numbers in</font>
+
+1138
+01:05:11,380 --> 01:05:12,970
+ascending order
+
+1139
+01:05:12,970 --> 01:05:18,760
+and so if 15 to 13 has a hex
+
+1140
+01:05:18,760 --> 01:05:22,870
+representation<font color="#CCCCCC"> freebie 16 on an x86</font>
+
+1141
+01:05:22,870 --> 01:05:25,300
+machine you'll see that we significant
+
+1142
+01:05:25,300 --> 01:05:28,570
+<font color="#E5E5E5">bytes is 60</font><font color="#CCCCCC"> and then the next one is</font><font color="#E5E5E5"> 3b</font>
+
+1143
+01:05:28,570 --> 01:05:31,060
+<font color="#CCCCCC">and then it's</font><font color="#E5E5E5"> two</font><font color="#CCCCCC"> zeros</font><font color="#E5E5E5"> and on one of</font>
+
+1144
+01:05:31,060 --> 01:05:32,740
+<font color="#CCCCCC">these Sun machines you'd</font><font color="#E5E5E5"> see it reversed</font>
+
+1145
+01:05:32,740 --> 01:05:39,010
+order and on a 64-bit<font color="#CCCCCC"> machine</font><font color="#E5E5E5"> would</font><font color="#CCCCCC"> be</font>
+
+1146
+01:05:39,010 --> 01:05:44,040
+in a little endian machine<font color="#E5E5E5"> by the</font><font color="#CCCCCC"> 8 byte</font>
+
+1147
+01:05:44,040 --> 01:05:47,280
+for a long
+
+1148
+01:05:51,160 --> 01:05:55,309
+and you can actually<font color="#E5E5E5"> write code and</font>
+
+1149
+01:05:55,309 --> 01:05:58,750
+there's code<font color="#CCCCCC"> actually included</font><font color="#E5E5E5"> in the</font>
+
+1150
+01:05:58,750 --> 01:06:02,359
+code<font color="#CCCCCC"> for today's</font><font color="#E5E5E5"> lecture that lets you</font>
+
+1151
+01:06:02,359 --> 01:06:03,770
+sort<font color="#E5E5E5"> of print out the byte</font>
+
+1152
+01:06:03,770 --> 01:06:06,339
+representation of<font color="#E5E5E5"> different data types</font>
+
+1153
+01:06:06,339 --> 01:06:09,050
+<font color="#CCCCCC">by just sort of walking through them one</font>
+
+1154
+01:06:09,050 --> 01:06:10,930
+button at a time and printing<font color="#E5E5E5"> out each</font>
+
+1155
+01:06:10,930 --> 01:06:17,839
+byte value and you can<font color="#CCCCCC"> run it on</font><font color="#E5E5E5"> on</font>
+
+1156
+01:06:17,839 --> 01:06:21,859
+<font color="#CCCCCC">various different things</font><font color="#E5E5E5"> and get numbers</font>
+
+1157
+01:06:21,859 --> 01:06:24,619
+like this is 15 to 13 printed on a Linux
+
+1158
+01:06:24,619 --> 01:06:27,290
+<font color="#CCCCCC">machine and you'll see it's a little</font>
+
+1159
+01:06:27,290 --> 01:06:29,300
+endian machine<font color="#CCCCCC"> unfortunately I don't</font>
+
+1160
+01:06:29,300 --> 01:06:32,300
+<font color="#E5E5E5">know any machines on</font><font color="#CCCCCC"> campus that at</font>
+
+1161
+01:06:32,300 --> 01:06:35,329
+least I have an account<font color="#E5E5E5"> on that</font><font color="#CCCCCC"> it's a</font>
+
+1162
+01:06:35,329 --> 01:06:37,790
+big endian machine<font color="#E5E5E5"> there might be</font>
+
+1163
+01:06:37,790 --> 01:06:39,619
+<font color="#E5E5E5">somewhere in the accounting department</font>
+
+1164
+01:06:39,619 --> 01:06:46,040
+<font color="#E5E5E5">but not</font><font color="#CCCCCC"> and I don't</font><font color="#E5E5E5"> think even there and</font>
+
+1165
+01:06:46,040 --> 01:06:49,190
+<font color="#E5E5E5">another point that this slide makes his</font>
+
+1166
+01:06:49,190 --> 01:06:53,780
+<font color="#E5E5E5">pointers are simply addresses they're</font>
+
+1167
+01:06:53,780 --> 01:06:55,819
+just you can think<font color="#E5E5E5"> of it as an index</font>
+
+1168
+01:06:55,819 --> 01:06:58,569
+into<font color="#E5E5E5"> this array of the virtual memory</font>
+
+1169
+01:06:58,569 --> 01:07:01,339
+<font color="#E5E5E5">but where they're located where</font>
+
+1170
+01:07:01,339 --> 01:07:04,010
+particular dress is located depends<font color="#E5E5E5"> on</font>
+
+1171
+01:07:04,010 --> 01:07:06,530
+the<font color="#CCCCCC"> Machine the operating system the</font>
+
+1172
+01:07:06,530 --> 01:07:09,619
+compiler a bunch of different things<font color="#CCCCCC"> and</font>
+
+1173
+01:07:09,619 --> 01:07:12,200
+so from one<font color="#E5E5E5"> machine one execution to</font>
+
+1174
+01:07:12,200 --> 01:07:13,000
+another
+
+1175
+01:07:13,000 --> 01:07:15,500
+pointers might change values they don't
+
+1176
+01:07:15,500 --> 01:07:19,270
+have any sort<font color="#E5E5E5"> of uniform representation</font>
+
+1177
+01:07:19,270 --> 01:07:22,819
+us and then another important<font color="#E5E5E5"> part is</font>
+
+1178
+01:07:22,819 --> 01:07:26,150
+strings at least<font color="#CCCCCC"> in C are always</font>
+
+1179
+01:07:26,150 --> 01:07:30,680
+<font color="#CCCCCC">represented by just a sequence of single</font>
+
+1180
+01:07:30,680 --> 01:07:34,010
+byte values in the<font color="#CCCCCC"> so-called</font><font color="#E5E5E5"> ASCII</font>
+
+1181
+01:07:34,010 --> 01:07:37,520
+<font color="#CCCCCC">format where the</font><font color="#E5E5E5"> final bite then is</font><font color="#CCCCCC"> zero</font>
+
+1182
+01:07:37,520 --> 01:07:39,920
+<font color="#E5E5E5">and that's completely independent</font><font color="#CCCCCC"> of</font>
+
+1183
+01:07:39,920 --> 01:07:43,069
+byte ordering<font color="#E5E5E5"> because it's a on a byte</font>
+
+1184
+01:07:43,069 --> 01:07:45,920
+by byte<font color="#E5E5E5"> basis so in fact when you're</font>
+
+1185
+01:07:45,920 --> 01:07:48,530
+writing software that that has<font color="#CCCCCC"> to be</font>
+
+1186
+01:07:48,530 --> 01:07:50,660
+compatible<font color="#E5E5E5"> across machines one thing</font>
+
+1187
+01:07:50,660 --> 01:07:55,069
+people<font color="#CCCCCC"> often do is instead of encoding</font>
+
+1188
+01:07:55,069 --> 01:07:57,260
+numbers in binary<font color="#E5E5E5"> and worrying about</font>
+
+1189
+01:07:57,260 --> 01:08:02,030
+byte<font color="#E5E5E5"> ordering they encode them as</font>
+
+1190
+01:08:02,030 --> 01:08:05,420
+you know<font color="#CCCCCC"> numerix</font><font color="#E5E5E5"> as strings</font><font color="#CCCCCC"> send a</font>
+
+1191
+01:08:05,420 --> 01:08:09,470
+string<font color="#E5E5E5"> convert back to</font><font color="#CCCCCC"> a numeric</font>
+
+1192
+01:08:09,470 --> 01:08:14,660
+representation so for<font color="#E5E5E5"> example one of the</font>
+
+1193
+01:08:14,660 --> 01:08:16,160
+<font color="#E5E5E5">things you'll start</font><font color="#CCCCCC"> doing in the</font><font color="#E5E5E5"> next</font>
+
+1194
+01:08:16,160 --> 01:08:19,600
+<font color="#E5E5E5">wave is</font><font color="#CCCCCC"> will staring at a lot of</font>
+
+1195
+01:08:19,600 --> 01:08:22,880
+disassembled code<font color="#CCCCCC"> its assembly</font><font color="#E5E5E5"> it's</font>
+
+1196
+01:08:22,880 --> 01:08:25,029
+really machine code written in a
+
+1197
+01:08:25,029 --> 01:08:28,219
+somewhat human readable format and
+
+1198
+01:08:28,219 --> 01:08:32,270
+you'll see<font color="#E5E5E5"> you know x86 machine that all</font>
+
+1199
+01:08:32,270 --> 01:08:34,029
+the<font color="#E5E5E5"> numbers are written</font>
+
+1200
+01:08:34,029 --> 01:08:37,160
+apparently backwards<font color="#E5E5E5"> and it's annoying</font>
+
+1201
+01:08:37,160 --> 01:08:39,738
+<font color="#E5E5E5">because it's not really backwards</font><font color="#CCCCCC"> it's</font>
+
+1202
+01:08:39,738 --> 01:08:42,830
+sort of a backwards<font color="#E5E5E5"> on of with pairs of</font>
+
+1203
+01:08:42,830 --> 01:08:48,730
+hex digits<font color="#E5E5E5"> so</font><font color="#CCCCCC"> one</font><font color="#E5E5E5"> to a B becomes a b12</font>
+
+1204
+01:08:50,170 --> 01:08:54,790
+<font color="#E5E5E5">okay let's just</font><font color="#CCCCCC"> finish up</font><font color="#E5E5E5"> with</font><font color="#CCCCCC"> a not</font>
+
+1205
+01:08:54,790 --> 01:08:58,939
+<font color="#E5E5E5">online quiz without just some questions</font>
+
+1206
+01:08:58,939 --> 01:09:01,819
+and again these<font color="#E5E5E5"> are first of all really</font>
+
+1207
+01:09:01,819 --> 01:09:04,700
+<font color="#E5E5E5">great exam problems but also good ways</font>
+
+1208
+01:09:04,700 --> 01:09:06,229
+<font color="#CCCCCC">to kind</font><font color="#E5E5E5"> of make you think through</font><font color="#CCCCCC"> the</font>
+
+1209
+01:09:06,229 --> 01:09:10,549
+implications of some of these ideas in a
+
+1210
+01:09:10,549 --> 01:09:12,560
+lot<font color="#E5E5E5"> of this we've all we've sort of</font>
+
+1211
+01:09:12,560 --> 01:09:16,969
+looked at in various<font color="#E5E5E5"> forms so and</font><font color="#CCCCCC"> the</font>
+
+1212
+01:09:16,969 --> 01:09:20,569
+<font color="#E5E5E5">answer to these is either</font><font color="#CCCCCC"> yes it's true</font>
+
+1213
+01:09:20,569 --> 01:09:24,170
+or no there's at least one case<font color="#E5E5E5"> one</font>
+
+1214
+01:09:24,170 --> 01:09:26,029
+value of x<font color="#E5E5E5"> for which this</font><font color="#CCCCCC"> is not</font><font color="#E5E5E5"> true</font>
+
+1215
+01:09:26,029 --> 01:09:30,109
+<font color="#E5E5E5">and in the latter case it's good to be</font>
+
+1216
+01:09:30,109 --> 01:09:32,870
+able to<font color="#E5E5E5"> give an example</font><font color="#CCCCCC"> so if X is</font><font color="#E5E5E5"> less</font>
+
+1217
+01:09:32,870 --> 01:09:37,569
+<font color="#CCCCCC">than</font><font color="#E5E5E5"> 0 is 2 X less than 0</font>
+
+1218
+01:09:38,319 --> 01:09:48,140
+<font color="#E5E5E5">no not x squared is x times 2 and by the</font>
+
+1219
+01:09:48,140 --> 01:09:50,359
+way as I mentioned T min is always a
+
+1220
+01:09:50,359 --> 01:09:56,510
+good counter example generators<font color="#E5E5E5"> yes yes</font>
+
+1221
+01:09:56,510 --> 01:09:58,580
+so if it depends<font color="#CCCCCC"> then the answer</font><font color="#E5E5E5"> is no</font>
+
+1222
+01:09:58,580 --> 01:10:01,000
+right
+
+1223
+01:10:01,000 --> 01:10:03,920
+and can you give me an example
+
+1224
+01:10:03,920 --> 01:10:09,290
+let's go team in that's a great<font color="#CCCCCC"> example</font>
+
+1225
+01:10:09,290 --> 01:10:14,240
+right<font color="#E5E5E5"> because team</font><font color="#CCCCCC"> n if it's one zero</font>
+
+1226
+01:10:14,240 --> 01:10:18,350
+zero zero<font color="#E5E5E5"> remember multiplying by 2 is</font>
+
+1227
+01:10:18,350 --> 01:10:22,040
+the<font color="#CCCCCC"> same as shifting it left and so I'm</font>
+
+1228
+01:10:22,040 --> 01:10:36,920
+<font color="#E5E5E5">just gonna throw</font><font color="#CCCCCC"> away that one so</font><font color="#E5E5E5"> yes</font>
+
+1229
+01:10:36,920 --> 01:10:43,130
+you're right how about<font color="#E5E5E5"> an unsigned</font>
+
+1230
+01:10:43,130 --> 01:10:47,180
+number<font color="#CCCCCC"> UX</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> assumed these is sort of</font>
+
+1231
+01:10:47,180 --> 01:10:49,580
+arbitrary<font color="#E5E5E5"> numbers is it always better</font>
+
+1232
+01:10:49,580 --> 01:10:53,770
+equal to<font color="#E5E5E5"> zero yeah</font><font color="#CCCCCC"> it's unsigned</font>
+
+1233
+01:10:53,770 --> 01:10:56,870
+okay this is getting<font color="#E5E5E5"> more obscure if I</font>
+
+1234
+01:10:56,870 --> 01:11:02,720
+and this<font color="#E5E5E5"> is a 32-bit number</font><font color="#CCCCCC"> assume so if</font>
+
+1235
+01:11:02,720 --> 01:11:07,190
+I take the end of X<font color="#E5E5E5"> and 7 and then I and</font>
+
+1236
+01:11:07,190 --> 01:11:10,340
+I see that<font color="#E5E5E5"> at 7 and I shift that number</font>
+
+1237
+01:11:10,340 --> 01:11:14,110
+left by<font color="#E5E5E5"> 30 is it going to be negative</font>
+
+1238
+01:11:14,920 --> 01:11:23,180
+<font color="#E5E5E5">what so what this</font><font color="#CCCCCC"> means if you remember</font>
+
+1239
+01:11:23,180 --> 01:11:40,400
+<font color="#CCCCCC">7 as bit representation 7 looks like</font><font color="#E5E5E5"> 1 1</font>
+
+1240
+01:11:40,400 --> 01:11:47,150
+<font color="#E5E5E5">1 right</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> X</font><font color="#CCCCCC"> + 7</font><font color="#E5E5E5"> if I get 7 out</font><font color="#CCCCCC"> of that</font>
+
+1241
+01:11:47,150 --> 01:11:50,480
+it<font color="#E5E5E5"> means all the low 3 order the low 3</font>
+
+1242
+01:11:50,480 --> 01:11:54,470
+bits of X are ones and so if I shift<font color="#E5E5E5"> it</font>
+
+1243
+01:11:54,470 --> 01:12:02,450
+left by 30 I'm guaranteed<font color="#CCCCCC"> that these 2</font>
+
+1244
+01:12:02,450 --> 01:12:05,840
+bits will become the most significant
+
+1245
+01:12:05,840 --> 01:12:11,150
+bits of that shifted result right and so
+
+1246
+01:12:11,150 --> 01:12:16,850
+this bit in<font color="#CCCCCC"> particular is a 1 and</font><font color="#E5E5E5"> so the</font>
+
+1247
+01:12:16,850 --> 01:12:17,899
+result<font color="#CCCCCC"> would</font><font color="#E5E5E5"> be</font><font color="#CCCCCC"> negative</font>
+
+1248
+01:12:17,899 --> 01:12:21,559
+so the answer to<font color="#CCCCCC"> that is yes the reason</font>
+
+1249
+01:12:21,559 --> 01:12:25,459
+why involves<font color="#E5E5E5"> a very</font><font color="#CCCCCC"> specific parts of</font>
+
+1250
+01:12:25,459 --> 01:12:30,530
+<font color="#E5E5E5">that question right is you X greater</font>
+
+1251
+01:12:30,530 --> 01:12:39,379
+than<font color="#E5E5E5"> minus 1 hmm so the answer is no but</font>
+
+1252
+01:12:39,379 --> 01:12:42,530
+it's not for<font color="#E5E5E5"> the obvious reason right so</font>
+
+1253
+01:12:42,530 --> 01:12:50,269
+what's the counter<font color="#E5E5E5"> example</font><font color="#CCCCCC"> to this so</font>
+
+1254
+01:12:50,269 --> 01:12:52,909
+what first<font color="#E5E5E5"> of all what will be anything</font>
+
+1255
+01:12:52,909 --> 01:12:54,979
+that<font color="#CCCCCC"> is not the right</font><font color="#E5E5E5"> answer that's the</font>
+
+1256
+01:12:54,979 --> 01:12:59,800
+<font color="#E5E5E5">non-intuitive</font><font color="#CCCCCC"> part yes Tmax won't work</font>
+
+1257
+01:12:59,800 --> 01:13:03,559
+but<font color="#E5E5E5"> you're getting closer you remember</font>
+
+1258
+01:13:03,559 --> 01:13:06,679
+<font color="#CCCCCC">if you X is an unsigned number so what</font>
+
+1259
+01:13:06,679 --> 01:13:09,169
+is first of<font color="#E5E5E5"> all when I do this</font>
+
+1260
+01:13:09,169 --> 01:13:10,610
+comparison<font color="#E5E5E5"> you remember from the last</font>
+
+1261
+01:13:10,610 --> 01:13:13,909
+lecture<font color="#E5E5E5"> what will what</font><font color="#CCCCCC"> will be the</font>
+
+1262
+01:13:13,909 --> 01:13:15,739
+comparison type will be<font color="#CCCCCC"> a sign</font>
+
+1263
+01:13:15,739 --> 01:13:21,249
+comparison or<font color="#CCCCCC"> Tuncer unsent very good</font>
+
+1264
+01:13:30,579 --> 01:13:34,939
+yeah yeah<font color="#E5E5E5"> well no negative</font><font color="#CCCCCC"> one is all</font>
+
+1265
+01:13:34,939 --> 01:13:38,479
+ones<font color="#CCCCCC"> they're negative one is all ones</font>
+
+1266
+01:13:38,479 --> 01:13:42,679
+which becomes<font color="#CCCCCC"> u Max and so this is</font>
+
+1267
+01:13:42,679 --> 01:13:46,189
+<font color="#E5E5E5">almost never this is this is</font><font color="#CCCCCC"> actually</font>
+
+1268
+01:13:46,189 --> 01:13:49,510
+never true for any<font color="#CCCCCC"> value of x you guys</font>
+
+1269
+01:13:49,510 --> 01:13:52,669
+<font color="#E5E5E5">but that's</font><font color="#CCCCCC"> right the thing</font><font color="#E5E5E5"> to remember</font>
+
+1270
+01:13:52,669 --> 01:13:56,389
+<font color="#E5E5E5">is</font><font color="#CCCCCC"> o</font><font color="#E5E5E5"> and unsigned assign convert them</font>
+
+1271
+01:13:56,389 --> 01:14:02,809
+both<font color="#CCCCCC"> down so if X</font><font color="#E5E5E5"> is greater than Y is</font>
+
+1272
+01:14:02,809 --> 01:14:10,699
+minus X<font color="#CCCCCC"> less than minus y what would be</font>
+
+1273
+01:14:10,699 --> 01:14:13,389
+an<font color="#E5E5E5"> example</font>
+
+1274
+01:14:18,410 --> 01:14:24,060
+of where<font color="#E5E5E5"> this is wrong it's actually</font>
+
+1275
+01:14:24,060 --> 01:14:26,340
+almost true so<font color="#E5E5E5"> you have to think of the</font>
+
+1276
+01:14:26,340 --> 01:14:29,790
+sort<font color="#E5E5E5"> of less the common case where it's</font>
+
+1277
+01:14:29,790 --> 01:14:33,150
+wrong<font color="#E5E5E5"> and what did I say about good</font>
+
+1278
+01:14:33,150 --> 01:14:37,230
+counter examples yes yes when<font color="#CCCCCC"> Y is T</font>
+
+1279
+01:14:37,230 --> 01:14:40,790
+<font color="#CCCCCC">Mendes very good because</font><font color="#E5E5E5"> when</font><font color="#CCCCCC"> Y is T</font><font color="#E5E5E5"> men</font>
+
+1280
+01:14:40,790 --> 01:14:44,790
+then<font color="#E5E5E5"> minus y wallet so</font><font color="#CCCCCC"> BT men right and</font>
+
+1281
+01:14:44,790 --> 01:14:47,490
+no number<font color="#E5E5E5"> is less</font><font color="#CCCCCC"> than that so</font><font color="#E5E5E5"> anything</font>
+
+1282
+01:14:47,490 --> 01:14:53,820
+where Y<font color="#CCCCCC"> is</font><font color="#E5E5E5"> T</font><font color="#CCCCCC"> men</font><font color="#E5E5E5"> waterfalls very good is</font>
+
+1283
+01:14:53,820 --> 01:14:56,010
+x squared<font color="#E5E5E5"> always greater equal to</font><font color="#CCCCCC"> zero</font>
+
+1284
+01:14:56,010 --> 01:14:57,540
+actually I showed<font color="#CCCCCC"> that in the</font><font color="#E5E5E5"> first</font>
+
+1285
+01:14:57,540 --> 01:15:00,570
+lecture<font color="#E5E5E5"> no 40,000 squared is not very</font>
+
+1286
+01:15:00,570 --> 01:15:03,990
+equal to<font color="#CCCCCC"> zero in general you can</font><font color="#E5E5E5"> have</font>
+
+1287
+01:15:03,990 --> 01:15:10,020
+over stories if x and y are both
+
+1288
+01:15:10,020 --> 01:15:14,760
+<font color="#E5E5E5">positive will</font><font color="#CCCCCC"> X plus y b+</font><font color="#E5E5E5"> no right</font>
+
+1289
+01:15:14,760 --> 01:15:24,240
+<font color="#E5E5E5">overflow case if X is greater</font><font color="#CCCCCC"> equal</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> 0</font>
+
+1290
+01:15:24,240 --> 01:15:28,340
+well minus<font color="#E5E5E5"> X be less than or equal 0</font>
+
+1291
+01:15:28,430 --> 01:15:34,260
+<font color="#CCCCCC">actually this one's true right</font><font color="#E5E5E5"> but if X</font>
+
+1292
+01:15:34,260 --> 01:15:36,390
+is<font color="#CCCCCC"> less than or</font><font color="#E5E5E5"> equal to 0 well minus X</font>
+
+1293
+01:15:36,390 --> 01:15:39,900
+be greater equal to<font color="#E5E5E5"> 0 what you guys are</font>
+
+1294
+01:15:39,900 --> 01:15:42,960
+<font color="#CCCCCC">catching</font><font color="#E5E5E5"> on just use your friend</font><font color="#CCCCCC"> T min</font>
+
+1295
+01:15:42,960 --> 01:15:51,710
+and you'll you'll keep going<font color="#E5E5E5"> right if I</font>
+
+1296
+01:15:51,710 --> 01:16:01,170
+this is<font color="#E5E5E5"> really obscure if I look at X</font>
+
+1297
+01:16:01,170 --> 01:16:03,690
+and minus<font color="#CCCCCC"> X and I are those together and</font>
+
+1298
+01:16:03,690 --> 01:16:06,120
+shift it right<font color="#E5E5E5"> by 31</font><font color="#CCCCCC"> well that equal</font>
+
+1299
+01:16:06,120 --> 01:16:09,770
+minus 1 this<font color="#CCCCCC"> is arithmetic shift</font>
+
+1300
+01:16:16,179 --> 01:16:25,730
+what works<font color="#CCCCCC"> routine end this actually</font>
+
+1301
+01:16:25,730 --> 01:16:28,130
+almost works<font color="#E5E5E5"> can you give me one</font><font color="#CCCCCC"> example</font>
+
+1302
+01:16:28,130 --> 01:16:30,710
+where it doesn't<font color="#E5E5E5"> work zero</font>
+
+1303
+01:16:30,710 --> 01:16:34,610
+yes this might<font color="#E5E5E5"> be a useful hint in one</font>
+
+1304
+01:16:34,610 --> 01:16:39,619
+<font color="#E5E5E5">of your puzzles</font><font color="#CCCCCC"> command is shifting</font><font color="#E5E5E5"> a</font>
+
+1305
+01:16:39,619 --> 01:16:41,869
+unsigned number right by<font color="#CCCCCC"> three the same</font>
+
+1306
+01:16:41,869 --> 01:16:49,489
+<font color="#E5E5E5">as dividing it by eight yeah right it's</font>
+
+1307
+01:16:49,489 --> 01:16:53,059
+unsigned remember that was the<font color="#CCCCCC"> point</font>
+
+1308
+01:16:53,059 --> 01:16:56,960
+<font color="#E5E5E5">unsigned you can just shift it for a</font>
+
+1309
+01:16:56,960 --> 01:17:00,440
+<font color="#CCCCCC">signed number</font><font color="#E5E5E5"> well I think the shaking</font>
+
+1310
+01:17:00,440 --> 01:17:02,090
+heads from before were for this one<font color="#CCCCCC"> no</font>
+
+1311
+01:17:02,090 --> 01:17:03,409
+because it might<font color="#CCCCCC"> round the wrong</font>
+
+1312
+01:17:03,409 --> 01:17:04,090
+<font color="#E5E5E5">direction</font>
+
+1313
+01:17:04,090 --> 01:17:11,260
+<font color="#E5E5E5">okay this</font><font color="#CCCCCC"> Yvette's</font><font color="#E5E5E5"> and the other one is</font>
+
+1314
+01:17:11,260 --> 01:17:13,969
+so anyways<font color="#CCCCCC"> very good I think</font><font color="#E5E5E5"> you're</font>
+
+1315
+01:17:13,969 --> 01:17:16,280
+<font color="#E5E5E5">catching on to this point well we'll see</font>
+
+1316
+01:17:16,280 --> 00:00:00,000
+you<font color="#E5E5E5"> next time</font>
+
